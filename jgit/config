@@ -1,0 +1,9 @@
+[filesystem "Red Hat, Inc.|11.0.12|/dev/sda9"]
+	timestampResolution = 38000 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Red Hat, Inc.|11.0.13|/dev/sda9"]
+	timestampResolution = 10000 nanoseconds
+	minRacyThreshold = 450 microseconds
+[filesystem "Red Hat, Inc.|11.0.14|/dev/sda9"]
+	timestampResolution = 75000 nanoseconds
+	minRacyThreshold = 0 nanoseconds

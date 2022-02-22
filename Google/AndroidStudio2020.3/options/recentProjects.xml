@@ -1,0 +1,105 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication">
+          <value>
+            <RecentProjectMetaInfo frameTitle="My Application" projectWorkspaceId="238dHHq9nekLFbkaOINYYT6iJc1">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-203.7717.56.2031.7935034" />
+              <option name="buildTimestamp" value="1637472921929" />
+              <frame x="10" y="39" width="1346" height="709" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1641119574203" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/first_app">
+          <value>
+            <RecentProjectMetaInfo frameTitle="first_app – main.dart" projectWorkspaceId="238gBGOrmFhpYbfky7c0vnhDGzn">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-203.7717.56.2031.7935034" />
+              <option name="buildTimestamp" value="1637472921929" />
+              <frame x="0" y="-18" width="1366" height="786" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1641121067196" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/flutter-file-download-example">
+          <value>
+            <RecentProjectMetaInfo frameTitle="flutter-file-download-example – pubspec.yaml" projectWorkspaceId="243sQ0sgiHkZD46s3ALpfGRWCHN">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-203.7717.56.2031.7935034" />
+              <option name="buildTimestamp" value="1637472941953" />
+              <frame x="0" y="-18" width="1366" height="786" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1642870584799" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/qr_code">
+          <value>
+            <RecentProjectMetaInfo frameTitle="qr_code – main.dart" projectWorkspaceId="23lfxabPlXzLmpH6DllGhFd4ygF">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-203.7717.56.2031.7935034" />
+              <option name="buildTimestamp" value="1637472941953" />
+              <frame x="0" y="-18" width="1366" height="786" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1642876583241" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/sedond">
+          <value>
+            <RecentProjectMetaInfo frameTitle="sedond – main.dart" projectWorkspaceId="23GG2LbsocX9uoxeKjuA06phK9g">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-203.7717.56.2031.7935034" />
+              <option name="buildTimestamp" value="1637472922595" />
+              <frame x="0" y="-18" width="1366" height="786" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1642894837895" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – main.dart" projectWorkspaceId="241Img3KlU0yYOqjemGcwwXaoHz">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-203.7717.56.2031.7935034" />
+              <option name="buildTimestamp" value="1637472913456" />
+              <frame x="0" y="-18" width="1366" height="786" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1643387093078" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/qr_master-text">
+          <value>
+            <RecentProjectMetaInfo frameTitle="qr_master-text" projectWorkspaceId="24MbzJbXqwBe4JmHZbTF46AU5s3">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-203.7717.56.2031.7935034" />
+              <option name="buildTimestamp" value="1637472914654" />
+              <frame x="0" y="-18" width="1366" height="786" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1643443664600" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/to_do_list">
+          <value>
+            <RecentProjectMetaInfo frameTitle="to_do_list – home.dart" opened="true" projectWorkspaceId="23gQrCbDb66v6nImcIzUVDyrvgr">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-203.7717.56.2031.7935034" />
+              <option name="buildTimestamp" value="1637472946342" />
+              <frame x="0" y="-18" width="1366" height="786" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1643977134364" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

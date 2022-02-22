@@ -1,0 +1,53 @@
+Validating found git in: git
+Using git 2.33.1 from git
+> git rev-parse --git-dir
+Open repository: /home/nik/workspace/OOP_C
+> git status -z -u
+> git show --textconv :OOP C++/lESSON80.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/lESSON80.cpp
+> git cat-file -s 4a99e2115735577d0e3ce46eb3af41ba1d73828b
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :OOP C++/lesson77.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/lesson77.cpp
+> git cat-file -s e4e684a85703c47d06b45bf8e1e5740b5100fdce
+> git show --textconv :OOP C++/lESSON80.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/lESSON80.cpp
+> git cat-file -s 4a99e2115735577d0e3ce46eb3af41ba1d73828b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :OOP C++/lESSON80.h
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/lESSON80.h
+> git cat-file -s db24993ddc7d34404c197f879a7bb9b093d62ed2
+> git show --textconv :OOP C++/lESSON80.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/lESSON80.cpp
+> git cat-file -s 4a99e2115735577d0e3ce46eb3af41ba1d73828b
+> git show --textconv :OOP C++/MainSurs.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/MainSurs.cpp
+> git cat-file -s 1b02acff141a627887a32d53e3f028ae472cb00c
+> git show --textconv :OOP C++/Lesson84.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/Lesson84.cpp
+> git cat-file -s 742b2fa0d66c772a9f39db9e3f3fcd403a67bab6
+> git show --textconv :OOP C++/MainSurs.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/MainSurs.cpp
+> git cat-file -s 1b02acff141a627887a32d53e3f028ae472cb00c
+> git show --textconv :OOP C++/lesson77.h
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/lesson77.h
+> git cat-file -s fe598c19bf7b2cb0bf8ae74e8b37bd47ae0405f5
+> git show --textconv :OOP C++/Lesson78.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/Lesson78.cpp
+> git cat-file -s 67d34e698d30a233b914cd6e874029ee7a7cda6f
+> git show --textconv :OOP C++/lESSON80.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/lESSON80.cpp
+> git cat-file -s 4a99e2115735577d0e3ce46eb3af41ba1d73828b
+> git show --textconv :OOP C++/Lesson82.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/Lesson82.cpp
+> git cat-file -s 8b29851bd517d4794cd408ae8953e92414a86c1c

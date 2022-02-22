@@ -1,0 +1,8 @@
+<application>
+  <component name="com.codertainment.scrcpy.controller.model.ScrcpyProps">
+    <option name="adbPath" value="" />
+    <option name="forceAdbForward" value="true" />
+    <option name="legacyPaste" value="true" />
+    <option name="scrcpyPath" value="/usr/bin" />
+  </component>
+</application>

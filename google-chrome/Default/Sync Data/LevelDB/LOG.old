@@ -1,0 +1,9 @@
+2021/11/20-09:33:03.020 db1 Reusing MANIFEST /home/nik/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/11/20-09:33:03.021 db1 Recovering log #361
+2021/11/20-09:33:03.167 db1 Reusing old log /home/nik/.config/google-chrome/Default/Sync Data/LevelDB/000361.log 
+2021/11/20-09:47:55.099 1011 Level-0 table #365: started
+2021/11/20-09:47:55.166 1011 Level-0 table #365: 242180 bytes OK
+2021/11/20-09:47:55.203 1011 Delete type=0 #361
+2021/11/21-23:30:58.421 7f1b Level-0 table #367: started
+2021/11/21-23:30:58.488 7f1b Level-0 table #367: 116016 bytes OK
+2021/11/21-23:30:58.548 7f1b Delete type=0 #364

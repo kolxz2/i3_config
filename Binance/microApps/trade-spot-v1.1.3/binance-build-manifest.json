@@ -1,0 +1,9 @@
+{
+  "chunks": {
+    "preload": [
+      "static/chunks/bnc~pl~1.5d447d2f.js",
+      "static/chunks/bnc~pl~4.4f84693b.js",
+      "static/chunks/bnc~pl~3.73e7f832.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+2021/11/02-08:54:39.809 386b Reusing MANIFEST /home/nik/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/02-08:54:39.810 386b Recovering log #11
+2021/11/02-08:54:39.861 386b Reusing old log /home/nik/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000011.log 
+2021/11/02-09:02:55.593 3930 Level-0 table #16: started
+2021/11/02-09:02:55.638 3930 Level-0 table #16: 110267 bytes OK
+2021/11/02-09:02:55.671 3930 Delete type=0 #11
+2021/11/02-09:02:55.672 3930 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/02-09:02:55.672 3c0a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x02\x01\x16\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00e\x00r\x00v\x00e\x00r\x00_\x00k\x00e\x00y' @ 12294 : 1
+2021/11/02-09:02:55.672 3c0a Compacting 1@1 + 1@2 files
+2021/11/02-09:02:55.706 3c0a Generated table #17@1: 338 keys, 16192 bytes
+2021/11/02-09:02:55.706 3c0a Compacted 1@1 + 1@2 files => 16192 bytes
+2021/11/02-09:02:55.737 3c0a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/02-09:02:55.738 3c0a Delete type=2 #16
+2021/11/02-09:02:55.738 3c0a Delete type=2 #13
+2021/11/02-09:02:55.738 3c0a Manual compaction at level-1 from '\x00\x09\x01\x02\x01\x16\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00e\x00r\x00v\x00e\x00r\x00_\x00k\x00e\x00y' @ 12294 : 1 .. (end); will stop at (end)

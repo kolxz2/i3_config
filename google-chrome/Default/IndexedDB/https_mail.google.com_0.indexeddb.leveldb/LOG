@@ -1,0 +1,6 @@
+2022/01/17-14:15:07.207 171b Reusing MANIFEST /home/nik/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/17-14:15:07.207 171b Recovering log #3
+2022/01/17-14:15:07.377 171b Reusing old log /home/nik/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2022/01/17-14:19:42.596 1719 Level-0 table #5: started
+2022/01/17-14:19:42.734 1719 Level-0 table #5: 1999501 bytes OK
+2022/01/17-14:19:42.801 1719 Delete type=0 #3

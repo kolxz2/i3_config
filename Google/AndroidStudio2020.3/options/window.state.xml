@@ -1,0 +1,56 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768@72dpi" x="683" y="225" />
+    <location key="find.popup.0.0.1366.768@72dpi" x="438" y="48" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768@72dpi" width="1326" height="276" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768@72dpi" width="1326" height="276" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768@72dpi" width="1326" height="276" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768@72dpi" width="1326" height="276" />
+    <size key="find.popup.0.0.1366.768@72dpi" width="489" height="654" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1320" height="255" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1320" height="255" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1320" height="255" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1320" height="255" />
+  </component>
+  <component name="WindowManager">
+    <frame x="0" y="-18" width="1366" height="786" extendedState="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="486" y="248" width="373" height="241" key="#Updates" timestamp="1641118675134">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="486" y="248" width="373" height="241" key="#Updates/0.19.1366.749" timestamp="1641118675134" />
+    <state x="519" y="176" width="318" height="377" key="FileChooserDialogImpl" timestamp="1641118617083">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="519" y="176" width="318" height="377" key="FileChooserDialogImpl/0.19.1366.749" timestamp="1641118617083" />
+    <state x="844" y="658" width="390" height="86" key="ProcessPopupWindow" timestamp="1642894520866">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="844" y="658" width="390" height="86" key="ProcessPopupWindow/0.19.1366.749" timestamp="1642894520866" />
+    <state x="289" y="84" width="984" height="562" key="SettingsEditor" timestamp="1641119269104">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="289" y="84" width="984" height="562" key="SettingsEditor/0.19.1366.749" timestamp="1641119269104" />
+    <state x="683" y="361" key="WELCOME_SCREEN" timestamp="1641115590904">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="683" y="361" key="WELCOME_SCREEN/0.19.1366.749" timestamp="1641115590904" />
+    <state x="457" y="298" width="442" height="133" key="ide.config.custom.settings" timestamp="1641118626769">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="457" y="298" width="442" height="133" key="ide.config.custom.settings/0.19.1366.749" timestamp="1641118626769" />
+    <state x="360" y="27" width="636" height="702" key="new project wizard" timestamp="1641118766836">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="360" y="27" width="636" height="702" key="new project wizard/0.19.1366.749" timestamp="1641118766836" />
+  </component>
+</application>

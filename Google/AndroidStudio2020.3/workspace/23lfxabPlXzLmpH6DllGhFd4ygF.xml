@@ -1,0 +1,436 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/pages/qrCode.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/pages/licenseAgreement.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/pages/login.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ios/Runner/Info.plist">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ios/Runner/AppDelegate.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="79" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>path</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/lib/pages/sigIn.dart" />
+      <option value="$PROJECT_DIR$/lib/pages/units.dart" />
+      <option value="$PROJECT_DIR$/ios/Runner/Info.plist" />
+      <option value="$PROJECT_DIR$/ios/Runner/AppDelegate.swift" />
+      <option value="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" />
+      <option value="$PROJECT_DIR$/pubspec.yaml" />
+      <option value="$PROJECT_DIR$/lib/pages/qrCode.dart" />
+      <option value="$PROJECT_DIR$/lib/pages/login.dart" />
+      <option value="$PROJECT_DIR$/lib/pages/licenseAgreement.dart" />
+      <option value="$PROJECT_DIR$/lib/main.dart" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qr_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qr_code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qr_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qr_code" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qr_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qr_code" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21644042" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Commit" order="4" weight="0.358841" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" weight="0.32935917" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.29359165" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="clangd" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.32935917" />
+      <window_info anchor="bottom" id="Dart Analysis" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.32935917" />
+      <window_info anchor="bottom" id="Services" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Debug" order="11" />
+      <window_info anchor="right" id="Flutter Performance" order="0" weight="0.3295626" />
+      <window_info anchor="right" id="Layout Validation" order="1" />
+      <window_info anchor="right" id="Flutter Outline" order="2" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" />
+      <window_info anchor="right" id="scrcpy" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22624435" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Commit" order="4" weight="0.33936653" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.29359165" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="clangd" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.32935917" />
+      <window_info anchor="bottom" id="Dart Analysis" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.32935917" />
+      <window_info anchor="bottom" id="Services" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Debug" order="11" />
+      <window_info anchor="right" id="Flutter Performance" order="0" weight="0.3295626" />
+      <window_info anchor="right" id="Layout Validation" order="1" />
+      <window_info anchor="right" id="Flutter Outline" order="2" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="425" y="228" width="506" height="300" key="#Notifications" timestamp="1642877290252">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="425" y="228" width="506" height="300" key="#Notifications/0.19.1366.749@0.19.1366.749" timestamp="1642877290252" />
+    <state x="612" y="159" width="318" height="452" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1642885281568">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="612" y="159" width="318" height="452" key="#com.intellij.ide.macro.MacrosDialog/0.19.1366.749@0.19.1366.749" timestamp="1642885281568" />
+    <state x="620" y="121" width="323" height="520" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1642886099382">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="620" y="121" width="323" height="520" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.19.1366.749@0.19.1366.749" timestamp="1642886099382" />
+    <state x="556" y="242" width="431" height="438" key="#com.intellij.tools.ToolEditorDialog" timestamp="1642887983505">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="556" y="242" width="431" height="438" key="#com.intellij.tools.ToolEditorDialog/0.19.1366.749@0.19.1366.749" timestamp="1642887983505" />
+    <state x="100" y="82" width="1166" height="586" key="AVDManager" timestamp="1642893092458">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="100" y="82" width="1166" height="586" key="AVDManager/0.19.1366.749@0.19.1366.749" timestamp="1642893092458" />
+    <state x="539" y="282" width="405" height="391" key="FileChooserDialogImpl" timestamp="1642894829773">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="539" y="282" width="405" height="391" key="FileChooserDialogImpl/0.19.1366.749@0.19.1366.749" timestamp="1642894829773" />
+    <state x="546" y="278" width="353" height="201" key="Github.ShareDialog" timestamp="1642323560657">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="546" y="278" width="353" height="201" key="Github.ShareDialog/0.19.1366.749@0.19.1366.749" timestamp="1642323560657" />
+    <state x="500" y="107" width="356" height="542" key="Github.UntrackedFilesDialog" timestamp="1642323585910">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="500" y="107" width="356" height="542" key="Github.UntrackedFilesDialog/0.19.1366.749@0.19.1366.749" timestamp="1642323585910" />
+    <state width="1326" height="200" key="GridCell.Tab.0.bottom" timestamp="1642894833365">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state width="1326" height="200" key="GridCell.Tab.0.bottom/0.19.1366.749@0.19.1366.749" timestamp="1642894833365" />
+    <state width="1326" height="200" key="GridCell.Tab.0.center" timestamp="1642894833364">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state width="1326" height="200" key="GridCell.Tab.0.center/0.19.1366.749@0.19.1366.749" timestamp="1642894833364" />
+    <state width="1326" height="200" key="GridCell.Tab.0.left" timestamp="1642894833363">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state width="1326" height="200" key="GridCell.Tab.0.left/0.19.1366.749@0.19.1366.749" timestamp="1642894833363" />
+    <state width="1326" height="200" key="GridCell.Tab.0.right" timestamp="1642894833364">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state width="1326" height="200" key="GridCell.Tab.0.right/0.19.1366.749@0.19.1366.749" timestamp="1642894833364" />
+    <state x="289" y="97" width="985" height="562" key="SettingsEditor" timestamp="1642892686621">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="289" y="97" width="985" height="562" key="SettingsEditor/0.19.1366.749@0.19.1366.749" timestamp="1642892686621" />
+    <state x="378" y="172" width="600" height="412" key="Vcs.Push.Dialog.v2" timestamp="1642873032156">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="378" y="172" width="600" height="412" key="Vcs.Push.Dialog.v2/0.19.1366.749@0.19.1366.749" timestamp="1642873032156" />
+    <state x="430" y="166" key="run.anything.popup" timestamp="1642877380862">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="430" y="166" key="run.anything.popup/0.19.1366.749@0.19.1366.749" timestamp="1642877380862" />
+    <state x="429" y="154" width="505" height="399" key="search.everywhere.popup" timestamp="1642589501288">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="429" y="154" width="505" height="399" key="search.everywhere.popup/0.19.1366.749@0.19.1366.749" timestamp="1642589501288" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/widget_test.dart" />
+    <entry file="file://$PROJECT_DIR$/qr_code.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pages/units.dart" />
+    <entry file="file://$PROJECT_DIR$/analysis_options.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pages/qrCode.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pages/licenseAgreement.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pages/login.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Runner/Info.plist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/Runner/AppDelegate.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="79" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android Studio default JDK</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>qr_code</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Dart Packages</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

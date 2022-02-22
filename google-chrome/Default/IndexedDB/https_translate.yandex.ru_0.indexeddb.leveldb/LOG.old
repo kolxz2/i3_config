@@ -1,0 +1,15 @@
+2021/10/22-10:30:36.646 1440 Reusing MANIFEST /home/nik/.config/google-chrome/Default/IndexedDB/https_translate.yandex.ru_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/22-10:30:36.647 1440 Recovering log #4
+2021/10/22-10:30:36.668 1440 Reusing old log /home/nik/.config/google-chrome/Default/IndexedDB/https_translate.yandex.ru_0.indexeddb.leveldb/000004.log 
+2021/10/22-12:14:43.800 1902 Level-0 table #8: started
+2021/10/22-12:14:43.833 1902 Level-0 table #8: 3304 bytes OK
+2021/10/22-12:14:43.875 1902 Delete type=0 #4
+2021/10/22-12:14:43.875 1902 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/10/22-12:14:43.876 1902 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x02!\x01\x1d\x00c\x00v\x00W\x004\x00d\x00f\x00O\x003\x00p\x00Q\x00T\x00k\x00G\x00n\x00:\x00:\x001\x006\x003\x004\x008\x008\x007\x008\x003\x008\x007\x001\x004\x00\x01\x0e\x00c\x00w\x00i\x00S\x00v\x00G\x009\x003\x00z\x00V\x008\x001\x00g\x00f' @ 256 : 1
+2021/10/22-12:14:43.876 1902 Compacting 1@1 + 1@2 files
+2021/10/22-12:14:43.901 1902 Generated table #9@1: 66 keys, 2393 bytes
+2021/10/22-12:14:43.901 1902 Compacted 1@1 + 1@2 files => 2393 bytes
+2021/10/22-12:14:43.941 1902 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/22-12:14:43.942 1902 Delete type=2 #5
+2021/10/22-12:14:43.942 1902 Delete type=2 #8
+2021/10/22-12:14:43.942 1902 Manual compaction at level-1 from '\x00\x01\x02!\x01\x1d\x00c\x00v\x00W\x004\x00d\x00f\x00O\x003\x00p\x00Q\x00T\x00k\x00G\x00n\x00:\x00:\x001\x006\x003\x004\x008\x008\x007\x008\x003\x008\x007\x001\x004\x00\x01\x0e\x00c\x00w\x00i\x00S\x00v\x00G\x009\x003\x00z\x00V\x008\x001\x00g\x00f' @ 256 : 1 .. (end); will stop at (end)

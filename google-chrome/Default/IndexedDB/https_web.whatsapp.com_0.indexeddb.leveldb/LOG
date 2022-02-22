@@ -1,0 +1,6 @@
+2021/09/30-14:15:06.498 43a9 Creating DB /home/nik/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2021/09/30-14:15:06.615 43a9 Reusing MANIFEST /home/nik/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/30-14:32:26.155 4553 Level-0 table #5: started
+2021/09/30-14:32:26.206 4553 Level-0 table #5: 379682 bytes OK
+2021/09/30-14:32:26.245 4553 Delete type=0 #3
+2021/09/30-14:32:26.246 4553 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

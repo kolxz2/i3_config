@@ -1,0 +1,6 @@
+2021/10/07-12:10:57.500 a07 Creating DB /home/nik/.config/google-chrome/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb since it was missing.
+2021/10/07-12:10:57.609 a07 Reusing MANIFEST /home/nik/.config/google-chrome/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/07-18:25:55.270 24d6 Level-0 table #5: started
+2021/10/07-18:25:55.315 24d6 Level-0 table #5: 131773 bytes OK
+2021/10/07-18:25:55.354 24d6 Delete type=0 #3
+2021/10/07-18:25:55.356 24d6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,59 @@
+[2022-02-15 17:33:34.153] [error] {
+  message: 'Request failed with status code 504',
+  name: 'UnhandledRejection Error',
+  stack: 'UnhandledRejection Error: Request failed with status code 504\n' +
+    '    at createError (file:///tmp/.mount_mendeljcWwhq/resources/app.asar/webpack:/Users/webkinsmac2/swarmclient/jenws/workspace/kaiju_master-SKNU24NHGMMPOFIXF6OGMVGMQYY3JQFLVHFGWNLCTRMVQXIOQN3Q/node_modules/axios/lib/core/createError.js:16:15)\n' +
+    '    at settle (file:///tmp/.mount_mendeljcWwhq/resources/app.asar/webpack:/Users/webkinsmac2/swarmclient/jenws/workspace/kaiju_master-SKNU24NHGMMPOFIXF6OGMVGMQYY3JQFLVHFGWNLCTRMVQXIOQN3Q/node_modules/axios/lib/core/settle.js:17:12)\n' +
+    '    at XMLHttpRequest.handleLoad (file:///tmp/.mount_mendeljcWwhq/resources/app.asar/webpack:/Users/webkinsmac2/swarmclient/jenws/workspace/kaiju_master-SKNU24NHGMMPOFIXF6OGMVGMQYY3JQFLVHFGWNLCTRMVQXIOQN3Q/node_modules/axios/lib/adapters/xhr.js:61:7)',
+  config: {
+    url: 'https://www.mendeley.com/reference-manager-desktop/refresh-token',
+    method: 'get',
+    headers: { Accept: 'application/json, text/plain, */*' },
+    transformRequest: [
+      '[function] function transformRequest(data, headers) {\n' +
+        "    normalizeHeaderName(headers, 'Accept');\n" +
+        "    normalizeHeaderName(headers, 'Content-Type');\n" +
+        '    if (utils.isFormData(data) ||\n' +
+        '      utils.isArrayBuffer(data) ||\n' +
+        '      utils.isBuffer(data) ||\n' +
+        '      utils.isStream(data) ||\n' +
+        '      utils.isFile(data) ||\n' +
+        '      utils.isBlob(data)\n' +
+        '    ) {\n' +
+        '      return data;\n' +
+        '    }\n' +
+        '    if (utils.isArrayBufferView(data)) {\n' +
+        '      return data.buffer;\n' +
+        '    }\n' +
+        '    if (utils.isURLSearchParams(data)) {\n' +
+        "      setContentTypeIfUnset(headers, 'application/x-www-form-urlencoded;charset=utf-8');\n" +
+        '      return data.toString();\n' +
+        '    }\n' +
+        '    if (utils.isObject(data)) {\n' +
+        "      setContentTypeIfUnset(headers, 'application/json;charset=utf-8');\n" +
+        '      return JSON.stringify(data);\n' +
+        '    }\n' +
+        '    return data;\n' +
+        '  }'
+    ],
+    transformResponse: [
+      '[function] function transformResponse(data) {\n' +
+        '    /*eslint no-param-reassign:0*/\n' +
+        "    if (typeof data === 'string') {\n" +
+        '      try {\n' +
+        '        data = JSON.parse(data);\n' +
+        '      } catch (e) { /* Ignore */ }\n' +
+        '    }\n' +
+        '    return data;\n' +
+        '  }'
+    ],
+    timeout: 0,
+    adapter: '[function] function xhrAdapter(y){return new Promise((function dispatchXhrRequest($,Se){var Re=y.data,we=y.headers;ie.isFormData(Re)&&delete we["Content-Type"];var Fe=new XMLHttpRequest;if(y.auth){var Ue=y.auth.username||"",et=y.auth.password||"";we.Authorization="Basic "+btoa(Ue+":"+et)}var tt=pe(y.baseURL,y.url);if(Fe.open(y.method.toUpperCase(),se(tt,y.params,y.paramsSerializer),!0),Fe.timeout=y.timeout,Fe.onreadystatechange=function handleLoad(){if(Fe&&4===Fe.readyState&&(0!==Fe.status||Fe.responseURL&&0===Fe.responseURL.indexOf("file:"))){var oe="getAllResponseHeaders"in Fe?he(Fe.getAllResponseHeaders()):null,ie={data:y.responseType&&"text"!==y.responseType?Fe.response:Fe.responseText,status:Fe.status,statusText:Fe.statusText,headers:oe,config:y,request:Fe};le($,Se,ie),Fe=null}},Fe.onabort=function handleAbort(){Fe&&(Se(ve("Request aborted",y,"ECONNABORTED",Fe)),Fe=null)},Fe.onerror=function handleError(){Se(ve("Network Error",y,null,Fe)),Fe=null},Fe.ontimeout=function handleTimeout(){var $="timeout of "+y.timeout+"ms exceeded";y.timeoutErrorMessage&&($=y.timeoutErrorMessage),Se(ve($,y,"ECONNABORTED",Fe)),Fe=null},ie.isStandardBrowserEnv()){var rt=oe(1674),nt=(y.withCredentials||ge(tt))&&y.xsrfCookieName?rt.read(y.xsrfCookieName):void 0;nt&&(we[y.xsrfHeaderName]=nt)}if("setRequestHeader"in Fe&&ie.forEach(we,(function setRequestHeader(y,$){void 0===Re&&"content-type"===$.toLowerCase()?delete we[$]:Fe.setRequestHeader($,y)})),ie.isUndefined(y.withCredentials)||(Fe.withCredentials=!!y.withCredentials),y.responseType)try{Fe.responseType=y.responseType}catch($){if("json"!==y.responseType)throw $}"function"==typeof y.onDownloadProgress&&Fe.addEventListener("progress",y.onDownloadProgress),"function"==typeof y.onUploadProgress&&Fe.upload&&Fe.upload.addEventListener("progress",y.onUploadProgress),y.cancelToken&&y.cancelToken.promise.then((function onCanceled(y){Fe&&(Fe.abort(),Se(y),Fe=null)})),void 0===Re&&(Re=null),Fe.send(Re)}))}',
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    validateStatus: '[function] function validateStatus(status) {\n' +
+      '    return status >= 200 && status < 300;\n' +
+      '  }'
+  }
+}

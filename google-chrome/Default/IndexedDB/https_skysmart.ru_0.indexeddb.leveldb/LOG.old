@@ -1,0 +1,6 @@
+2021/10/10-13:47:15.068 c438 Creating DB /home/nik/.config/google-chrome/Default/IndexedDB/https_skysmart.ru_0.indexeddb.leveldb since it was missing.
+2021/10/10-13:47:15.214 c438 Reusing MANIFEST /home/nik/.config/google-chrome/Default/IndexedDB/https_skysmart.ru_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/10-14:42:05.647 cc38 Level-0 table #5: started
+2021/10/10-14:42:05.691 cc38 Level-0 table #5: 1854 bytes OK
+2021/10/10-14:42:05.728 cc38 Delete type=0 #3
+2021/10/10-14:42:05.729 cc38 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

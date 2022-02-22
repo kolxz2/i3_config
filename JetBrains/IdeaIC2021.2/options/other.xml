@@ -1,0 +1,52 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="0.75" />
+    <option name="fontSize" value="12" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="216p80kBelvQdUzIzaydEewZX01">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21NXHDs7tJBG3GjetvMExXgc64v">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="appcds.runOnSecondStart" value="IC-212.5457.46-61399fac8e58f3788873681945e0c1486c419a729a568263dabee840766924e2" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.projects.detected" value="" />
+    <property name="file.gist.reindex.count" value="41" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.fileTypes.profiler.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IC-212.5457.46" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="212-1.5.10-release-IJ5457.46" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1637271229079" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="registry.to.advanced.settings.migration.build" value="IC-212.5457.46" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

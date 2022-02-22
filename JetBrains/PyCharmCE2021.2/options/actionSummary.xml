@@ -1,0 +1,241 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Cut">
+      <i c="1" l="1635702796401" />
+    </e>
+    <e n="$Delete">
+      <i c="3" l="1632997982066" />
+    </e>
+    <e n="$Redo">
+      <i c="3" l="1633264862855" />
+    </e>
+    <e n="$SelectAll">
+      <i c="4" l="1636852530833" />
+    </e>
+    <e n="$Undo">
+      <i c="65" l="1636858835976" />
+    </e>
+    <e n="CheckForUpdate">
+      <i c="1" l="1632399805969" />
+    </e>
+    <e n="CheckinProject">
+      <i c="1" l="1636864094119" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="5" l="1636852723840" />
+    </e>
+    <e n="CollectZippedLogs">
+      <i c="1" l="1632399812546" />
+    </e>
+    <e n="Debug">
+      <i c="23" l="1636860867932" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="825" l="1636864104669" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="132" l="1636861328650" />
+    </e>
+    <e n="EditorCopy">
+      <i c="56" l="1636861335919" />
+    </e>
+    <e n="EditorCut">
+      <i c="15" l="1636856634639" />
+    </e>
+    <e n="EditorDelete">
+      <i c="75" l="1636855554311" />
+    </e>
+    <e n="EditorDown">
+      <i c="370" l="1636861213504" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="6" l="1635705259362" />
+    </e>
+    <e n="EditorEnter">
+      <i c="195" l="1636863490942" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="2" l="1635705261512" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1011" l="1636861305503" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="381" l="1636861246625" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1636858635816" />
+    </e>
+    <e n="EditorPaste">
+      <i c="138" l="1636863496853" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="1" l="1635704882472" />
+    </e>
+    <e n="EditorRight">
+      <i c="1019" l="1636861311992" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="288" l="1636861246951" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="5" l="1636856640479" />
+    </e>
+    <e n="EditorTab">
+      <i c="19" l="1636860231289" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="1" l="1633034351660" />
+    </e>
+    <e n="EditorUp">
+      <i c="281" l="1636863491708" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="3" l="1635741700208" />
+    </e>
+    <e n="Find">
+      <i c="1" l="1636859364782" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="1" l="1636864150137" />
+    </e>
+    <e n="Git.Init">
+      <i c="1" l="1632687398421" />
+    </e>
+    <e n="Git.Log">
+      <i c="1" l="1632687331985" />
+    </e>
+    <e n="Github.Share">
+      <i c="1" l="1632687350438" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1633267931384" />
+    </e>
+    <e n="Help.JetBrainsTV">
+      <i c="1" l="1632399782230" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="1" l="1633264276331" />
+    </e>
+    <e n="JumpToLastWindow">
+      <i c="1" l="1635708531182" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1633263900363" />
+    </e>
+    <e n="NewDirectoryProject">
+      <i c="1" l="1636625565593" />
+    </e>
+    <e n="NewElement">
+      <i c="1" l="1636625617402" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="6" l="1636863442813" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1636625599973" />
+    </e>
+    <e n="ProblemsView.CopyProblemDescription">
+      <i c="4" l="1636855246728" />
+    </e>
+    <e n="Replace">
+      <i c="2" l="1636861582867" />
+    </e>
+    <e n="Run">
+      <i c="126" l="1636861262910" />
+    </e>
+    <e n="RunClass">
+      <i c="8" l="1636857833549" />
+    </e>
+    <e n="RunToCursor">
+      <i c="4" l="1636856156893" />
+    </e>
+    <e n="SaveAll">
+      <i c="2" l="1633278753712" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="3" l="1635702804889" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1635702988397" />
+    </e>
+    <e n="StepInto">
+      <i c="9" l="1636854108556" />
+    </e>
+    <e n="StepIntoMyCode">
+      <i c="8" l="1636853551751" />
+    </e>
+    <e n="StepOut">
+      <i c="2" l="1636854411514" />
+    </e>
+    <e n="StepOver">
+      <i c="216" l="1636860827375" />
+    </e>
+    <e n="Stop">
+      <i c="26" l="1636860105076" />
+    </e>
+    <e n="Synchronize">
+      <i c="2" l="1635494675052" />
+    </e>
+    <e n="ToggleBookmark">
+      <i c="8" l="1635708530020" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="9" l="1636859056389" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="1" l="1636864155354" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="1" l="1632687409842" />
+    </e>
+    <e n="com.intellij.find.SearchTextArea$NewLineAction">
+      <i c="1" l="1636859409129" />
+    </e>
+    <e n="com.intellij.find.SearchTextArea$ShowHistoryAction">
+      <i c="1" l="1636859404789" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.ToggleSelectionOnlyAction">
+      <i c="3" l="1636861584764" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+      <i c="10" l="1636855235232" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="12" l="1636852626053" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1632399795318" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="2" l="1632997983310" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="28" l="1636864164567" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$5">
+      <i c="1" l="1632399838209" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="3" l="1632399809126" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1632399793053" />
+    </e>
+    <e n="com.intellij.refactoring.suggested.RefactoringAvailableGutterIconRenderer$getClickAction$1">
+      <i c="1" l="1633034790763" />
+    </e>
+    <e n="com.intellij.webcore.packaging.InstalledPackagesPanel$4">
+      <i c="1" l="1635703099487" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="3" l="1636859057056" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$AddInterpreterAction">
+      <i c="2" l="1635702963378" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$InterpreterSettingsAction">
+      <i c="1" l="1632868459311" />
+    </e>
+  </component>
+</application>

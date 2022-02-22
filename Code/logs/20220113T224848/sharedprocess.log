@@ -1,0 +1,16 @@
+[2022-01-13 22:49:16.205] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-wsl /home/nik/.vscode/extensions/ms-vscode-remote.remote-wsl-0.63.11
+[2022-01-13 22:49:16.212] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-13 22:49:20.522] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-01-13 22:49:27.981] [sharedprocess] [info] Starting worker process with pid 15589 (type: watcherServiceParcelSharedProcess, window: 1).
+[2022-01-13 22:49:31.597] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/nik/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.1.1
+[2022-01-13 22:49:32.861] [sharedprocess] [info] Extensions is already requested to install ms-python.vscode-pylance
+[2022-01-13 22:49:48.741] [sharedprocess] [info] Extracted extension to /home/nik/.vscode/extensions/.7ba85345-23ab-4a2e-9849-64c4cf4911ba: ms-python.vscode-pylance
+[2022-01-13 22:49:48.890] [sharedprocess] [info] Renamed to /home/nik/.vscode/extensions/ms-python.vscode-pylance-2022.1.1
+[2022-01-13 22:49:48.902] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-01-13 22:49:49.011] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-01-13 22:50:19.708] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2022-01-13 22:50:28.993] [sharedprocess] [info] Extracted extension to /home/nik/.vscode/extensions/.96f1fc7c-b9d9-41b1-b3ca-a20001708796: ms-vscode.cpptools
+[2022-01-13 22:50:30.419] [sharedprocess] [info] Renamed to /home/nik/.vscode/extensions/ms-vscode.cpptools-1.8.0-insiders2
+[2022-01-13 22:50:30.425] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2022-01-13 22:50:30.438] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-01-14 10:39:44.524] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

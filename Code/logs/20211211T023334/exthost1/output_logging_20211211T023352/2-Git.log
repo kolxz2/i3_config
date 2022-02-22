@@ -1,0 +1,155 @@
+Validating found git in: git
+Using git 2.33.1 from git
+Opening repository for path='/home/nik/workspace' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/nik/workspace/Dinamic List' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/nik/workspace/.metadata' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/nik/workspace/.vscode' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/nik/workspace/Algo1' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/nik/workspace/Algo2' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/nik/workspace/Dinamic List' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/nik/workspace/Dinamic Queue' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/nik/workspace/Dinamic Stack' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/nik/workspace/FIleName' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/nik/workspace/List' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+> git rev-parse --git-dir
+Open repository: /home/nik/workspace/OOP_C
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+Opening repository for path='/home/nik/workspace/Queue' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/nik/workspace/Stack' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/nik/workspace/Structure-Algorithms' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/nik/workspace/file' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+Opening repository for path='/home/nik/workspace/postgres' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any parent up to mount point /)\nStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).\n"
+}
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :OOP C++/Lesson78.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/Lesson78.cpp
+> git cat-file -s 67d34e698d30a233b914cd6e874029ee7a7cda6f
+> git show --textconv :OOP C++/Lesson78.h
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/Lesson78.h
+> git cat-file -s 833a9b095a38275ec45fdf5d1801c3f1197eaf6a
+> git show --textconv :OOP C++/Lesson78.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/Lesson78.cpp
+> git cat-file -s 67d34e698d30a233b914cd6e874029ee7a7cda6f
+> git show --textconv :OOP C++/Lesson78.h
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/Lesson78.h
+> git cat-file -s 833a9b095a38275ec45fdf5d1801c3f1197eaf6a
+> git show --textconv :OOP C++/Lesson78.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/Lesson78.cpp
+> git cat-file -s 67d34e698d30a233b914cd6e874029ee7a7cda6f
+> git show --textconv :OOP C++/Lesson78.h
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/Lesson78.h
+> git cat-file -s 833a9b095a38275ec45fdf5d1801c3f1197eaf6a
+> git show --textconv :OOP C++/lesson77.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/lesson77.cpp
+> git cat-file -s e4e684a85703c47d06b45bf8e1e5740b5100fdce
+> git show --textconv :OOP C++/Lesson78.h
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/Lesson78.h
+> git cat-file -s 833a9b095a38275ec45fdf5d1801c3f1197eaf6a
+> git show --textconv :OOP C++/Lesson78.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/Lesson78.cpp
+> git cat-file -s 67d34e698d30a233b914cd6e874029ee7a7cda6f
+> git show --textconv :OOP C++/Lesson78.h
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/Lesson78.h
+> git cat-file -s 833a9b095a38275ec45fdf5d1801c3f1197eaf6a

@@ -1,0 +1,24 @@
+Validating found git in: git
+Using git  from git
+> git rev-parse --git-dir
+Open repository: /home/nik/workspace/OOP_C
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git show --textconv :OOP C++/Lesson82.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/Lesson82.cpp
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git cat-file -s 8b29851bd517d4794cd408ae8953e92414a86c1c
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :OOP C++/lESSON80.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/lESSON80.cpp
+> git cat-file -s 4a99e2115735577d0e3ce46eb3af41ba1d73828b
+> git show --textconv :OOP C++/Lesson82.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/Lesson82.cpp
+> git cat-file -s 8b29851bd517d4794cd408ae8953e92414a86c1c
+> git show --textconv :OOP C++/Lesson78.cpp
+> git ls-files --stage -- /home/nik/workspace/OOP_C/OOP C++/Lesson78.cpp
+> git cat-file -s 67d34e698d30a233b914cd6e874029ee7a7cda6f

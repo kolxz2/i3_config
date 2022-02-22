@@ -1,0 +1,8 @@
+[2021-12-16 10:06:24.414] [sharedprocess] [info] Starting worker process with pid 21873 (type: watcherServiceParcelSharedProcess, window: 1).
+[2021-12-16 10:06:24.794] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-ssh-edit /home/nik/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.68.0
+[2021-12-16 10:06:25.440] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-wsl /home/nik/.vscode/extensions/ms-vscode-remote.remote-wsl-0.58.5
+[2021-12-16 10:06:25.798] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-12-16 10:06:26.762] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-ssh /home/nik/.vscode/extensions/ms-vscode-remote.remote-ssh-0.66.1
+[2021-12-16 10:06:28.657] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/nik/.vscode/extensions/ms-toolsai.jupyter-2021.10.1101450599
+[2021-12-16 10:06:28.793] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/nik/.vscode/extensions/ms-python.vscode-pylance-2021.12.1
+[2021-12-16 10:06:28.871] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-containers /home/nik/.vscode/extensions/ms-vscode-remote.remote-containers-0.205.2

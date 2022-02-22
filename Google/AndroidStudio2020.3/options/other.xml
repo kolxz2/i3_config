@@ -1,0 +1,105 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="0.75" />
+    <option name="fontSize" value="12" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="238dHHq9nekLFbkaOINYYT6iJc1">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="238gBGOrmFhpYbfky7c0vnhDGzn">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="23GG2LbsocX9uoxeKjuA06phK9g">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="23gQrCbDb66v6nImcIzUVDyrvgr">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="23lfxabPlXzLmpH6DllGhFd4ygF">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="241Img3KlU0yYOqjemGcwwXaoHz">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="243sQ0sgiHkZD46s3ALpfGRWCHN">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="24MbzJbXqwBe4JmHZbTF46AU5s3">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="CUSTOMIZE_ACTIONS" value="scrcp&#10;s&#10;scrcpy&#10;scrc&#10;scr" />
+    <property name="DART_SDK_KNOWN_PATHS" value="$USER_HOME$/snap/flutter/common/flutter/bin/cache/dart-sdk" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="FLUTTER_LAST_SURVEY_CONTENT_CHECK_KEY" value="1643979950570" />
+    <property name="FLUTTER_SDK_KNOWN_PATHS" value="/var/lib/snapd/snap&#10;/home/nik/snap/flutter/common/flutter" />
+    <property name="FindSplitterProportion" value="0.33007812" />
+    <property name="FlutterTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="scrcp&#10;desktop&#10;deskto&#10;deskt&#10;desk" />
+    <property name="MarketplacePluginsSearchHistory" value="/organization:Codertainment&#10;scrc&#10;scr&#10;sc&#10;s" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SAVED_ANDROID_NPW_ASKED_LANGUAGE" value="true" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Kotlin" />
+    <property name="SAVED_ANDROID_PACKAGE" value="com.example" />
+    <property name="SettingsSearchHistory" value="SDK&#10;ADB&#10;scrcp&#10;desk&#10;deskto" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="appcds.runOnSecondStart" value="AI-203.7717.56.2031.7935034-6b419939737a3f7ed1d51dff3e444b8ded3b3077446fcd22219c99d11c2b60f6" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/AndroidStudioProjects/to_do_list&#10;/home/nik/AndroidStudioProjects/qr_master-text&#10;/home/nik/AndroidStudioProjects/untitled&#10;/home/nik/AndroidStudioProjects/sedond&#10;/usr/bin/scrcpy&#10;/usr/bin&#10;/home/nik/snap/scrcpy&#10;/home/nik/snap/flutter/common/flutter/bin/cache/dart-sdk&#10;/home/nik/AndroidStudioProjects/flutter-file-download-example&#10;/home/nik/AndroidStudioProjects/qr_code&#10;/home/nik/snap/flutter/common/flutter" />
+    <property name="file.gist.reindex.count" value="2" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.updates.previous.build.number" value="AI-203.7717.56.2031.7935034" />
+    <property name="installed.kotlin.plugin.version" value="203-1.6.10-release-923-AS7717.8" />
+    <property name="io.flutter.analytics.clientId" value="11236130-dcef-45f4-b39a-368083c1a4da" />
+    <property name="io.flutter.analytics.toastShown" value="true" />
+    <property name="io.flutter.console.preferencesSet" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="kotlin-gradle-user-dirs" value="$USER_HOME$/.gradle" />
+    <property name="kotlin.plugin.releaseDate" value="203-1.6.10-release-923-AS7717.8:2021-12-15" />
+    <property name="lastSeenTip" value="Kotlin_project.html" />
+    <property name="lastTimeTipsWereShown" value="1644855285737" />
+    <property name="last_opened_file_path" value="/usr/bin" />
+    <property name="project.wizard.group" value="JAVA_MODULE_io.flutter.module.FlutterModuleBuilder" />
+    <property name="seenTips" value="" />
+    <property name="selected.color.option.type" value="SELECTION_FOREGROUND" />
+    <property name="studio.activity.count" value="0" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

@@ -1,0 +1,27 @@
+{
+  "chunks": {
+    "preload": [
+      "static/chunks/bnc~pl~1.d0fd835c.js",
+      "static/chunks/bnc~pl~2.ce76b731.js",
+      "static/chunks/bnc~pl~7.f8fb9c8a.js",
+      "static/chunks/bnc~pl~8.473e3af6.js",
+      "static/chunks/bnc~pl~9.734e64ff.js",
+      "static/chunks/bnc~pl~10.f2ca4078.js",
+      "static/chunks/bnc~pl~11.360c014e.js",
+      "static/chunks/bnc~pl~14.16fbe783.js",
+      "static/chunks/bnc~pl~6.07443e8a.js",
+      "static/chunks/bnc~pl~19.d3053e62.js",
+      "static/chunks/bnc~pl~20.b3054dd0.js",
+      "static/chunks/bnc~pl~3.5271748c.js",
+      "static/chunks/bnc~pl~4.fe975e25.js",
+      "static/chunks/bnc~pl~5.2726886c.js",
+      "static/chunks/bnc~pl~35.98f4493e.js",
+      "static/chunks/bnc~pl~27.2596d3b2.js",
+      "static/chunks/bnc~pl~28.c54812a6.js",
+      "static/chunks/bnc~pl~29.d0d4ae65.js",
+      "static/chunks/bnc~pl~31.799f8126.js",
+      "static/chunks/bnc~pl~32.fa507431.js",
+      "static/chunks/bnc~pl~26.88a4f9d9.js"
+    ]
+  }
+}

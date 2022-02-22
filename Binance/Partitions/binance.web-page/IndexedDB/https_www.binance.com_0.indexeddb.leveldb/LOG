@@ -1,0 +1,15 @@
+2021/11/26-01:22:58.779 1de1 Reusing MANIFEST /home/nik/.config/Binance/Partitions/binance.web-page/IndexedDB/https_www.binance.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/26-01:22:58.780 1de1 Recovering log #4
+2021/11/26-01:22:58.780 1de1 Reusing old log /home/nik/.config/Binance/Partitions/binance.web-page/IndexedDB/https_www.binance.com_0.indexeddb.leveldb/000004.log 
+2021/11/26-01:23:09.418 1f17 Level-0 table #8: started
+2021/11/26-01:23:09.453 1f17 Level-0 table #8: 7769 bytes OK
+2021/11/26-01:23:09.486 1f17 Delete type=0 #4
+2021/11/26-01:23:09.487 1f17 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/26-01:23:09.487 1f17 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x1d\x00C\x00A\x00N\x00D\x00L\x00E\x00S\x00T\x00I\x00C\x00K\x00_\x00S\x00E\x00T\x00T\x00I\x00N\x00G\x00_\x00I\x00N\x00D\x00I\x00C\x00A\x00T\x00O\x00R' @ 151 : 1
+2021/11/26-01:23:09.487 1f17 Compacting 1@1 + 1@2 files
+2021/11/26-01:23:09.520 1f17 Generated table #9@1: 54 keys, 3296 bytes
+2021/11/26-01:23:09.520 1f17 Compacted 1@1 + 1@2 files => 3296 bytes
+2021/11/26-01:23:09.551 1f17 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/26-01:23:09.552 1f17 Delete type=2 #5
+2021/11/26-01:23:09.552 1f17 Delete type=2 #8
+2021/11/26-01:23:09.552 1f17 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x1d\x00C\x00A\x00N\x00D\x00L\x00E\x00S\x00T\x00I\x00C\x00K\x00_\x00S\x00E\x00T\x00T\x00I\x00N\x00G\x00_\x00I\x00N\x00D\x00I\x00C\x00A\x00T\x00O\x00R' @ 151 : 1 .. (end); will stop at (end)

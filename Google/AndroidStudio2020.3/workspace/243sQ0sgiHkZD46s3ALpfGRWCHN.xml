@@ -1,0 +1,164 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/widget_test.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#1053#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getDownloadDirectory</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/lib/main.dart" />
+      <option value="$PROJECT_DIR$/pubspec.yaml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flutter-file-download-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter-file-download-example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter-file-download-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter-file-download-example" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter-file-download-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter-file-download-example" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.33484164" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Commit" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="4" weight="0.32935917" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="clangd" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.32935917" />
+      <window_info anchor="bottom" id="Dart Analysis" order="6" />
+      <window_info anchor="bottom" id="Services" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="6" />
+      <window_info anchor="right" id="Flutter Performance" order="6" />
+      <window_info anchor="right" id="Layout Validation" order="6" />
+      <window_info anchor="right" id="Flutter Outline" order="6" />
+      <window_info anchor="right" id="Flutter Inspector" order="6" />
+    </layout>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="145" y="40" width="1076" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1642870741834">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="145" y="40" width="1076" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.19.1366.749@0.19.1366.749" timestamp="1642870741834" />
+    <state x="100" y="82" width="1166" height="586" key="AVDManager" timestamp="1642876195523">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="100" y="82" width="1166" height="586" key="AVDManager/0.19.1366.749@0.19.1366.749" timestamp="1642876195523" />
+    <state x="475" y="193" key="FileChooserDialogImpl" timestamp="1642870958344">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="475" y="193" key="FileChooserDialogImpl/0.19.1366.749@0.19.1366.749" timestamp="1642870958344" />
+    <state x="289" y="97" width="788" height="562" key="SettingsEditor" timestamp="1642871038164">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="289" y="97" width="788" height="562" key="SettingsEditor/0.19.1366.749@0.19.1366.749" timestamp="1642871038164" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/widget_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1053#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

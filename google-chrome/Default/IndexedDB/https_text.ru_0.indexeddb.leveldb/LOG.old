@@ -1,0 +1,6 @@
+2021/11/21-18:38:50.324 6f97 Creating DB /home/nik/.config/google-chrome/Default/IndexedDB/https_text.ru_0.indexeddb.leveldb since it was missing.
+2021/11/21-18:38:50.445 6f97 Reusing MANIFEST /home/nik/.config/google-chrome/Default/IndexedDB/https_text.ru_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/21-18:38:52.939 6eb1 Level-0 table #5: started
+2021/11/21-18:38:52.984 6eb1 Level-0 table #5: 842 bytes OK
+2021/11/21-18:38:53.021 6eb1 Delete type=0 #3
+2021/11/21-18:38:53.021 6eb1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,39 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "../../Downloads/latex/otchot/first.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "../../Downloads/latex/otchot/titul.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 71,
+                "EditorGroup": 0,
+                "FileName": "../../Downloads/latex/otchot/bodu.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 6
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../Downloads/latex/otchot/first.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 51
+            },
+            {
+                "Col": 34,
+                "EditorGroup": 0,
+                "FileName": "../../Downloads/latex/otchot/titul.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 4
+            }
+        ],
+        "MasterFile": ""
+    }
+}

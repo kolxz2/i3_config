@@ -1,0 +1,506 @@
+{
+  "entries": {
+    "static/runtime/main": {
+      "js": [
+        "static/runtime/main-016355a147d1238d48da.js"
+      ]
+    },
+    "static/runtime/polyfill": {
+      "js": [
+        "static/runtime/polyfill-4806f3c929ce61bf25d6.js"
+      ]
+    },
+    "static/runtime/sentry": {
+      "js": [
+        "static/runtime/sentry-c53b3e92b872baa1b646.js"
+      ]
+    },
+    "margin": {
+      "js": [
+        "static/chunks/margin-remoteEntryb3c006f90795f041489b8aed370f8b6a5ea915f2.js"
+      ]
+    }
+  },
+  "bundles": {
+    "static/runtime/main": "static/runtime/main-016355a147d1238d48da.js",
+    "static/runtime/polyfill": "static/runtime/polyfill-4806f3c929ce61bf25d6.js",
+    "static/runtime/sentry": "static/runtime/sentry-c53b3e92b872baa1b646.js",
+    "margin": "static/chunks/margin-remoteEntryb3c006f90795f041489b8aed370f8b6a5ea915f2.js"
+  },
+  "chunkRequest": {},
+  "loadble": {
+    "./pages/account": {
+      "files": [
+        "static/chunks/7964.671876fd.js"
+      ],
+      "children": [
+        {
+          "id": "SIFQ",
+          "name": "./pages/account/index.js"
+        }
+      ]
+    },
+    "./pages/dust/convert": {
+      "files": [
+        "static/chunks/6359.ca5711a2.js"
+      ],
+      "children": [
+        {
+          "id": "/qW/",
+          "name": "./pages/dust/convert/index.js"
+        }
+      ]
+    },
+    "./pages/dust/history": {
+      "files": [
+        "static/chunks/3497.5342aca0.js"
+      ],
+      "children": [
+        {
+          "id": "xLAg",
+          "name": "./pages/dust/history/index.js"
+        }
+      ]
+    },
+    "./pages/orders/margin/Borrow": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/571.7c9c7385.js"
+      ],
+      "children": [
+        {
+          "id": "7mz8",
+          "name": "./pages/orders/margin/Borrow/index.js"
+        }
+      ]
+    },
+    "./pages/orders/margin/CapitalFlow": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/1569.41af12c8.js"
+      ],
+      "children": [
+        {
+          "id": "OIFb",
+          "name": "./pages/orders/margin/CapitalFlow/index.tsx"
+        }
+      ]
+    },
+    "./pages/orders/margin/FeeReturn": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/4955.30c6598e.js"
+      ],
+      "children": [
+        {
+          "id": "/Zhn",
+          "name": "./pages/orders/margin/FeeReturn/index.js"
+        }
+      ]
+    },
+    "./pages/orders/margin/Interest": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/7001.a2c8c878.js"
+      ],
+      "children": [
+        {
+          "id": "oTS/",
+          "name": "./pages/orders/margin/Interest/index.js"
+        }
+      ]
+    },
+    "./pages/orders/margin/Liquidation": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/8.63587353.js"
+      ],
+      "children": [
+        {
+          "id": "hcxW",
+          "name": "./pages/orders/margin/Liquidation/index.js"
+        }
+      ]
+    },
+    "./pages/orders/margin/LiquidationOrder": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/5496.90b3628e.js"
+      ],
+      "children": [
+        {
+          "id": "lq5a",
+          "name": "./pages/orders/margin/LiquidationOrder/index.js"
+        }
+      ]
+    },
+    "./pages/orders/margin/MarginCall": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/3187.53a24faa.js"
+      ],
+      "children": [
+        {
+          "id": "Ua1X",
+          "name": "./pages/orders/margin/MarginCall/index.js"
+        }
+      ]
+    },
+    "./pages/orders/margin/Repayment": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/2658.9998d788.js"
+      ],
+      "children": [
+        {
+          "id": "4CvZ",
+          "name": "./pages/orders/margin/Repayment/index.js"
+        }
+      ]
+    },
+    "./pages/orders/margin/Transfer": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/4534.9993478c.js"
+      ],
+      "children": [
+        {
+          "id": "54/K",
+          "name": "./pages/orders/margin/Transfer/index.js"
+        }
+      ]
+    },
+    "./pages/orders/margin/openorder": {
+      "files": [
+        "static/css/a9f72d49.chunk.css",
+        "static/chunks/7321.9db034ec.js"
+      ],
+      "children": [
+        {
+          "id": "KORb",
+          "name": "./pages/orders/margin/openorder/index.js"
+        }
+      ]
+    },
+    "./pages/orders/margin/tradeorder": {
+      "files": [
+        "static/css/a9f72d49.chunk.css",
+        "static/chunks/5343.0f72c81b.js"
+      ],
+      "children": [
+        {
+          "id": "+ez+",
+          "name": "./pages/orders/margin/tradeorder/index.js"
+        }
+      ]
+    },
+    "./pages/orders/margin/usertrade": {
+      "files": [
+        "static/css/a9f72d49.chunk.css",
+        "static/chunks/2809.9f6dc583.js"
+      ],
+      "children": [
+        {
+          "id": "fBNz",
+          "name": "./pages/orders/margin/usertrade/index.js"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/.shuvi/app/bootstrap": {
+      "files": [
+        "static/chunks/1184.eb35a433.js"
+      ],
+      "children": [
+        {
+          "id": "xOtD",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/2fdd1b2deee74461badb79044b641294/execroot/mono/bazel-out/k8-fastbuild/bin/libs/shuvi-preset-binance/dist/lib/utils/sentry-global.js"
+        },
+        {
+          "id": "4KmO",
+          "name": "./.shuvi/app/bootstrap.js"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/.shuvi/app/core/404?shuvi-route": {
+      "files": [
+        "static/chunks/page-79c1.305aaa4b.js"
+      ],
+      "children": [
+        {
+          "id": "h1ce",
+          "name": "./.shuvi/app/core/404.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/pages/account?shuvi-route": {
+      "files": [
+        "static/chunks/page-mainucmargin-ui-account.da511dfe.js"
+      ],
+      "children": [
+        {
+          "id": "t+0M",
+          "name": "./pages/account/index.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/pages/dust/convert?shuvi-route": {
+      "files": [
+        "static/chunks/page-mainucmargin-ui-convert.6760c4fa.js"
+      ],
+      "children": [
+        {
+          "id": "F217",
+          "name": "./pages/dust/convert/index.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/pages/dust/history?shuvi-route": {
+      "files": [
+        "static/chunks/page-mainucmargin-ui-history.c9243766.js"
+      ],
+      "children": [
+        {
+          "id": "zyVz",
+          "name": "./pages/dust/history/index.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/pages/orders/margin/Borrow?shuvi-route": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/page-mainucmargin-ui-Borrow.fae248da.js"
+      ],
+      "children": [
+        {
+          "id": "wiJQ",
+          "name": "./pages/orders/margin/Borrow/index.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/pages/orders/margin/CapitalFlow?shuvi-route": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/page-mainucmargin-ui-CapitalFlow.2ef759f4.js"
+      ],
+      "children": [
+        {
+          "id": "S0JQ",
+          "name": "./pages/orders/margin/CapitalFlow/index.tsx?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/pages/orders/margin/FeeReturn?shuvi-route": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/page-mainucmargin-ui-FeeReturn.24c27d86.js"
+      ],
+      "children": [
+        {
+          "id": "MPeV",
+          "name": "./pages/orders/margin/FeeReturn/index.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/pages/orders/margin/Interest?shuvi-route": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/page-mainucmargin-ui-Interest.87f8c491.js"
+      ],
+      "children": [
+        {
+          "id": "plEF",
+          "name": "./pages/orders/margin/Interest/index.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/pages/orders/margin/Liquidation?shuvi-route": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/page-mainucmargin-ui-Liquidation.766838e8.js"
+      ],
+      "children": [
+        {
+          "id": "cLiw",
+          "name": "./pages/orders/margin/Liquidation/index.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/pages/orders/margin/LiquidationOrder?shuvi-route": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/page-mainucmargin-ui-LiquidationOrder.4b43f4a1.js"
+      ],
+      "children": [
+        {
+          "id": "Fgpn",
+          "name": "./pages/orders/margin/LiquidationOrder/index.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/pages/orders/margin/MarginCall?shuvi-route": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/page-mainucmargin-ui-MarginCall.1840d8d4.js"
+      ],
+      "children": [
+        {
+          "id": "HpGL",
+          "name": "./pages/orders/margin/MarginCall/index.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/pages/orders/margin/Repayment?shuvi-route": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/page-mainucmargin-ui-Repayment.8b5ed7b1.js"
+      ],
+      "children": [
+        {
+          "id": "mrNO",
+          "name": "./pages/orders/margin/Repayment/index.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/pages/orders/margin/Transfer?shuvi-route": {
+      "files": [
+        "static/css/28ab03be.chunk.css",
+        "static/chunks/page-mainucmargin-ui-Transfer.1fed1ef3.js"
+      ],
+      "children": [
+        {
+          "id": "fVCr",
+          "name": "./pages/orders/margin/Transfer/index.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/pages/orders/margin/openorder?shuvi-route": {
+      "files": [
+        "static/css/a9f72d49.chunk.css",
+        "static/chunks/page-mainucmargin-ui-openorder.e30e0c64.js"
+      ],
+      "children": [
+        {
+          "id": "+96D",
+          "name": "./pages/orders/margin/openorder/index.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/pages/orders/margin/tradeorder?shuvi-route": {
+      "files": [
+        "static/css/a9f72d49.chunk.css",
+        "static/chunks/page-mainucmargin-ui-tradeorder.fd7aa7ec.js"
+      ],
+      "children": [
+        {
+          "id": "TYVZ",
+          "name": "./pages/orders/margin/tradeorder/index.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.IcAjRpisKA/web/apps/mainuc-margin-ui/pages/orders/margin/usertrade?shuvi-route": {
+      "files": [
+        "static/css/a9f72d49.chunk.css",
+        "static/chunks/page-mainucmargin-ui-usertrade.cc296754.js"
+      ],
+      "children": [
+        {
+          "id": "U/18",
+          "name": "./pages/orders/margin/usertrade/index.js?shuvi-route"
+        }
+      ]
+    },
+    "@lottiefiles/lottie-player": {
+      "files": [
+        "static/chunks/6233.7584e8b3.js"
+      ],
+      "children": [
+        {
+          "id": "ZygV",
+          "name": "../../node_modules/@lottiefiles/lottie-player/dist/lottie-player.esm.js"
+        }
+      ]
+    },
+    "undefined": {
+      "files": [
+        "static/chunks/4759.2cc07a61.js",
+        "static/css/5fac97d3.chunk.css",
+        "static/chunks/6924.bac8c75e.js",
+        "static/chunks/7975.4ce8b4a2.js",
+        "static/chunks/8236.edb8fa72.js",
+        "static/chunks/6403.3ffdd760.js",
+        "static/chunks/6761.3cb374c7.js",
+        "static/chunks/7479.f68d58da.js",
+        "static/chunks/3352.302e864d.js",
+        "static/chunks/6635.9e991610.js",
+        "static/chunks/9034.fae024e8.js",
+        "static/chunks/2428.b2cda605.js",
+        "static/chunks/7933.e31e6fff.js",
+        "static/chunks/4517.9d6604ea.js",
+        "static/chunks/8443.afe2eaae.js",
+        "static/chunks/8362.e953b6ba.js",
+        "static/chunks/1885.c26a3352.js",
+        "static/chunks/6643.bacc0251.js",
+        "static/chunks/6077.22e94394.js",
+        "static/chunks/6022.36f4ba63.js",
+        "static/chunks/3531.d3748f3a.js",
+        "static/chunks/8397.6752abab.js",
+        "static/chunks/1159.1b397e40.js",
+        "static/chunks/2468.50b1283d.js"
+      ],
+      "children": [
+        {
+          "id": "31vv",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/2fdd1b2deee74461badb79044b641294/execroot/mono/bazel-out/k8-fastbuild/bin/libs/http/dist/esm/index.js"
+        },
+        {
+          "id": "O1am",
+          "name": "../../libs/mainuc-shared/index.js"
+        },
+        {
+          "id": "nwd9",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/2fdd1b2deee74461badb79044b641294/execroot/mono/bazel-out/k8-fastbuild/bin/libs/model/dist/esm/index.js"
+        },
+        {
+          "id": "9VvZ",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/2fdd1b2deee74461badb79044b641294/execroot/mono/bazel-out/k8-fastbuild/bin/libs/simple-widget/dist/esm/index.js"
+        },
+        {
+          "id": "Q/Vm",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/2fdd1b2deee74461badb79044b641294/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-core/dist/esm/index.js"
+        },
+        {
+          "id": "5TH0",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/2fdd1b2deee74461badb79044b641294/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-theme/dist/esm/index.js"
+        },
+        {
+          "id": "rga4",
+          "name": "../../../../../root/.cache/bazel/_bazel_root/2fdd1b2deee74461badb79044b641294/execroot/mono/bazel-out/k8-fastbuild/bin/libs/uikit-widget/dist/esm/index.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "z/Z1",
+          "name": "../../node_modules/emotion-theming/dist/emotion-theming.browser.esm.js"
+        },
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "Iaxg",
+          "name": "../../node_modules/react-i18next/dist/es/index.js"
+        },
+        {
+          "id": "daAW",
+          "name": "../../node_modules/react-router-dom/esm/react-router-dom.js"
+        },
+        {
+          "id": "mPIB",
+          "name": "../../node_modules/react-router/esm/react-router.js"
+        }
+      ]
+    }
+  }
+}

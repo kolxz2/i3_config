@@ -1,0 +1,33 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/demo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="demo – hello-view.fxml" projectWorkspaceId="216p80kBelvQdUzIzaydEewZX01">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-212.5457.46" />
+              <option name="buildTimestamp" value="1634044939652" />
+              <frame x="0" y="-18" width="1366" height="786" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1637271230262" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – What's New in IntelliJ IDEA" opened="true" projectWorkspaceId="21NXHDs7tJBG3GjetvMExXgc64v">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-212.5457.46" />
+              <option name="buildTimestamp" value="1634044949578" />
+              <frame x="0" y="-18" width="1366" height="786" extendedState="6" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1637782435063" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/IdeaProjects" />
+  </component>
+</application>

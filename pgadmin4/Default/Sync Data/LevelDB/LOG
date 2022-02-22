@@ -1,0 +1,3 @@
+2021/11/01-20:06:23.661 f382 Reusing MANIFEST /home/nik/.config/pgadmin4/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/11/01-20:06:23.662 f382 Recovering log #3
+2021/11/01-20:06:23.677 f382 Reusing old log /home/nik/.config/pgadmin4/Default/Sync Data/LevelDB/000003.log 

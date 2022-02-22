@@ -1,0 +1,40 @@
+[2021-12-15 16:38:11.044] [sharedprocess] [info] Starting worker process with pid 7245 (type: watcherServiceParcelSharedProcess, window: 1).
+[2021-12-15 16:38:11.162] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-ssh-edit /home/nik/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.66.1
+[2021-12-15 16:38:16.986] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/nik/.vscode/extensions/ms-python.vscode-pylance-2021.12.0
+[2021-12-15 16:38:17.258] [sharedprocess] [info] Deleted from disk ms-python.python /home/nik/.vscode/extensions/ms-python.python-2021.11.1422169775
+[2021-12-15 16:38:28.987] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-12-15 16:38:28.989] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh-edit
+[2021-12-15 16:38:29.536] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2021-12-15 16:38:29.539] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh
+[2021-12-15 16:38:29.550] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-wsl
+[2021-12-15 16:38:31.536] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh-edit /home/nik/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-ssh-edit-0.70.0
+[2021-12-15 16:38:31.594] [sharedprocess] [info] Extracted extension to /home/nik/.vscode/extensions/.2f0c082d-b6ad-47f1-9dfa-07122cfd332a: ms-vscode-remote.remote-ssh-edit
+[2021-12-15 16:38:31.702] [sharedprocess] [info] Renamed to /home/nik/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.70.0
+[2021-12-15 16:38:31.704] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-ssh-edit
+[2021-12-15 16:38:31.832] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit
+[2021-12-15 16:38:32.050] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh /home/nik/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-ssh-0.70.0
+[2021-12-15 16:38:32.268] [sharedprocess] [info] Extracted extension to /home/nik/.vscode/extensions/.ae971230-292a-44ed-807a-c1b61650b276: ms-vscode-remote.remote-ssh
+[2021-12-15 16:38:32.353] [sharedprocess] [info] Renamed to /home/nik/.vscode/extensions/ms-vscode-remote.remote-ssh-0.70.0
+[2021-12-15 16:38:32.362] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-ssh
+[2021-12-15 16:38:32.434] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-ssh
+[2021-12-15 16:38:36.184] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-wsl /home/nik/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-wsl-0.63.11
+[2021-12-15 16:38:36.474] [sharedprocess] [info] Extracted extension to /home/nik/.vscode/extensions/.7d5ce754-8981-4f5e-a2be-4723fb31fbed: ms-vscode-remote.remote-wsl
+[2021-12-15 16:38:36.574] [sharedprocess] [info] Renamed to /home/nik/.vscode/extensions/ms-vscode-remote.remote-wsl-0.63.11
+[2021-12-15 16:38:36.577] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-wsl
+[2021-12-15 16:38:36.619] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+[2021-12-15 16:38:42.609] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers /home/nik/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-containers-0.209.6
+[2021-12-15 16:38:43.791] [sharedprocess] [info] Extracted extension to /home/nik/.vscode/extensions/.d968e266-22a4-4141-b586-529705191574: ms-vscode-remote.remote-containers
+[2021-12-15 16:38:43.869] [sharedprocess] [info] Renamed to /home/nik/.vscode/extensions/ms-vscode-remote.remote-containers-0.209.6
+[2021-12-15 16:38:43.876] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-containers
+[2021-12-15 16:38:43.919] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-containers
+[2021-12-15 16:39:04.957] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/nik/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.12.2
+[2021-12-15 16:39:10.895] [sharedprocess] [info] Extracted extension to /home/nik/.vscode/extensions/.1818e4e3-d98c-42b8-aa7e-3bf4f540787f: ms-python.vscode-pylance
+[2021-12-15 16:39:10.962] [sharedprocess] [info] Renamed to /home/nik/.vscode/extensions/ms-python.vscode-pylance-2021.12.2
+[2021-12-15 16:39:10.967] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-12-15 16:39:11.022] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2021-12-15 16:39:12.004] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-12-15 16:39:29.103] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/nik/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.11.1001550889
+[2021-12-15 16:39:29.984] [sharedprocess] [info] Extracted extension to /home/nik/.vscode/extensions/.f55d8377-fff8-4582-b8a4-258e6b4535bb: ms-toolsai.jupyter
+[2021-12-15 16:39:30.061] [sharedprocess] [info] Renamed to /home/nik/.vscode/extensions/ms-toolsai.jupyter-2021.11.1001550889
+[2021-12-15 16:39:30.066] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2021-12-15 16:39:30.114] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter

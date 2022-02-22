@@ -1,0 +1,32 @@
+[2022-01-22 22:41:06.328] [exthost] [info] Extension host with pid 5128 started
+[2022-01-22 22:41:06.328] [exthost] [info] Skipping acquiring lock for /home/nik/.config/Code/User/workspaceStorage/f40fd409dd9d49899fd8c6466139e2ca.
+[2022-01-22 22:41:06.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-22 22:41:07.841] [exthost] [info] ExtensionService#_doActivateExtension cschlosser.doxdocgen, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-01-22 22:41:10.379] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-01-22 22:41:10.934] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-22 22:41:11.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-22 22:41:11.386] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-01-22 22:41:11.612] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-22 22:41:11.765] [exthost] [info] Eager extensions activated
+[2022-01-22 22:41:16.115] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-22 22:41:16.410] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-22 22:41:16.497] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-22 22:41:16.751] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-22 22:41:17.221] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-22 22:42:48.699] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-22 22:42:48.953] [exthost] [info] Extension host with pid 5128 exiting with code 0
+[2022-01-22 22:43:00.634] [exthost] [info] Extension host with pid 5475 started
+[2022-01-22 22:43:00.634] [exthost] [info] Skipping acquiring lock for /home/nik/.config/Code/User/workspaceStorage/f40fd409dd9d49899fd8c6466139e2ca.
+[2022-01-22 22:43:00.758] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-22 22:43:00.830] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-22 22:43:00.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-22 22:43:01.048] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-01-22 22:43:01.226] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-22 22:43:01.417] [exthost] [info] Eager extensions activated
+[2022-01-22 22:43:01.418] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-22 22:43:01.550] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-22 22:43:01.619] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-22 22:43:01.646] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-22 22:43:01.814] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-22 23:16:10.097] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-22 23:16:10.129] [exthost] [info] Extension host with pid 5475 exiting with code 0

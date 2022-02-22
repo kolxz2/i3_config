@@ -1,0 +1,20 @@
+[2022-01-22 22:41:12.415] [sharedprocess] [info] Starting worker process with pid 5225 (type: watcherServiceParcelSharedProcess, window: 1).
+[2022-01-22 22:41:17.310] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-01-22 22:41:38.096] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/nik/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.1.3
+[2022-01-22 22:41:39.263] [sharedprocess] [info] Installing extension: dart-code.flutter
+[2022-01-22 22:41:47.804] [sharedprocess] [info] Extracted extension to /home/nik/.vscode/extensions/.7bb38afa-83ec-467b-8ba3-1517278b6858: ms-python.vscode-pylance
+[2022-01-22 22:41:48.190] [sharedprocess] [info] Renamed to /home/nik/.vscode/extensions/ms-python.vscode-pylance-2022.1.3
+[2022-01-22 22:41:48.205] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-01-22 22:41:48.230] [sharedprocess] [info] Downloaded extension: dart-code.flutter /home/nik/.config/Code/CachedExtensionVSIXs/dart-code.flutter-3.32.0
+[2022-01-22 22:41:48.260] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-01-22 22:41:48.293] [sharedprocess] [info] Extracted extension to /home/nik/.vscode/extensions/.9c9f352b-10ea-49ad-9000-48b120596bc6: dart-code.flutter
+[2022-01-22 22:41:48.347] [sharedprocess] [info] Renamed to /home/nik/.vscode/extensions/dart-code.flutter-3.32.0
+[2022-01-22 22:41:48.350] [sharedprocess] [info] Extracting completed. dart-code.flutter
+[2022-01-22 22:41:48.352] [sharedprocess] [info] Extension installed successfully: dart-code.flutter
+[2022-01-22 22:42:38.740] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2022-01-22 22:42:43.492] [sharedprocess] [info] Extracted extension to /home/nik/.vscode/extensions/.4ac23ca0-419b-4d40-911b-4f364527196a: ms-vscode.cpptools
+[2022-01-22 22:42:43.990] [sharedprocess] [info] Renamed to /home/nik/.vscode/extensions/ms-vscode.cpptools-1.8.0
+[2022-01-22 22:42:43.996] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2022-01-22 22:42:44.009] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-01-22 22:42:48.720] [sharedprocess] [info] Worker process with pid 5225 terminated normally (type: watcherServiceParcelSharedProcess, window: 1).
+[2022-01-22 22:42:56.304] [sharedprocess] [info] Starting worker process with pid 5476 (type: watcherServiceParcelSharedProcess, window: 1).

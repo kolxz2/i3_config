@@ -1,0 +1,188 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="46" column="23" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/pubspec.yaml" />
+      <option value="$PROJECT_DIR$/lib/main.dart" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sedond" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sedond" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sedond" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sedond" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21870287" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Commit" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.33830103" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="clangd" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.32935917" />
+      <window_info anchor="bottom" id="Dart Analysis" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.32935917" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.32935917" />
+      <window_info anchor="bottom" id="Services" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Flutter Performance" order="0" />
+      <window_info anchor="right" id="Layout Validation" order="1" />
+      <window_info anchor="right" id="Flutter Outline" order="2" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" />
+      <window_info anchor="right" id="scrcpy" order="4" />
+    </layout>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="316" y="69" width="724" height="618" key="#Inspections" timestamp="1641363323543">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="316" y="69" width="724" height="618" key="#Inspections/0.19.1366.749@0.19.1366.749" timestamp="1641363323543" />
+    <state x="519" y="190" width="318" height="377" key="FileChooserDialogImpl" timestamp="1643369578547">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="519" y="190" width="318" height="377" key="FileChooserDialogImpl/0.19.1366.749@0.19.1366.749" timestamp="1643369578547" />
+    <state width="1326" height="200" key="GridCell.Tab.0.bottom" timestamp="1642010081226">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state width="1326" height="200" key="GridCell.Tab.0.bottom/0.19.1366.749@0.19.1366.749" timestamp="1642010081226" />
+    <state width="1326" height="200" key="GridCell.Tab.0.center" timestamp="1642010081222">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state width="1326" height="200" key="GridCell.Tab.0.center/0.19.1366.749@0.19.1366.749" timestamp="1642010081222" />
+    <state width="1326" height="200" key="GridCell.Tab.0.left" timestamp="1642010081221">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state width="1326" height="200" key="GridCell.Tab.0.left/0.19.1366.749@0.19.1366.749" timestamp="1642010081221" />
+    <state width="1326" height="200" key="GridCell.Tab.0.right" timestamp="1642010081224">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state width="1326" height="200" key="GridCell.Tab.0.right/0.19.1366.749@0.19.1366.749" timestamp="1642010081224" />
+    <state x="294" y="54" width="768" height="648" key="SettingsEditor" timestamp="1641359648567">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="294" y="54" width="768" height="648" key="SettingsEditor/0.19.1366.749@0.19.1366.749" timestamp="1641359648567" />
+    <state x="354" y="163" width="647" height="576" key="new project wizard" timestamp="1642153439427">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="354" y="163" width="647" height="576" key="new project wizard/0.19.1366.749@0.19.1366.749" timestamp="1642153439427" />
+    <state x="429" y="154" width="505" height="399" key="search.everywhere.popup" timestamp="1641364956626">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="429" y="154" width="505" height="399" key="search.everywhere.popup/0.19.1366.749@0.19.1366.749" timestamp="1641364956626" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sedond.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/snap/flutter/common/flutter/packages/flutter/lib/src/widgets/basic.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="1774" column="8" selection-start-line="1774" selection-start-column="8" selection-end-line="1774" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="23" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sedond</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

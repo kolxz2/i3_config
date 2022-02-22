@@ -1,0 +1,368 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/child_test.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+              <folding>
+                <element signature="e#2#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/children/childen.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/pages/home.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="194" column="40" lean-forward="true" selection-start-line="194" selection-start-column="40" selection-end-line="194" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>eleva</find>
+      <find>StatefulBuilder</find>
+      <find>child</find>
+      <find>childr</find>
+      <find>index_todo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>indexTodo</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/lib/children</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/test/child_test.dart" />
+      <option value="$PROJECT_DIR$/lib/main.dart" />
+      <option value="$PROJECT_DIR$/lib/children/childen.dart" />
+      <option value="$PROJECT_DIR$/lib/pages/home.dart" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="history-1" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test_setGrades - 2022.01.28 at 16h 07m 43s.xml">
+      <configuration name="test_setGrades" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="test_setGrades - 2022.01.28 at 16h 21m 57s.xml">
+      <configuration name="test_setGrades" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="tests_in_child_test_dart - 2022.01.28 at 22h 09m 31s.xml">
+      <configuration name="tests in child_test.dart" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="test_setGradesByIndex - 2022.01.28 at 22h 11m 18s.xml">
+      <configuration name="test_setGradesByIndex" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="test_setGradesByIndex - 2022.01.28 at 22h 14m 06s.xml">
+      <configuration name="test_setGradesByIndex" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="tests_in_child_test_dart - 2022.01.28 at 22h 52m 33s.xml">
+      <configuration name="tests in child_test.dart" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="tests_in_child_test_dart - 2022.01.28 at 22h 53m 24s.xml">
+      <configuration name="tests in child_test.dart" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="tests_in_child_test_dart - 2022.01.28 at 22h 54m 22s.xml">
+      <configuration name="tests in child_test.dart" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="tests_in_child_test_dart - 2022.01.28 at 22h 57m 15s.xml">
+      <configuration name="tests in child_test.dart" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="tests_in_child_test_dart - 2022.01.28 at 23h 23m 09s.xml">
+      <configuration name="tests in child_test.dart" configurationId="FlutterTestConfigType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.23378582" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Commit" order="4" weight="0.36048266" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.37406856" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.32935917" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32935917" />
+      <window_info anchor="bottom" id="clangd" order="5" />
+      <window_info anchor="bottom" id="Dart Analysis" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.44262296" />
+      <window_info anchor="bottom" id="Services" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.5752608" />
+      <window_info anchor="right" id="Flutter Performance" order="0" />
+      <window_info anchor="right" id="Layout Validation" order="1" />
+      <window_info anchor="right" id="Flutter Outline" order="2" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" />
+      <window_info anchor="right" x="0" y="0" width="291" height="586" id="Documentation" order="4" side_tool="true" visible="true" weight="0.3295626" />
+      <window_info anchor="right" id="scrcpy" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20889895" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Commit" order="4" weight="0.3295626" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3546945" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32935917" />
+      <window_info anchor="bottom" id="clangd" order="5" />
+      <window_info anchor="bottom" id="Dart Analysis" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.44411325" />
+      <window_info anchor="bottom" id="Services" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="10" />
+      <window_info anchor="right" id="Flutter Performance" order="0" />
+      <window_info anchor="right" id="Layout Validation" order="1" />
+      <window_info anchor="right" id="Flutter Outline" order="2" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" />
+      <window_info anchor="right" x="0" y="0" width="291" height="586" id="Documentation" order="4" side_tool="true" visible="true" weight="0.3295626" />
+      <window_info anchor="right" id="scrcpy" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="145" y="40" width="1076" height="670" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643387976415">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="145" y="40" width="1076" height="670" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.19.1366.749@0.19.1366.749" timestamp="1643387976415" />
+    <state x="100" y="82" width="1166" height="586" key="AVDManager" timestamp="1644855562135">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="100" y="82" width="1166" height="586" key="AVDManager/0.19.1366.749@0.19.1366.749" timestamp="1644855562135" />
+    <state width="368" height="70" key="DebuggerActiveHint" timestamp="1643981363393">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state width="368" height="70" key="DebuggerActiveHint/0.19.1366.749@0.19.1366.749" timestamp="1643981363393" />
+    <state x="519" y="190" width="318" height="377" key="FileChooserDialogImpl" timestamp="1643443648288">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="519" y="190" width="318" height="377" key="FileChooserDialogImpl/0.19.1366.749@0.19.1366.749" timestamp="1643443648288" />
+    <state x="567" y="292" width="231" height="172" key="Github.ShareDialog" timestamp="1642345090623">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="567" y="292" width="231" height="172" key="Github.ShareDialog/0.19.1366.749@0.19.1366.749" timestamp="1642345090623" />
+    <state x="491" y="107" width="373" height="542" key="Github.UntrackedFilesDialog" timestamp="1642345336396">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="491" y="107" width="373" height="542" key="Github.UntrackedFilesDialog/0.19.1366.749@0.19.1366.749" timestamp="1642345336396" />
+    <state width="1326" height="276" key="GridCell.Tab.0.bottom" timestamp="1644872180021">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state width="1320" height="255" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1644051893744" />
+    <state width="1326" height="276" key="GridCell.Tab.0.bottom/0.19.1366.749@0.19.1366.749" timestamp="1644872180021" />
+    <state width="1326" height="276" key="GridCell.Tab.0.center" timestamp="1644872180020">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state width="1320" height="255" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1644051893740" />
+    <state width="1326" height="276" key="GridCell.Tab.0.center/0.19.1366.749@0.19.1366.749" timestamp="1644872180020" />
+    <state width="1326" height="276" key="GridCell.Tab.0.left" timestamp="1644872180019">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state width="1320" height="255" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1644051893738" />
+    <state width="1326" height="276" key="GridCell.Tab.0.left/0.19.1366.749@0.19.1366.749" timestamp="1644872180019" />
+    <state width="1326" height="276" key="GridCell.Tab.0.right" timestamp="1644872180021">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state width="1320" height="255" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1644051893742" />
+    <state width="1326" height="276" key="GridCell.Tab.0.right/0.19.1366.749@0.19.1366.749" timestamp="1644872180021" />
+    <state x="472" y="136" width="788" height="562" key="SettingsEditor" timestamp="1644855492604">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="472" y="136" width="788" height="562" key="SettingsEditor/0.19.1366.749@0.19.1366.749" timestamp="1644855492604" />
+    <state x="378" y="172" width="600" height="412" key="Vcs.Push.Dialog.v2" timestamp="1643981187134">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="378" y="172" width="600" height="412" key="Vcs.Push.Dialog.v2/0.19.1366.749@0.19.1366.749" timestamp="1643981187134" />
+    <state x="438" y="48" width="489" height="654" key="find.popup" timestamp="1642268389786">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="438" y="48" width="489" height="654" key="find.popup/0.19.1366.749@0.19.1366.749" timestamp="1642268389786" />
+    <state x="354" y="163" width="647" height="574" key="new project wizard" timestamp="1642791820043">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="354" y="163" width="647" height="574" key="new project wizard/0.19.1366.749@0.19.1366.749" timestamp="1642791820043" />
+    <state x="430" y="166" key="run.anything.popup" timestamp="1642262078469">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="430" y="166" key="run.anything.popup/0.19.1366.749@0.19.1366.749" timestamp="1642262078469" />
+    <state x="429" y="154" key="search.everywhere.popup" timestamp="1642268390584">
+      <screen x="0" y="19" width="1366" height="749" />
+    </state>
+    <state x="429" y="154" key="search.everywhere.popup/0.19.1366.749@0.19.1366.749" timestamp="1642268390584" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis_options.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.3/lib/src/expect/expect.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="136" column="30" selection-start-line="136" selection-start-column="30" selection-end-line="136" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.3/lib/src/backend/invoker.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="258" column="5" selection-start-line="258" selection-start-column="5" selection-end-line="258" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0/lib/src/stack_zone_specification.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="137" column="6" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.3/lib/src/backend/declarer.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1769">
+          <caret line="203" column="5" selection-start-line="203" selection-start-column="5" selection-end-line="203" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/snap/flutter/common/flutter/packages/flutter/lib/src/widgets/text.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="361" column="8" selection-start-line="361" selection-start-column="8" selection-end-line="361" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/snap/flutter/common/flutter/packages/flutter/lib/src/material/dropdown.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1283" column="5" selection-start-line="1283" selection-start-column="5" selection-end-line="1283" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/snap/flutter/common/flutter/packages/flutter/lib/src/widgets/framework.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="1087" column="29" selection-start-line="1087" selection-start-column="29" selection-end-line="1087" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/child_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+          <folding>
+            <element signature="e#2#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/children/childen.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pages/home.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="194" column="40" lean-forward="true" selection-start-line="194" selection-start-column="40" selection-end-line="194" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

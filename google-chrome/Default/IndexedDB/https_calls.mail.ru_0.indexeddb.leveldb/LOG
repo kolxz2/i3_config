@@ -1,0 +1,6 @@
+2021/11/14-03:29:28.456 19b0e Creating DB /home/nik/.config/google-chrome/Default/IndexedDB/https_calls.mail.ru_0.indexeddb.leveldb since it was missing.
+2021/11/14-03:29:28.561 19b0e Reusing MANIFEST /home/nik/.config/google-chrome/Default/IndexedDB/https_calls.mail.ru_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/14-03:29:57.940 19b0e Level-0 table #5: started
+2021/11/14-03:29:57.974 19b0e Level-0 table #5: 832 bytes OK
+2021/11/14-03:29:58.013 19b0e Delete type=0 #3
+2021/11/14-03:29:58.014 19b0e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

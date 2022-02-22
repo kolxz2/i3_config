@@ -1,0 +1,6 @@
+2021/10/01-00:45:32.665 4a88 Creating DB /home/nik/.config/google-chrome/Default/IndexedDB/https_realpython.com_0.indexeddb.leveldb since it was missing.
+2021/10/01-00:45:32.849 4a88 Reusing MANIFEST /home/nik/.config/google-chrome/Default/IndexedDB/https_realpython.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/01-01:14:35.071 580b Level-0 table #5: started
+2021/10/01-01:14:35.115 580b Level-0 table #5: 5755 bytes OK
+2021/10/01-01:14:35.151 580b Delete type=0 #3
+2021/10/01-01:14:35.151 580b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

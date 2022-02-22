@@ -1,0 +1,15 @@
+2021/10/07-20:04:24.878 3156 Reusing MANIFEST /home/nik/.config/google-chrome/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/07-20:04:24.878 3156 Recovering log #4
+2021/10/07-20:04:24.878 3156 Reusing old log /home/nik/.config/google-chrome/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/000004.log 
+2021/10/07-22:31:04.594 3b18 Level-0 table #8: started
+2021/10/07-22:31:04.638 3b18 Level-0 table #8: 592 bytes OK
+2021/10/07-22:31:04.677 3b18 Delete type=0 #4
+2021/10/07-22:31:04.677 3b18 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/10/07-22:31:04.677 3b18 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x05\x004\x000\x001\x003\x007' @ 74 : 1
+2021/10/07-22:31:04.677 3b18 Compacting 1@1 + 1@2 files
+2021/10/07-22:31:04.717 3b18 Generated table #9@1: 25 keys, 617 bytes
+2021/10/07-22:31:04.717 3b18 Compacted 1@1 + 1@2 files => 617 bytes
+2021/10/07-22:31:04.754 3b18 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/07-22:31:04.755 3b18 Delete type=2 #5
+2021/10/07-22:31:04.755 3b18 Delete type=2 #8
+2021/10/07-22:31:04.755 3b18 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x05\x004\x000\x001\x003\x007' @ 74 : 1 .. (end); will stop at (end)

@@ -1,0 +1,38 @@
+[Print Settings]
+evince-print-setting-page-autorotate=true
+printer=Phaser-3010
+evince-print-setting-page-scale=1
+evince-print-setting-page-size=false
+output-file-format=pdf
+
+cups-XRSaveBlankSheet=False
+cups-XRColorDensityBlackMid=0
+media-type=Plain
+resolution-x=600
+cups-Resolution=600dpi
+print-at=now
+print-at-time=
+resolution-y=600
+cups-job-priority=50
+cups-TonerMode=False
+cover-before=none
+cups-XRColorDensityBlackHigh=0
+cups-MediaType=Plain
+resolution=600
+cover-after=none
+cups-ImageEnh=False
+cups-ImageRotation=False
+cups-XRColorDensityBlackLow=0
+cups-job-sheets=none,none
+cups-number-up=1
+
+[Page Setup]
+PPDName=Letter
+DisplayName=US Letter
+Width=215.89999389648438
+Height=279.39999389648438
+MarginTop=6.3499999999999996
+MarginBottom=14.224
+MarginLeft=6.3499999999999996
+MarginRight=6.3499999999999996
+Orientation=portrait

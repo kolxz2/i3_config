@@ -1,0 +1,62 @@
+{
+	"trade-spot": {
+		"appName": "trade-spot",
+		"appVersion": "1.1.12",
+		"version": "1.1.1",
+		"url": "https://ftp.binance.com/electron-desktop-business/spot-trade-ui/spot-trade-ui-cdf76b7c26b9dbbb8efbf53a05cb348b.zip",
+		"sign": "q1fJb6fNnDewcfZECRPedOjTPTwuWN76/1ziTILL4+fMiOmOr/fzuPjsBnfa4S7vEFJfABHY8EI8VFffgpcrjNvuSUoMNRkHsNO0yaaSKaq84HeqNCTCJG4L3X53KLgOR7gmwwvUUBsuT96JD9iWWdfwJ4pVMCWUBBJKEzLviRSOCbM/HidjH+hjV9FA4rqw5MfYJdvnaXPCAfZBUv3bXOD8wkNY/2OBqRhvDHlFnIIef7Ki0LKRlYbGZfFEH2QdqiscsKYw9v1VocFVuuteDFNze+olSUTmz06YYZFFip/6J3nxKKk+2XbmRst3oF/Y+UN++KssSCj3JaCp9pSzSw==",
+		"releaseDate": 1636963495000,
+		"gray": false,
+		"localPath": "/home/nik/.config/Binance/microApps/trade-spot-v1.1.12"
+	},
+	"launchpad": {
+		"appName": "launchpad",
+		"appVersion": "1.1.0",
+		"version": "1.1.1",
+		"url": "https://ftp.binance.com/electron-desktop-business/launchpad-ui/launchpad-ui-3dddfe171c9ae05c3a45eb591382fafe.zip",
+		"sign": "PqfbA9Gl5iP5NY8xDy3Yau7rNkpw34to46STLtReyI/MRQ81++4OgViQPp1rJtcZENf3OoOCkiLjm2PmmKaaxWcpQ2BYHWpyRwFOvlBVLyE3xxMVhadOiBf2/YTJGGCJlVS0hCWXSVBypjwA6XeOsAkvJnOHb/tSkDz9PrMfssV1G828wMD5OR5cxxpCl7uaQ93NmHsYY6N/Pt7Yc/t+8Q+oZegIoIF/3BruWdLJV+QP3FNUpsOcwrJAi9MuPrqf5Bss86T/9RRHwXv41srXjOLAI0xOlIU55NZXByZxUKUi5Iex04cZ9B7r1PJuZtXEGtOrOj0O51m27a9Agd9Eiw==",
+		"releaseDate": 1637831505000,
+		"gray": false,
+		"localPath": "/home/nik/.config/Binance/microApps/launchpad-v1.1.0"
+	},
+	"trade-futures": {
+		"appName": "trade-futures",
+		"appVersion": "1.0.49",
+		"version": "1.1.1",
+		"url": "https://ftp.binance.com/electron-desktop-business/futures-trade-ui/futures-trade-ui-9201e1db2a4b83e9895491a9be86cab5.zip",
+		"sign": "0fwYUOyiaZTCSthv94Q6ERkjFpEuGv+fkUbyIOvQqgPasQLVaX4nulGyWA9IyCwmpIcy2RHnQRXOTASYOxc4Gwd62BgSBwIjr4kSeMnK+G7tsG5VgEvdYtDSTzjcnS4oUCe49piqU5IQrN+vyYv6t9zB1zYxCmxcbWRXgCuN6m7XPCB39On6PBjMwFeBEf685/A7Lzk2snQ8Q9UqIDpkxQvK8q4bD83mJcKOb9aP/MWUFv7PeH4cDr4VQieE2ZUaYJHv32ym0xOxhrwtMETcqDJEJE8n/iseikrY88ScXyMlLnbbGPGEmia/jxm1dMNnv0jm6Mh7jjGM/aRY76Coyw==",
+		"releaseDate": 1637667629000,
+		"gray": false,
+		"localPath": "/home/nik/.config/Binance/microApps/trade-futures-v1.0.49"
+	},
+	"user-center-margin": {
+		"appName": "user-center-margin",
+		"appVersion": "1.0.35",
+		"version": "1.1.1",
+		"url": "https://ftp.binance.com/electron-desktop-business/mainuc-margin-ui/mainuc-margin-ui-bbda2d31ec9c75318653f9a61fb19c08.zip",
+		"sign": "iKnT4yYKouTE3vpRUUyWIwpaKzomXqK03Nnszsq7+9oWS6KJowqO+aVwLNjlWGyCf3LKhzaWZWu5bfEg3wle7Tdr6966rSyUk+3sE/FrLfkCOlWcCPqOuyxw0zcOP0W/p3HYAhObFpy933zw36yhPRZKQs+d2Qpv8PrYRyO41nZ6dglPN2aAPed6lilMXuQ5siwdh8keJSpNGAofBZbMB+x9Knxh/0EwS9L4AFqn9n7D1o6r4xWEU6PDJrHXP1BWYvGULulAXGNYCZ00ZaGDCOOCkMoqEdPLmBYFYHJkfWvzdsrv85wAfi2nRVF8M1Kqk07/sfGqk17kvxjaPg+nsg==",
+		"releaseDate": 1635915190000,
+		"gray": false,
+		"localPath": "/home/nik/.config/Binance/microApps/user-center-margin-v1.0.35"
+	},
+	"c2c": {
+		"appName": "c2c",
+		"appVersion": "1.0.6",
+		"version": "1.1.1",
+		"url": "https://ftp.binance.com/electron-desktop-business/c2c-user-ui/c2c-user-ui-ca82c4d8182ef7d64cd443970ae515d5.zip",
+		"sign": "38zixeV/Kl4UdV2/9Rb0WRjPhyen5gV6drLzSnWSXapJYxoaYgXx9PXi4O1x5Wxp7Fwa3PLzC3VaNUG4Ws8CQ0mozUdxqvEbPBEsC0AY/4LQKb/4G477W6lPMbtn6x3vJjR1nNm+VI1o0JgLrMLYRlSX/tzHs/y8PmL85Mm0XHxe+u1VVHK3Ir+Wt638Rm0+z4PHqIAhDgW3se3KYzKzNBg2yR4DlsWJN/xMySCVCTdmEF99Q7T5WJdQn+nJ4xca32SU8q/R1DchMUvU+VdQ3OPSRokFdN/s3zh6RT3a0C5dGbyY8enbv6FQyDR45aHA0hlkcA215IYOG9BW/aHa+Q==",
+		"releaseDate": 1637836706000,
+		"gray": false,
+		"localPath": "/home/nik/.config/Binance/microApps/c2c-v1.0.6"
+	},
+	"savings": {
+		"appName": "savings",
+		"appVersion": "1.0.11",
+		"version": "1.1.1",
+		"url": "https://ftp.binance.com/electron-desktop-business/lending-ui/lending-ui-69abcee6a22d8db0829f7de30c6403e6.zip",
+		"sign": "YcIc3BaJSLsHI35q86fe1KVG51RR7DoNikPrxRCyrSzC54xWPUMY6j+dj7cfviWXUDplStQ/pce7l1JrZFcbQ1vxAxc/w/Cha9CUHdK6wNEB3fVodzskqCazZC5VHvk7k6fwy0ulInCmSP9aNYbnbdvY0ctBghBAnciZ+hXIoz7Snvz3gPznYxTtx1EigrIlMftNLfrUskT7gFaEOz/dX1VRbyoQnN+I7RlS/Hi0vYAxHqtGfQ9MTLHOvM8qTMPlZyfVr8WddAohB0CQrzSEkxK8lpfp0gm7qJS7NWySjrbE+Gr1vLYC9iRgN0Se/y4baJ1i17GrbfT8upAXIsqlfw==",
+		"releaseDate": 1637294142000,
+		"gray": false,
+		"localPath": "/home/nik/.config/Binance/microApps/savings-v1.0.11"
+	}
+}

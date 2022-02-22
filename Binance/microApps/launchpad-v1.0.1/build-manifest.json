@@ -1,0 +1,161 @@
+{
+  "entries": {
+    "static/runtime/main": {
+      "js": [
+        "static/chunks/framework.c4b0412b.js",
+        "static/chunks/commons.3c51b59f.js",
+        "static/runtime/main-aa3872b562a3b5339949.js"
+      ]
+    },
+    "static/runtime/polyfill": {
+      "js": [
+        "static/chunks/commons.3c51b59f.js",
+        "static/runtime/polyfill-36f308657081c829a922.js"
+      ]
+    },
+    "static/runtime/sentry": {
+      "js": [
+        "static/chunks/commons.3c51b59f.js",
+        "static/runtime/sentry-5a7fba0f036485c9ed9f.js"
+      ]
+    }
+  },
+  "bundles": {
+    "framework": "static/chunks/framework.c4b0412b.js",
+    "static/runtime/main": "static/runtime/main-aa3872b562a3b5339949.js",
+    "static/runtime/polyfill": "static/runtime/polyfill-36f308657081c829a922.js",
+    "static/runtime/sentry": "static/runtime/sentry-5a7fba0f036485c9ed9f.js"
+  },
+  "chunkRequest": {},
+  "loadble": {
+    "./data.json": {
+      "files": [
+        "static/chunks/206.0df2d77e.js"
+      ],
+      "children": []
+    },
+    "/tmp/tmp.9UuDSCzWDM/web/apps/launchpad-ui/.shuvi/app/core/404?shuvi-route": {
+      "files": [
+        "static/chunks/page-79c1.d1266351.js"
+      ],
+      "children": [
+        {
+          "id": "9FOb",
+          "name": "./.shuvi/app/core/404.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.9UuDSCzWDM/web/apps/launchpad-ui/src/pages/index?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.6d6c245b.js",
+        "static/chunks/94a7ad86.5da2d985.js",
+        "static/chunks/page-55ab.87b0991e.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "Nh1y",
+          "name": "../../node_modules/lottie-web/build/player/lottie.js"
+        },
+        {
+          "id": "bMrN",
+          "name": "./src/pages/index.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.9UuDSCzWDM/web/apps/launchpad-ui/src/pages/launchpool?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.6d6c245b.js",
+        "static/chunks/a29ae703.506e06db.js",
+        "static/chunks/page-07b6.fcff2902.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "Jiy1",
+          "name": "./src/pages/launchpool.electron.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.9UuDSCzWDM/web/apps/launchpad-ui/src/pages/list?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.6d6c245b.js",
+        "static/chunks/94a7ad86.5da2d985.js",
+        "static/chunks/page-7d21.9a15d662.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "Nh1y",
+          "name": "../../node_modules/lottie-web/build/player/lottie.js"
+        },
+        {
+          "id": "yZMN",
+          "name": "./src/pages/list.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.9UuDSCzWDM/web/apps/launchpad-ui/src/pages/lottery?shuvi-route": {
+      "files": [
+        "static/chunks/page-cac5.8011da24.js"
+      ],
+      "children": [
+        {
+          "id": "u8/t",
+          "name": "./src/pages/lottery.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.9UuDSCzWDM/web/apps/launchpad-ui/src/pages/purchase?shuvi-route": {
+      "files": [
+        "static/chunks/page-9354.89ed3b91.js"
+      ],
+      "children": [
+        {
+          "id": "Ednm",
+          "name": "./src/pages/purchase.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.9UuDSCzWDM/web/apps/launchpad-ui/src/pages/records?shuvi-route": {
+      "files": [
+        "static/chunks/2edb282b.6d6c245b.js",
+        "static/chunks/page-3cdf.a251acd3.js"
+      ],
+      "children": [
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "oiEf",
+          "name": "./src/pages/records.electron.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.9UuDSCzWDM/web/apps/launchpad-ui/src/pages/stackSchema?shuvi-route": {
+      "files": [
+        "static/chunks/page-b795.6ee7b670.js"
+      ],
+      "children": [
+        {
+          "id": "T1Kw",
+          "name": "./src/pages/stackSchema.js?shuvi-route"
+        }
+      ]
+    }
+  }
+}

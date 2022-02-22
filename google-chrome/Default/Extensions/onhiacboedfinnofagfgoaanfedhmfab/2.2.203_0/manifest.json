@@ -1,0 +1,45 @@
+{
+   "author": "Softissimo Inc.",
+   "background": {
+      "persistent": false,
+      "scripts": [ "dist/background-script.bundle.js" ]
+   },
+   "browser_action": {
+      "default_popup": "dist/index.html",
+      "default_title": "Reverso Context"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "css": [ "dist/content-script.bundle.css" ],
+      "js": [ "dist/content-script.bundle.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*", "ftp://*/*", "file://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "file_browser_handlers": [ {
+      "default_title": "Open with PDF Viewer",
+      "file_filters": [ "filesystem:*.pdf" ],
+      "id": "open-as-pdf"
+   } ],
+   "homepage_url": "https://context.reverso.net/",
+   "icons": {
+      "128": "dist/assets/images/reverso-logo.png",
+      "16": "dist/assets/images/reverso-logo16x16.png",
+      "32": "dist/assets/images/reverso-logo32x32.png",
+      "48": "dist/assets/images/reverso-logo48x48.png",
+      "65": "dist/assets/images/reverso-logo.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhakIKB30Ppx8tdoDAhCCL5mr6G9/Waw2wAXQo6oZCz0vQ/b3sPmxA8uLYgF5rGvlbDcWhfPgNxw3OQ8KBqO0YsJU05pLPhdFmO+V1KA6a34Cy6Ge/Xx93SgsTpZDPApI3SlQYokhIR3TPgy74HJHtyfdUVB2YJmX6n1fWCImMV16OxHaTdbfo1aAIgX/XTyiaIEqL717pwyJeEQxC5lD+XEYOenbMbII2XSzFn2bq8ih7BF/RpE28lXBysipY13OlX+87IvoEVCRCtqYbHVla8nBBcMCPmAEcx1FnueQGw3d0RdFUQfbMhScsDEY3NbfBAPaTjtnp5/9hxD6L3WfKQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appTitle__",
+   "options_page": "dist/index.html?navigateTo=options",
+   "permissions": [ "\u003Call_urls>", "tabs", "contextMenus", "background", "notifications", "cookies" ],
+   "short_name": "Reverso Context",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2.203",
+   "web_accessible_resources": [ "dist/assets/*", "dist/index.html", "content/web/viewer.html", "dist/page-bar.html", "dist/contentStyles.css", "http:/*", "https:/*", "ftp:/*", "file:/*", "chrome-extension:/*", "filesystem:/*", "drive:*", "blob:*", "data:*" ]
+}

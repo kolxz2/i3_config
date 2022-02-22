@@ -1,0 +1,25 @@
+[2021-12-16 10:06:18.340] [exthost] [info] Extension host with pid 21789 started
+[2021-12-16 10:06:18.340] [exthost] [info] Skipping acquiring lock for /home/nik/.config/Code/User/workspaceStorage/ac1e637009352f1c081cc57eee068ce8.
+[2021-12-16 10:06:18.974] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-16 10:06:19.710] [exthost] [info] ExtensionService#_doActivateExtension cschlosser.doxdocgen, startup: false, activationEvent: 'onLanguage:c'
+[2021-12-16 10:06:25.832] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+[2021-12-16 10:06:26.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-16 10:06:26.647] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-16 10:06:26.947] [exthost] [info] Not activating extension 'ms-vscode.cmake-tools': Timed out while searching for 'workspaceContains' pattern */CMakeLists.txt,*/*/CMakeLists.txt,*/*/*/CMakeLists.txt
+[2021-12-16 10:06:29.610] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-16 10:06:29.845] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-16 10:06:30.076] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-16 10:06:30.290] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-16 10:06:30.327] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-16 10:06:30.615] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-16 10:06:30.790] [exthost] [info] Eager extensions activated
+[2021-12-16 10:06:30.803] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-16 18:25:00.017] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-16 18:25:00.103] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2021-12-16 18:25:00.103] [exthost] [error] Error: Connection got disposed.
+	at Object.dispose (/home/nik/.vscode/extensions/ms-vscode.cpptools-1.7.1/dist/main.js:58689:25)
+	at Object.dispose (/home/nik/.vscode/extensions/ms-vscode.cpptools-1.7.1/dist/main.js:59609:35)
+	at /home/nik/.vscode/extensions/ms-vscode.cpptools-1.7.1/dist/main.js:61603:28
+	at async Promise.all (index 11)
+	at async v.deactivateAll (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:100:10087)
+[2021-12-16 18:25:00.103] [exthost] [info] Extension host with pid 21789 exiting with code 0

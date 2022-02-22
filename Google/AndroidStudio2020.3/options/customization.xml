@@ -1,0 +1,28 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="NewScratchFile" is_action="true" action_type="-1" position="12">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewScratchFile" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main Menu" />
+      <path value="File" />
+      <path value="File Open Actions" />
+      <path value="Open Project Actions" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool_External Tools_Scrcpy" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>

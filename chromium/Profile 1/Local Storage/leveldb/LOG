@@ -1,0 +1,6 @@
+2021/09/23-22:27:33.590 5 Reusing MANIFEST /home/nik/.config/chromium/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2021/09/23-22:27:33.592 5 Recovering log #3
+2021/09/23-22:27:33.595 5 Reusing old log /home/nik/.config/chromium/Profile 1/Local Storage/leveldb/000003.log 
+2021/09/23-22:42:15.634 5 Level-0 table #5: started
+2021/09/23-22:42:15.721 5 Level-0 table #5: 340398 bytes OK
+2021/09/23-22:42:15.783 5 Delete type=0 #3

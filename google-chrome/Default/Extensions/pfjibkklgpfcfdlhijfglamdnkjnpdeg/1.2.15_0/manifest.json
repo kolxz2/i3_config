@@ -1,0 +1,39 @@
+{
+   "background": {
+      "scripts": [ "commons.js", "background.js", "newAnalytics.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "38": "assets/img/logo/96.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "AliRadar for AliExpress"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "commons.js", "content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self'; object-src 'self';connect-src *; img-src * 'self' data:; media-src *;",
+   "default_locale": "ru",
+   "description": "__MSG_extDesc__",
+   "differential_fingerprint": "1.89aa98bc1b6c23ad0f4d88480db8e3c67e5ada23d9a6043af1e94f81e5b6f416",
+   "icons": {
+      "128": "assets/img/logo/96.png",
+      "16": "assets/img/logo/96.png",
+      "48": "assets/img/logo/96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr7WofPN3vFrtkZheqRzC54QmVrD2pZjR5NVHpH7qcytgQJoX9JQegGmF0Hml7lQ59X1pcfUqFw80D4yS6hpvtl1/xutK2fdPmj3JplG2FNae/pM91ibSDpYsbht21igQz2JOZ/vjRWslOd9Js9YJaenyAFqYYQmGz5SqC7y+hdFh34/MeslujuqmbzZXHYmI42oJlMjWv0FAJftPmY77eSdnoWxS5nInHcwB61vOIuGye6i+AWD3YooWiCmTOd+MbnxKsENv+fBQnA0Hhpzl3jy65Pm448h0fcrAA2dTQUW3qgKTcxbn4lS/qZ0lqYZJqSZAuYXxJ5ZKvhJxqtgkzQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "options_page": "settings.html",
+   "permissions": [ "cookies", "storage", "webRequest", "webRequestBlocking", "*://*.aliradar.com/*", "*://*.aliexpress.com/*", "*://*.aliexpress.ru/*", "*://*.flipkart.com/*", "*://*.gearbest.com/*", "*://*.banggood.com/*", "*://*.joom.com/*", "*://*.mvideo.ru/*", "*://*.beru.ru/*", "*://*.amazon.com/*", "*://*.ebay.com/*", "*://*.dns-shop.ru/*", "*://*.citilink.ru/*", "*://*.asos.com/*", "*://*.alibaba.com/*", "*://*.eldorado.ru/*", "*://*.vseinstrumenti.ru/*", "*://*.goods.ru/*", "*://*.tmall.ru/*", "*://*.tokopedia.com/*", "tabs" ],
+   "sandbox": {
+      "pages": [ "sandbox.html" ]
+   },
+   "short_name": "__MSG_extSname__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.15",
+   "web_accessible_resources": [ "assets/*/*", "_locales/*/*", "settings.html", "auth.html" ]
+}

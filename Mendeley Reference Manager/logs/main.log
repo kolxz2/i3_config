@@ -1,0 +1,17 @@
+[2022-02-15 17:07:09.867] [info]  Creating directory /home/nik/.config/Mendeley Reference Manager/userfiles
+[2022-02-15 17:07:09.876] [info]  Creating directory /home/nik/.config/Mendeley Reference Manager/usersettings
+[2022-02-15 17:22:29.391] [info]  [LIBRARY_PROMPT]: Reading prompt data from prompts.json
+[2022-02-15 17:22:29.649] [error] TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received type undefined
+    at validateString (internal/validators.js:112:11)
+    at Object.join (path.js:1040:7)
+    at getFilepath (/tmp/.mount_mendeljcWwhq/resources/app.asar/webpack:/src/main/prompt-setup.js:13:52)
+    at MergeMapSubscriber.project (/tmp/.mount_mendeljcWwhq/resources/app.asar/webpack:/src/main/prompt-setup.js:34:26)
+    at MergeMapSubscriber._tryNext (/tmp/.mount_mendeljcWwhq/resources/app.asar/webpack:/node_modules/rxjs/_esm5/internal/operators/mergeMap.js:59:27)
+    at MergeMapSubscriber._next (/tmp/.mount_mendeljcWwhq/resources/app.asar/webpack:/node_modules/rxjs/_esm5/internal/operators/mergeMap.js:49:18)
+    at MergeMapSubscriber.Subscriber.next (/tmp/.mount_mendeljcWwhq/resources/app.asar/webpack:/node_modules/rxjs/_esm5/internal/Subscriber.js:53:18)
+    at SafeSubscriber.__tryOrUnsub (/tmp/.mount_mendeljcWwhq/resources/app.asar/node_modules/rxjs/src/internal/Subscriber.ts:265:10)
+    at SafeSubscriber.next (/tmp/.mount_mendeljcWwhq/resources/app.asar/node_modules/rxjs/src/internal/Subscriber.ts:207:14)
+    at Subscriber._next (/tmp/.mount_mendeljcWwhq/resources/app.asar/node_modules/rxjs/src/internal/Subscriber.ts:139:22)
+[2022-02-15 17:22:48.144] [info]  Creating directory /home/nik/.config/Mendeley Reference Manager/usersettings/d1470bbe-4ebe-35c3-965f-f8b12ccf1610
+[2022-02-15 17:22:48.150] [error] User settings directory does not exist
+[2022-02-15 17:24:51.789] [info]  Getting file from s3 36a7a173-757e-e92f-7637-d9199ce624b7

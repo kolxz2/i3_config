@@ -1,0 +1,4103 @@
+[2021-10-14 22:16:15.058] [info] [App Launch] 
+
+
+██████╗ ██╗███╗   ██╗ █████╗ ███╗   ██╗ ██████╗███████╗
+██╔══██╗██║████╗  ██║██╔══██╗████╗  ██║██╔════╝██╔════╝
+██████╔╝██║██╔██╗ ██║███████║██╔██╗ ██║██║     █████╗  
+██╔══██╗██║██║╚██╗██║██╔══██║██║╚██╗██║██║     ██╔══╝  
+██████╔╝██║██║ ╚████║██║  ██║██║ ╚████║╚██████╗███████╗
+╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
+
+[2021-10-14 22:16:15.061] [info] [App Launch] ----------- App launch ------------
+[2021-10-14 22:16:15.062] [info] [App Launch] App Version: 1.24.2
+[2021-10-14 22:16:15.066] [info] [App Launch] Launch app
+[2021-10-14 22:16:15.136] [info] [MicroAppUpdater] initialize -> updateVersion: 1.1.0 gray: false
+[2021-10-14 22:16:17.137] [info] [App Launch] App Ready
+[2021-10-14 22:16:19.491] [info] [DnsPool] resolve4 frontend-m.binance.cloud get resolver
+[2021-10-14 22:16:56.195] [info] [App Launch] 
+
+
+██████╗ ██╗███╗   ██╗ █████╗ ███╗   ██╗ ██████╗███████╗
+██╔══██╗██║████╗  ██║██╔══██╗████╗  ██║██╔════╝██╔════╝
+██████╔╝██║██╔██╗ ██║███████║██╔██╗ ██║██║     █████╗  
+██╔══██╗██║██║╚██╗██║██╔══██║██║╚██╗██║██║     ██╔══╝  
+██████╔╝██║██║ ╚████║██║  ██║██║ ╚████║╚██████╗███████╗
+╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
+
+[2021-10-14 22:16:56.199] [info] [App Launch] ----------- App launch ------------
+[2021-10-14 22:16:56.199] [info] [App Launch] App Version: 1.24.2
+[2021-10-14 22:16:56.203] [info] [App Launch] Launch app
+[2021-10-14 22:16:56.278] [info] [MicroAppUpdater] initialize -> updateVersion: 1.1.0 gray: false
+[2021-10-14 22:16:56.505] [info] [App Launch] App Ready
+[2021-10-14 22:17:03.414] [info] [Sentry] High priority event
+[2021-10-14 22:17:03.415] [info] [Sentry] {
+  "environment": "production",
+  "extra": {
+    "crashed_process": "browser",
+    "websiteHost": "https://www.binance.com",
+    "apiHost": "https://www.binance.com",
+    "detail": "1. getDynamicConfig: Request timeout: GET https://d3sknckuh1o9tg.cloudfront.net/app/dynamic-config.jwt.json ,costTime 5.001s - \r\n2. getDynamicConfig: Request timeout: GET https://domain-config-1259603563.file.myqcloud.com/app/dynamic-config.jwt.json ,costTime 5.035s - \r\n3. final: network init error:get dynamicConfig faild - Error: network init error:get dynamicConfig faild\n    at y (binance-resources://build/static/group-0/js/start-up/index.js:1:198139)"
+  },
+  "release": "0226e65f8eda4037eb96a270f23313da2871db21",
+  "user": {
+    "ip_address": "{{auto}}"
+  },
+  "message": "NetworkOptimizeError",
+  "level": "info",
+  "event_id": "e028cf5f03234edd851ac73a17930c65",
+  "platform": "javascript",
+  "sdk": {
+    "name": "sentry.javascript.electron",
+    "packages": [
+      {
+        "name": "npm:@sentry/browser",
+        "version": "5.27.6"
+      },
+      {
+        "name": "npm:@sentry/electron",
+        "version": "2.4.0"
+      }
+    ],
+    "version": "2.4.0",
+    "integrations": [
+      "InboundFilters",
+      "FunctionToString",
+      "Console",
+      "Http",
+      "OnUnhandledRejection",
+      "LinkedErrors",
+      "OnUncaughtException",
+      "Electron"
+    ]
+  },
+  "timestamp": 1634239023.394,
+  "tags": {
+    "version": "1.24.2",
+    "process": "ui",
+    "platform": "Linux",
+    "event_type": "javascript",
+    "ErrorBelongTo": "NetworkOptimizeError"
+  },
+  "breadcrumbs": [
+    {
+      "0": "["
+    },
+    {
+      "0": "u"
+    },
+    {
+      "0": "n"
+    },
+    {
+      "0": "d"
+    },
+    {
+      "0": "e"
+    },
+    {
+      "0": "f"
+    },
+    {
+      "0": "i"
+    },
+    {
+      "0": "n"
+    },
+    {
+      "0": "e"
+    },
+    {
+      "0": "d"
+    },
+    {
+      "0": "]"
+    },
+    {
+      "timestamp": 1634239016.516,
+      "category": "electron",
+      "message": "app.session-created",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239016.52,
+      "category": "electron",
+      "message": "app.session-created",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239016.525,
+      "category": "electron",
+      "message": "app.session-created",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239016.529,
+      "category": "electron",
+      "message": "app.session-created",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239016.534,
+      "category": "electron",
+      "message": "app.session-created",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239016.568,
+      "category": "electron",
+      "message": "app.web-contents-created",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239016.572,
+      "category": "electron",
+      "message": "app.browser-window-created",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.356,
+      "category": "electron",
+      "message": "app.gpu-info-update",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.591,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.595,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.599,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.601,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.603,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.608,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.609,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.611,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.612,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.614,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.615,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.617,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.638,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.64,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.641,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.642,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.644,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.645,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.646,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.648,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.649,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.65,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.652,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.653,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.655,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.656,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.657,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.659,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.66,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.661,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.663,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.664,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.666,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.667,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.669,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.671,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.672,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.691,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.695,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.696,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.699,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.7,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.701,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.703,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.704,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.705,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.707,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.708,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.71,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.749,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.751,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.752,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.753,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.755,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.756,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.758,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.76,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.761,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.763,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.765,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239017.767,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.122
+    },
+    {
+      "timestamp": 1634239018.123
+    },
+    {
+      "timestamp": 1634239018.123
+    },
+    {
+      "timestamp": 1634239018.124,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.142,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.145,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.147,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.149,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.151,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.155,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.157,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.159,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.161,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.163,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.169,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.221,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.347,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.397,
+      "category": "electron",
+      "message": "start-up.dom-ready",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.462,
+      "category": "electron",
+      "message": "app.browser-window-focus",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.557,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.56,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.561,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.563,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.565,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.567,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.568,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.571,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.573,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.574,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239018.576,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239019.433,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1634239023.371,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://d3sknckuh1o9tg.cloudfront.net/app/dynamic-config.jwt.json",
+        "status_code": 0
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1634239023.39,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://domain-config-1259603563.file.myqcloud.com/app/dynamic-config.jwt.json",
+        "status_code": 0
+      },
+      "type": "http"
+    }
+  ],
+  "request": {
+    "url": "app:///build/start-up.html?payload={}",
+    "headers": {}
+  },
+  "contexts": {
+    "app": {
+      "app_name": "Binance",
+      "app_version": "1.24.2"
+    },
+    "browser": {
+      "name": "Chrome"
+    },
+    "chrome": {
+      "name": "Chrome",
+      "type": "runtime",
+      "version": "89.0.4389.128"
+    },
+    "device": {
+      "arch": "x64",
+      "family": "Desktop"
+    },
+    "node": {
+      "name": "Node",
+      "type": "runtime",
+      "version": "14.16.0"
+    },
+    "os": {
+      "kernel_version": "5.14.9-200.fc34.x86_64",
+      "name": "Fedora",
+      "version": "34"
+    },
+    "runtime": {
+      "name": "Electron",
+      "version": "12.0.7"
+    },
+    "electron": {
+      "crashed_process": "start-up",
+      "crashed_url": "app:///build/start-up.html?payload={}"
+    }
+  }
+}
+[2021-10-14 22:17:06.616] [info] [MicroAppUpdater] checkForUpdates
+[2021-10-14 22:17:06.640] [info] [DnsPool] resolve4 www.binance.com get resolver
+[2021-10-14 22:17:06.646] [info] [DnsPool] resolve4 www.binance.com success
+[2021-10-14 22:17:06.647] [info] [DnsPool] resolve6 www.binance.com get resolver
+[2021-10-14 22:17:06.649] [info] [DnsPool] resolve6 www.binance.com success
+[2021-10-14 22:17:07.135] [info] [MicroAppUpdater] Compare versions trade-spot -> 1.1.3 - 1.1.2
+[2021-10-14 22:17:07.137] [info] [MicroAppUpdater] Compare versions launchpad -> 1.0.1 - 1.0.0
+[2021-10-14 22:17:07.145] [info] [updater] update-not-available
+[2021-10-14 22:17:12.139] [info] [MicroAppUpdater] downloadUpdates
+[2021-10-14 22:17:12.148] [info] [DnsPool] resolve4 ftp.binance.com get resolver
+[2021-10-14 22:17:12.149] [info] [DnsPool] resolve4 binance-1259603563.file.myqcloud.com get resolver
+[2021-10-14 22:17:12.370] [info] [DnsPool] resolve4 ftp.binance.com success
+[2021-10-14 22:17:12.371] [info] [DnsPool] resolve6 ftp.binance.com get resolver
+[2021-10-14 22:17:12.430] [info] [DnsPool] resolve6 ftp.binance.com success
+[2021-10-14 22:17:12.618] [info] [DnsPool] resolve4 binance-1259603563.file.myqcloud.com success
+[2021-10-14 22:17:12.619] [info] [DnsPool] resolve6 binance-1259603563.file.myqcloud.com get resolver
+[2021-10-14 22:17:12.793] [info] [DnsPool] resolve6 binance-1259603563.file.myqcloud.com success
+[2021-10-14 22:17:19.708] [info] [MicroAppUpdater] applyUpdates
+[2021-10-14 22:17:19.708] [info] [MicroAppUpdater] trade-spot 1.1.3 updated
+[2021-10-14 22:17:19.977] [info] [MicroAppUpdater] launchpad 1.0.1 updated
+[2021-10-14 22:17:20.012] [info] [MicroAppUpdater] apply updates succeed
+[2021-10-14 22:17:26.674] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 3616
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-14 22:17:56.717] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 3616
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-14 22:18:26.756] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 3616
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-14 22:18:33.173] [info] [Binance] report fingerPrint
+[2021-10-14 22:18:34.455] [info] [app-manager] respond new-user-center resources from /opt/Binance/resources/app.asar/resources/app/new-user-center
+[2021-10-14 22:18:34.457] [info] [app-manager] load v1.0.0 of new-user-center
+[2021-10-14 22:18:34.489] [info] [app-manager] respond NEW_USER_CENTER_STATIC_HOST resources from /opt/Binance/resources/app.asar/resources/app/NEW_USER_CENTER_STATIC_HOST
+[2021-10-14 22:18:34.490] [error] [micro-app-session] Error: NEW_USER_CENTER_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2608351)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607323)
+[2021-10-14 22:18:34.496] [error] [micro-app-session] Error: NEW_USER_CENTER_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2607937)
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607334)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2610012)
+[2021-10-14 22:18:35.605] [info] [Binance] fingerPrint: eyJtYW51ZmFjdHVyZXIiOiJIUCIsIm1vZGVsIjoiSFAgTm90ZWJvb2siLCJzZXJpYWxObyI6Ii0iLCJiaW9zSWQiOiJJbnN5ZGUgRi40OCIsInV1aWQiOiJiYjg0YjUxY2JiZTY0Mjc0OWRkYmNjNTc3MTc2YWIwNSIsImhvc3ROYW1lIjoiZmVkb3JhIiwib3NWZXJzaW9uIjoiRmVkb3JhIDM0IDUuMTQuOS0yMDAuZmMzNC54ODZfNjQgIiwiY29yZU5vIjo0LCJwcm9jZXNzb3JOYW1lIjoiR2VudWluZUludGVsIENvcmXihKJfaTMtNTAwNVUiLCJkaXNrSWQiOlsiUkIyNTBBQVMxSDVWS0oiXSwidG90YWxEaXNrU2l6ZSI6IjkwNzgzTUIiLCJ1c2VkRGlza1NpemUiOiIzNTE2Mk1CIiwiZGlza1R5cGUiOlsiSEQiXSwicmFtSWQiOlsiIl0sInRvdGFsUmFtU2l6ZSI6Ijc4NTJNQiIsInVzZWRSYW1TaXplIjoiNTEwN01CIiwiaW5zdGFsbFRpbWUiOjE2MzQyMzg5NzcxMzksImluc3RhbGxQYXRoIjoiL29wdC9CaW5hbmNlL3Jlc291cmNlcy9hcHAuYXNhciIsImRldmljZVRpbWUiOjE2MzQyMzkxMTQ3OTAsInRpbWVab25lIjoiR01UKzAzMDAiLCJyZXNvbHV0aW9uIjoiIiwiZ3JhcGhWZW5kb3IiOiJJbnRlbCBDb3Jwb3JhdGlvbiIsImdyYXBoTW9kZWwiOiJIRCBHcmFwaGljcyA1NTAwICIsImRucyI6WyIxMjcuMC4wLjUzIl0sIm1hYyI6W10sImJyaWdodG5lc3MiOjEsInNvdW5kT3V0cHV0IjoiRGVmYXVsdCIsIm1pY3JvcGhvbmUiOiJEZWZhdWx0IiwibG9jYWxlIjoiZW4tVVMiLCJhcHBWZXJzaW9uIjoiMS4yNC4yIiwiYnVpbGRWZXJzaW9uIjoiMDIyNmU2NWY4ZWRhNDAzN2ViOTZhMjcwZjIzMzEzZGEyODcxZGIyMSJ9
+[2021-10-14 22:18:35.610] [info] [DnsPool] resolve4 www.binance.com get resolver
+[2021-10-14 22:18:35.774] [info] [DnsPool] resolve4 www.binance.com success
+[2021-10-14 22:18:35.774] [info] [DnsPool] resolve6 www.binance.com get resolver
+[2021-10-14 22:18:35.863] [info] [DnsPool] resolve6 www.binance.com success
+[2021-10-14 22:18:38.267] [info] [Binance] report fingerPrint success
+[2021-10-14 22:18:56.796] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 3616
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-14 22:19:26.835] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 3616
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-14 22:19:56.876] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 3616
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-14 22:21:56.180] [info] [DnsPool] resolve4 frontend-m.binance.cloud get resolver
+[2021-10-14 22:21:56.361] [info] [DnsPool] resolve4 frontend-m.binance.cloud success
+[2021-10-14 22:21:56.362] [info] [DnsPool] resolve6 frontend-m.binance.cloud get resolver
+[2021-10-14 22:21:56.438] [info] [DnsPool] resolve6 frontend-m.binance.cloud success
+[2021-10-14 22:25:40.656] [info] [app-manager] respond main-exchange resources from /opt/Binance/resources/app.asar/resources/app/main-exchange
+[2021-10-14 22:25:40.660] [info] [app-manager] load v1.0.0 of main-exchange
+[2021-10-14 22:25:46.497] [info] [app-manager] respond trade-spot resources from /home/nik/.config/Binance/microApps/trade-spot-v1.1.3
+[2021-10-14 22:25:46.499] [info] [app-manager] load v1.1.3 of trade-spot
+[2021-10-14 22:25:46.508] [info] [app-manager] respond TRADE_STATIC_HOST resources from /opt/Binance/resources/app.asar/resources/app/TRADE_STATIC_HOST
+[2021-10-14 22:25:46.509] [error] [micro-app-session] Error: TRADE_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2608351)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607323)
+[2021-10-14 22:25:46.510] [error] [micro-app-session] Error: TRADE_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2607937)
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607334)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2610012)
+[2021-10-14 22:26:56.184] [info] [DnsPool] resolve4 frontend-m.binance.cloud get resolver
+[2021-10-14 22:26:56.425] [info] [DnsPool] resolve4 frontend-m.binance.cloud success
+[2021-10-14 22:26:56.426] [info] [DnsPool] resolve6 frontend-m.binance.cloud get resolver
+[2021-10-14 22:26:56.471] [info] [DnsPool] resolve6 frontend-m.binance.cloud success
+[2021-10-14 22:29:11.941] [info] [DnsPool] resolve4 frontend-m.binance.cloud get resolver
+[2021-10-14 22:29:14.301] [info] [App Launch] 
+
+
+██████╗ ██╗███╗   ██╗ █████╗ ███╗   ██╗ ██████╗███████╗
+██╔══██╗██║████╗  ██║██╔══██╗████╗  ██║██╔════╝██╔════╝
+██████╔╝██║██╔██╗ ██║███████║██╔██╗ ██║██║     █████╗  
+██╔══██╗██║██║╚██╗██║██╔══██║██║╚██╗██║██║     ██╔══╝  
+██████╔╝██║██║ ╚████║██║  ██║██║ ╚████║╚██████╗███████╗
+╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
+
+[2021-10-14 22:29:14.304] [info] [App Launch] ----------- App launch ------------
+[2021-10-14 22:29:14.305] [info] [App Launch] App Version: 1.24.2
+[2021-10-14 22:29:14.309] [info] [App Launch] Launch app
+[2021-10-14 22:29:14.379] [info] [MicroAppUpdater] initialize -> updateVersion: 1.1.0 gray: false
+[2021-10-14 22:29:14.604] [info] [App Launch] App Ready
+[2021-10-14 22:29:20.145] [info] [app-manager] respond home resources from /opt/Binance/resources/app.asar/resources/app/home
+[2021-10-14 22:29:20.152] [info] [app-manager] load v1.0.0 of home
+[2021-10-14 22:29:20.163] [info] [app-manager] respond HOME_STATIC_HOST resources from /opt/Binance/resources/app.asar/resources/app/HOME_STATIC_HOST
+[2021-10-14 22:29:20.164] [error] [micro-app-session] Error: HOME_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2608351)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607323)
+[2021-10-14 22:29:20.166] [error] [micro-app-session] Error: HOME_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2607937)
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607334)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2610012)
+[2021-10-14 22:29:20.183] [error] [micro-app-session] Error: HOME_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2607937)
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607334)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2610012)
+[2021-10-14 22:29:24.670] [info] [MicroAppUpdater] checkForUpdates
+[2021-10-14 22:29:24.716] [info] [DnsPool] resolve4 www.binance.com get resolver
+[2021-10-14 22:29:24.723] [info] [DnsPool] resolve4 www.binance.com success
+[2021-10-14 22:29:24.724] [info] [DnsPool] resolve6 www.binance.com get resolver
+[2021-10-14 22:29:24.726] [info] [DnsPool] resolve6 www.binance.com success
+[2021-10-14 22:29:24.972] [info] [updater] update-not-available
+[2021-10-14 22:29:25.193] [info] [MicroAppUpdater] Compare versions launchpad -> 1.0.1 - 1.0.1
+[2021-10-14 22:29:25.193] [info] [MicroAppUpdater] No updates found
+[2021-10-14 22:29:25.192] [info] [MicroAppUpdater] Compare versions trade-spot -> 1.1.3 - 1.1.3
+[2021-10-14 22:29:25.195] [info] [Binance] no need report fingerPrint
+[2021-10-14 22:29:27.095] [info] [app-manager] respond main-exchange resources from /opt/Binance/resources/app.asar/resources/app/main-exchange
+[2021-10-14 22:29:27.096] [info] [app-manager] load v1.0.0 of main-exchange
+[2021-10-14 22:29:44.751] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 4217
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-14 22:29:45.764] [info] [app-manager] respond trade-spot resources from /home/nik/.config/Binance/microApps/trade-spot-v1.1.3
+[2021-10-14 22:29:45.767] [info] [app-manager] load v1.1.3 of trade-spot
+[2021-10-14 22:29:45.777] [info] [app-manager] respond TRADE_STATIC_HOST resources from /opt/Binance/resources/app.asar/resources/app/TRADE_STATIC_HOST
+[2021-10-14 22:29:45.779] [error] [micro-app-session] Error: TRADE_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2608351)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607323)
+[2021-10-14 22:29:45.782] [error] [micro-app-session] Error: TRADE_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2607937)
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607334)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2610012)
+[2021-10-14 22:30:14.799] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 4217
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-14 22:30:44.833] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 4217
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-14 22:31:14.875] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 4217
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-14 22:31:44.926] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 4217
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-14 22:32:14.967] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 4217
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-14 22:32:20.662] [info] [DnsPool] resolve4 frontend-m.binance.cloud get resolver
+[2021-10-15 08:45:02.135] [info] [App Launch] 
+
+
+██████╗ ██╗███╗   ██╗ █████╗ ███╗   ██╗ ██████╗███████╗
+██╔══██╗██║████╗  ██║██╔══██╗████╗  ██║██╔════╝██╔════╝
+██████╔╝██║██╔██╗ ██║███████║██╔██╗ ██║██║     █████╗  
+██╔══██╗██║██║╚██╗██║██╔══██║██║╚██╗██║██║     ██╔══╝  
+██████╔╝██║██║ ╚████║██║  ██║██║ ╚████║╚██████╗███████╗
+╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
+
+[2021-10-15 08:45:02.139] [info] [App Launch] ----------- App launch ------------
+[2021-10-15 08:45:02.139] [info] [App Launch] App Version: 1.24.2
+[2021-10-15 08:45:02.144] [info] [App Launch] Launch app
+[2021-10-15 08:45:02.216] [info] [MicroAppUpdater] initialize -> updateVersion: 1.1.0 gray: false
+[2021-10-15 08:45:03.843] [info] [App Launch] App Ready
+[2021-10-15 08:45:09.438] [info] [app-manager] respond home resources from /opt/Binance/resources/app.asar/resources/app/home
+[2021-10-15 08:45:09.450] [info] [app-manager] load v1.0.0 of home
+[2021-10-15 08:45:09.460] [info] [app-manager] respond HOME_STATIC_HOST resources from /opt/Binance/resources/app.asar/resources/app/HOME_STATIC_HOST
+[2021-10-15 08:45:09.461] [error] [micro-app-session] Error: HOME_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2608351)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607323)
+[2021-10-15 08:45:09.464] [error] [micro-app-session] Error: HOME_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2607937)
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607334)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2610012)
+[2021-10-15 08:45:09.486] [error] [micro-app-session] Error: HOME_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2607937)
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607334)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2610012)
+[2021-10-15 08:45:13.921] [info] [MicroAppUpdater] checkForUpdates
+[2021-10-15 08:45:13.965] [info] [DnsPool] resolve4 www.binance.com get resolver
+[2021-10-15 08:45:13.971] [info] [DnsPool] resolve4 www.binance.com success
+[2021-10-15 08:45:13.972] [info] [DnsPool] resolve6 www.binance.com get resolver
+[2021-10-15 08:45:13.974] [info] [DnsPool] resolve6 www.binance.com success
+[2021-10-15 08:45:14.366] [error] [Api] {
+  "message": "Request failed with status code 502",
+  "name": "Error",
+  "stack": "Error: Request failed with status code 502\n    at e.exports (/opt/Binance/resources/app.asar/build/main.js:1:209794)\n    at e.exports (/opt/Binance/resources/app.asar/build/main.js:1:377803)\n    at IncomingMessage.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:909875)\n    at IncomingMessage.emit (events.js:327:22)\n    at IncomingMessage.EventEmitter.emit (domain.js:467:12)\n    at endReadableNT (internal/streams/readable.js:1327:12)\n    at processTicksAndRejections (internal/process/task_queues.js:80:21)",
+  "config": {
+    "url": "https://www.binance.com/bapi/composite/v1/public/market/web/querySyncWebCodeCnfig",
+    "method": "post",
+    "data": "{\"version\":\"1.1.0\",\"gray\":false}",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "User-Agent": "(Macintosh; OS X/10.14.6) (electron 1.24.2)",
+      "Content-Type": "application/json;charset=utf-8",
+      "bnc-time-zone": "Europe/Moscow",
+      "bnc-uuid": "bb84b51cbbe642749ddbcc577176ab05",
+      "versionname": "1.24.2",
+      "clienttype": "electron",
+      "lang": "en",
+      "device-info": "eyJzY3JlZW5fcmVzb2x1dGlvbiI6IjkwMywxNjA3IiwiYXZhaWxhYmxlX3NjcmVlbl9yZXNvbHV0aW9uIjoiODc1LDE2MDgiLCJzeXN0ZW1fdmVyc2lvbiI6IkxpbnV4IHg4Nl82NCIsImJyYW5kX21vZGVsIjoidW5rbm93biIsInN5c3RlbV9sYW5nIjoiZW4tVVMiLCJ0aW1lem9uZSI6IkdNVCszIiwidGltZXpvbmVPZmZzZXQiOi0xODAsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIEJpbmFuY2UvMS4yNC4yIENocm9tZS84OS4wLjQzODkuMTI4IEVsZWN0cm9uLzEyLjAuNyBTYWZhcmkvNTM3LjM2IChlbGVjdHJvbiAxLjI0LjIpIiwibGlzdF9wbHVnaW4iOiJDaHJvbWl1bSBQREYgVmlld2VyLENocm9taXVtIFBERiBWaWV3ZXIiLCJjYW52YXNfY29kZSI6IjgzMzc3ZDAzIiwid2ViZ2xfdmVuZG9yIjoiR29vZ2xlIEluYy4iLCJ3ZWJnbF9yZW5kZXJlciI6IkFOR0xFIChJbnRlbCwgTWVzYSBJbnRlbChSKSBIRCBHcmFwaGljcyA1NTAwIChCRFcgR1QyKSwgT3BlbkdMIDQuNiBjb3JlKSIsImF1ZGlvIjoiMTI0LjA0MzQ3NzMwNTkwOTYyIiwicGxhdGZvcm0iOiJMaW51eCB4ODZfNjQiLCJ3ZWJfdGltZXpvbmUiOiJFdXJvcGUvTW9zY293IiwiZGV2aWNlX25hbWUiOiJDaHJvbWUgVjg5LjAuNDM4OS4xMjggKExpbnV4KSIsImZpbmdlcnByaW50IjoiOWM5YzY4YmZkZWQzZmUzOWU2YzA2ZTU0YzlkYTI4MWUiLCJkZXZpY2VfaWQiOiIiLCJyZWxhdGVkX2RldmljZV9pZHMiOiIiLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsIm1hY19hZGRyZXNzIjoiMDA6MDA6MDA6MDA6MDA6MDAiLCJhcHBfaW5zdGFsbF9kYXRlIjoxNjM0MjM4OTc3fQ==",
+      "fvideo-id": "61d57c32df4da04d9180362a73e6496854e2afee",
+      "Content-Length": 32
+    },
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "cancelToken": {
+      "promise": {}
+    },
+    "__id": 2,
+    "__requestTime": 1634276713965
+  }
+}
+[2021-10-15 08:45:14.367] [error] [MicroAppUpdater] check update error
+[2021-10-15 08:45:14.368] [error] [MicroAppUpdater] {
+  message: 'Request failed with status code 502',
+  name: 'Error',
+  stack: 'Error: Request failed with status code 502\n' +
+    '    at e.exports (/opt/Binance/resources/app.asar/build/main.js:1:209794)\n' +
+    '    at e.exports (/opt/Binance/resources/app.asar/build/main.js:1:377803)\n' +
+    '    at IncomingMessage.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:909875)\n' +
+    '    at IncomingMessage.emit (events.js:327:22)\n' +
+    '    at IncomingMessage.EventEmitter.emit (domain.js:467:12)\n' +
+    '    at endReadableNT (internal/streams/readable.js:1327:12)\n' +
+    '    at processTicksAndRejections (internal/process/task_queues.js:80:21)',
+  config: {
+    url: 'https://www.binance.com/bapi/composite/v1/public/market/web/querySyncWebCodeCnfig',
+    method: 'post',
+    data: '{"version":"1.1.0","gray":false}',
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'User-Agent': '(Macintosh; OS X/10.14.6) (electron 1.24.2)',
+      'Content-Type': 'application/json;charset=utf-8',
+      'bnc-time-zone': 'Europe/Moscow',
+      'bnc-uuid': 'bb84b51cbbe642749ddbcc577176ab05',
+      versionname: '1.24.2',
+      clienttype: 'electron',
+      lang: 'en',
+      'device-info': 'eyJzY3JlZW5fcmVzb2x1dGlvbiI6IjkwMywxNjA3IiwiYXZhaWxhYmxlX3NjcmVlbl9yZXNvbHV0aW9uIjoiODc1LDE2MDgiLCJzeXN0ZW1fdmVyc2lvbiI6IkxpbnV4IHg4Nl82NCIsImJyYW5kX21vZGVsIjoidW5rbm93biIsInN5c3RlbV9sYW5nIjoiZW4tVVMiLCJ0aW1lem9uZSI6IkdNVCszIiwidGltZXpvbmVPZmZzZXQiOi0xODAsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIEJpbmFuY2UvMS4yNC4yIENocm9tZS84OS4wLjQzODkuMTI4IEVsZWN0cm9uLzEyLjAuNyBTYWZhcmkvNTM3LjM2IChlbGVjdHJvbiAxLjI0LjIpIiwibGlzdF9wbHVnaW4iOiJDaHJvbWl1bSBQREYgVmlld2VyLENocm9taXVtIFBERiBWaWV3ZXIiLCJjYW52YXNfY29kZSI6IjgzMzc3ZDAzIiwid2ViZ2xfdmVuZG9yIjoiR29vZ2xlIEluYy4iLCJ3ZWJnbF9yZW5kZXJlciI6IkFOR0xFIChJbnRlbCwgTWVzYSBJbnRlbChSKSBIRCBHcmFwaGljcyA1NTAwIChCRFcgR1QyKSwgT3BlbkdMIDQuNiBjb3JlKSIsImF1ZGlvIjoiMTI0LjA0MzQ3NzMwNTkwOTYyIiwicGxhdGZvcm0iOiJMaW51eCB4ODZfNjQiLCJ3ZWJfdGltZXpvbmUiOiJFdXJvcGUvTW9zY293IiwiZGV2aWNlX25hbWUiOiJDaHJvbWUgVjg5LjAuNDM4OS4xMjggKExpbnV4KSIsImZpbmdlcnByaW50IjoiOWM5YzY4YmZkZWQzZmUzOWU2YzA2ZTU0YzlkYTI4MWUiLCJkZXZpY2VfaWQiOiIiLCJyZWxhdGVkX2RldmljZV9pZHMiOiIiLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsIm1hY19hZGRyZXNzIjoiMDA6MDA6MDA6MDA6MDA6MDAiLCJhcHBfaW5zdGFsbF9kYXRlIjoxNjM0MjM4OTc3fQ==',
+      'fvideo-id': '61d57c32df4da04d9180362a73e6496854e2afee',
+      'Content-Length': 32
+    },
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    cancelToken: { promise: {} },
+    validateStatus: '[function] function(e){return e>=200&&e<300}',
+    __id: 2,
+    __requestTime: 1634276713965
+  }
+}
+[2021-10-15 08:45:14.378] [info] [Binance] report fingerPrint
+[2021-10-15 08:45:14.448] [info] [updater] update-not-available
+[2021-10-15 08:45:16.114] [info] [Binance] fingerPrint: eyJtYW51ZmFjdHVyZXIiOiJIUCIsIm1vZGVsIjoiSFAgTm90ZWJvb2siLCJzZXJpYWxObyI6Ii0iLCJiaW9zSWQiOiJJbnN5ZGUgRi40OCIsInV1aWQiOiJiYjg0YjUxY2JiZTY0Mjc0OWRkYmNjNTc3MTc2YWIwNSIsImhvc3ROYW1lIjoiZmVkb3JhIiwib3NWZXJzaW9uIjoiRmVkb3JhIDM0IDUuMTQuOS0yMDAuZmMzNC54ODZfNjQgIiwiY29yZU5vIjo0LCJwcm9jZXNzb3JOYW1lIjoiR2VudWluZUludGVsIENvcmXihKJfaTMtNTAwNVUiLCJkaXNrSWQiOlsiUkIyNTBBQVMxSDVWS0oiXSwidG90YWxEaXNrU2l6ZSI6IjkwNzgzTUIiLCJ1c2VkRGlza1NpemUiOiIzNTEzMU1CIiwiZGlza1R5cGUiOlsiSEQiXSwicmFtSWQiOlsiIl0sInRvdGFsUmFtU2l6ZSI6Ijc4NTJNQiIsInVzZWRSYW1TaXplIjoiNDc1Nk1CIiwiaW5zdGFsbFRpbWUiOjE2MzQyMzg5NzcxMzksImluc3RhbGxQYXRoIjoiL29wdC9CaW5hbmNlL3Jlc291cmNlcy9hcHAuYXNhciIsImRldmljZVRpbWUiOjE2MzQyNzY3MTUzNjMsInRpbWVab25lIjoiR01UKzAzMDAiLCJyZXNvbHV0aW9uIjoiIiwiZ3JhcGhWZW5kb3IiOiJJbnRlbCBDb3Jwb3JhdGlvbiIsImdyYXBoTW9kZWwiOiJIRCBHcmFwaGljcyA1NTAwICIsImRucyI6WyIxMjcuMC4wLjUzIl0sIm1hYyI6W10sImJyaWdodG5lc3MiOjEsInNvdW5kT3V0cHV0IjoiRGVmYXVsdCIsIm1pY3JvcGhvbmUiOiJEZWZhdWx0IiwibG9jYWxlIjoiZW4tVVMiLCJhcHBWZXJzaW9uIjoiMS4yNC4yIiwiYnVpbGRWZXJzaW9uIjoiMDIyNmU2NWY4ZWRhNDAzN2ViOTZhMjcwZjIzMzEzZGEyODcxZGIyMSIsImRmcCI6IjYxZDU3YzMyZGY0ZGEwNGQ5MTgwMzYyYTczZTY0OTY4NTRlMmFmZWUifQ==
+[2021-10-15 08:45:17.672] [info] [Binance] report fingerPrint success
+[2021-10-15 08:45:34.005] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 6056
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-15 08:46:04.058] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 6056
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-15 08:46:34.115] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 6056
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-15 08:47:04.169] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 6056
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-15 08:47:34.212] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 6056
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-15 08:48:04.255] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 6056
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-10-15 08:50:02.122] [info] [DnsPool] resolve4 frontend-m.binance.cloud get resolver
+[2021-10-15 08:50:02.134] [info] [DnsPool] resolve4 frontend-m.binance.cloud success
+[2021-10-15 08:50:02.135] [info] [DnsPool] resolve6 frontend-m.binance.cloud get resolver
+[2021-10-15 08:50:02.186] [info] [DnsPool] resolve6 frontend-m.binance.cloud success
+[2021-10-15 08:52:15.502] [info] [app-manager] respond user-center-dashboard resources from /opt/Binance/resources/app.asar/resources/app/user-center-dashboard
+[2021-10-15 08:52:15.504] [info] [app-manager] load v1.0.0 of user-center-dashboard
+[2021-10-15 08:52:15.514] [info] [app-manager] respond USER_CENTER_STATIC_HOST resources from /opt/Binance/resources/app.asar/resources/app/USER_CENTER_STATIC_HOST
+[2021-10-15 08:52:15.514] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2608351)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607323)
+[2021-10-15 08:52:15.518] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2607937)
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607334)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2610012)
+[2021-10-15 08:53:05.622] [info] [app-manager] respond user-center-wallet resources from /opt/Binance/resources/app.asar/resources/app/user-center-wallet
+[2021-10-15 08:53:05.626] [info] [app-manager] load v1.1.0 of user-center-wallet
+[2021-10-15 08:53:05.634] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2607937)
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607334)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2610012)
+[2021-10-15 08:53:05.636] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2607937)
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607334)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2610012)
+[2021-10-15 08:54:32.821] [info] [app-manager] respond main-exchange resources from /opt/Binance/resources/app.asar/resources/app/main-exchange
+[2021-10-15 08:54:32.822] [info] [app-manager] load v1.0.0 of main-exchange
+[2021-10-15 08:55:02.126] [info] [DnsPool] resolve4 frontend-m.binance.cloud get resolver
+[2021-10-15 08:55:02.129] [info] [DnsPool] resolve4 frontend-m.binance.cloud success
+[2021-10-15 08:55:02.130] [info] [DnsPool] resolve6 frontend-m.binance.cloud get resolver
+[2021-10-15 08:55:02.132] [info] [DnsPool] resolve6 frontend-m.binance.cloud success
+[2021-10-15 08:55:11.496] [info] [app-manager] respond trade-spot resources from /home/nik/.config/Binance/microApps/trade-spot-v1.1.3
+[2021-10-15 08:55:11.501] [info] [app-manager] load v1.1.3 of trade-spot
+[2021-10-15 08:55:11.510] [info] [app-manager] respond TRADE_STATIC_HOST resources from /opt/Binance/resources/app.asar/resources/app/TRADE_STATIC_HOST
+[2021-10-15 08:55:11.511] [error] [micro-app-session] Error: TRADE_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2608351)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607323)
+[2021-10-15 08:55:11.512] [error] [micro-app-session] Error: TRADE_STATIC_HOST no update manifest
+    at le.enableToModifyAppPath.loadMicroApp (/opt/Binance/resources/app.asar/build/main.js:1:2607937)
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2607334)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2610012)
+[2021-10-15 08:56:59.449] [info] [DnsPool] resolve4 frontend-m.binance.cloud get resolver
+[2021-10-15 08:56:59.486] [info] [DnsPool] resolve4 frontend-m.binance.cloud success
+[2021-10-15 08:56:59.487] [info] [DnsPool] resolve6 frontend-m.binance.cloud get resolver
+[2021-10-15 08:56:59.554] [info] [DnsPool] resolve6 frontend-m.binance.cloud success
+[2021-11-26 00:52:41.731] [info] [App Launch] 
+
+
+██████╗ ██╗███╗   ██╗ █████╗ ███╗   ██╗ ██████╗███████╗
+██╔══██╗██║████╗  ██║██╔══██╗████╗  ██║██╔════╝██╔════╝
+██████╔╝██║██╔██╗ ██║███████║██╔██╗ ██║██║     █████╗  
+██╔══██╗██║██║╚██╗██║██╔══██║██║╚██╗██║██║     ██╔══╝  
+██████╔╝██║██║ ╚████║██║  ██║██║ ╚████║╚██████╗███████╗
+╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
+
+[2021-11-26 00:52:41.735] [info] [App Launch] ----------- App launch ------------
+[2021-11-26 00:52:41.815] [info] [MicroAppUpdater] initialize -> updateVersion: 1.1.1 gray: false
+[2021-11-26 00:52:41.735] [info] [App Launch] App Version: 1.27.0
+[2021-11-26 00:52:41.739] [info] [App Launch] Launch app
+[2021-11-26 00:52:42.102] [info] [App Launch] App Ready
+[2021-11-26 00:52:48.689] [info] [DnsPool] resolve4 www.binance.com get resolver
+[2021-11-26 00:52:48.696] [info] [DnsPool] resolve4 www.binance.com success
+[2021-11-26 00:52:48.696] [info] [DnsPool] resolve6 www.binance.com get resolver
+[2021-11-26 00:52:48.700] [info] [Sentry] Report sentry event
+[2021-11-26 00:52:48.701] [info] [Sentry] {
+  "environment": "production",
+  "extra": {
+    "crashed_process": "browser"
+  },
+  "release": "29d3dcde40c0fa30d438a667feed682a21b3853a",
+  "user": {
+    "ip_address": "{{auto}}"
+  },
+  "exception": {
+    "values": [
+      {
+        "type": "Error",
+        "value": "Request failed with status code 401",
+        "stacktrace": {
+          "frames": [
+            {
+              "colno": 1388323,
+              "filename": "binance-resources://build/static/group-0/js/chunk_vendor/index.js",
+              "function": "XMLHttpRequest.p.onreadystatechange",
+              "in_app": true,
+              "lineno": 1
+            },
+            {
+              "colno": 884350,
+              "filename": "binance-resources://build/static/group-0/js/chunk_vendor/index.js",
+              "function": "e.exports",
+              "in_app": true,
+              "lineno": 1
+            },
+            {
+              "colno": 1389477,
+              "filename": "binance-resources://build/static/group-0/js/chunk_vendor/index.js",
+              "function": "e.exports",
+              "in_app": true,
+              "lineno": 1
+            }
+          ]
+        },
+        "mechanism": {
+          "handled": false,
+          "type": "onunhandledrejection"
+        }
+      }
+    ]
+  },
+  "level": "error",
+  "platform": "javascript",
+  "sdk": {
+    "name": "sentry.javascript.electron",
+    "packages": [
+      {
+        "name": "npm:@sentry/browser",
+        "version": "5.27.6"
+      },
+      {
+        "name": "npm:@sentry/electron",
+        "version": "2.4.0"
+      }
+    ],
+    "version": "2.4.0",
+    "integrations": [
+      "InboundFilters",
+      "FunctionToString",
+      "Console",
+      "Http",
+      "OnUnhandledRejection",
+      "LinkedErrors",
+      "OnUncaughtException",
+      "Electron"
+    ]
+  },
+  "event_id": "217c8fa70b89413db2a758bc76dc5017",
+  "timestamp": 1637877168.572,
+  "tags": {
+    "version": "1.27.0",
+    "process": "ui",
+    "platform": "Linux",
+    "event_type": "javascript"
+  },
+  "breadcrumbs": [
+    {
+      "0": "["
+    },
+    {
+      "0": "u"
+    },
+    {
+      "0": "n"
+    },
+    {
+      "0": "d"
+    },
+    {
+      "0": "e"
+    },
+    {
+      "0": "f"
+    },
+    {
+      "0": "i"
+    },
+    {
+      "0": "n"
+    },
+    {
+      "0": "e"
+    },
+    {
+      "0": "d"
+    },
+    {
+      "0": "]"
+    },
+    {
+      "timestamp": 1637877167.341,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.343,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.344,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.346,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.348,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.349,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.351,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.352,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.354,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.357,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.359,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.36,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.362,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.363,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.365,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.367,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.369,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.371,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.372,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.374,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.376,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.378,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.38,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.382,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.384,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.386,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.388,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.43,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.434,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.437,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.441,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.444,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.448,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.451,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.454,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.457,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.459,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.467,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.469,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.494,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.497,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.499,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.501,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.502,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.504,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.505,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.506,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.508,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.509,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.51,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.512,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.591
+    },
+    {
+      "timestamp": 1637877167.592
+    },
+    {
+      "timestamp": 1637877167.593
+    },
+    {
+      "timestamp": 1637877167.594,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.596,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.597,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.599,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.6,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.602,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.603,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.605,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.606,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.608,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.609,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.611,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.768,
+      "category": "electron",
+      "message": "app.remote-get-current-web-contents",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.813,
+      "category": "electron",
+      "message": "app.remote-get-current-window",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.82,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.888,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.89,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.891,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.893,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.894,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.896,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.898,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.9,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.901,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.903,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.905,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.906,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.962,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.966,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.968,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.987,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.135,
+      "category": "electron",
+      "message": "app.web-contents-created",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.135,
+      "category": "electron",
+      "message": "main.dom-ready",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.17,
+      "category": "electron",
+      "message": "main.load-url",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.161,
+      "category": "navigation",
+      "data": {
+        "from": "/opt/Binance/resources/app.asar/build/main.html?payload=%7B%7D#/app/home/en",
+        "to": "/opt/Binance/resources/app.asar/build/main.html?payload=%7B%7D#/app/home/en"
+      }
+    },
+    {
+      "timestamp": 1637877168.31,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.332,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.335,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.34,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.343,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.346,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.349,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.351,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.353,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.355,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.356,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.365,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/composite/v1/public/marketing/recommend/hotAsset/list?currency=USD_USD&type=2",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.371,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/dapi/v1/exchangeInfo",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.379,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/asset/v1/public/asset-service/product/currency",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.393,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/fapi/v1/exchangeInfo",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.433,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/margin/v1/public/isolated-margin/pair/all",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.45,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/kyc/v1/public/risk/compliance-notification/notification-list",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.563,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/mbx/v1/private/mbxgateway/user-stream/start",
+        "status_code": 401
+      },
+      "type": "http"
+    }
+  ],
+  "request": {
+    "url": "app:///build/main.html?payload={}#/app/home/en",
+    "headers": {}
+  },
+  "contexts": {
+    "app": {
+      "app_name": "Binance",
+      "app_version": "1.27.0"
+    },
+    "browser": {
+      "name": "Chrome"
+    },
+    "chrome": {
+      "name": "Chrome",
+      "type": "runtime",
+      "version": "89.0.4389.128"
+    },
+    "device": {
+      "arch": "x64",
+      "family": "Desktop"
+    },
+    "node": {
+      "name": "Node",
+      "type": "runtime",
+      "version": "14.16.0"
+    },
+    "os": {
+      "kernel_version": "5.14.18-300.fc35.x86_64",
+      "name": "Fedora",
+      "version": "35"
+    },
+    "runtime": {
+      "name": "Electron",
+      "version": "12.0.7"
+    },
+    "electron": {
+      "crashed_process": "main",
+      "crashed_url": "app:///build/main.html?payload={}#/app/home/en"
+    }
+  }
+}
+[2021-11-26 00:52:48.788] [info] [DnsPool] resolve6 www.binance.com success
+[2021-11-26 00:52:48.915] [info] [app-manager] respond home resources from /opt/Binance/resources/app.asar/resources/app/home
+[2021-11-26 00:52:48.920] [info] [app-manager] load v1.0.0 of home
+[2021-11-26 00:52:48.930] [error] [micro-app-session] Error: HOME_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 00:52:48.931] [error] [micro-app-session] Error: HOME_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 00:52:48.949] [error] [micro-app-session] Error: HOME_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 00:52:49.084] [info] [Sentry] {
+  "environment": "production",
+  "extra": {
+    "crashed_process": "browser"
+  },
+  "release": "29d3dcde40c0fa30d438a667feed682a21b3853a",
+  "user": {
+    "ip_address": "{{auto}}"
+  },
+  "exception": {
+    "values": [
+      {
+        "type": "Error",
+        "value": "Request failed with status code 401",
+        "stacktrace": {
+          "frames": [
+            {
+              "colno": 1388323,
+              "filename": "binance-resources://build/static/group-0/js/chunk_vendor/index.js",
+              "function": "XMLHttpRequest.p.onreadystatechange",
+              "in_app": true,
+              "lineno": 1
+            },
+            {
+              "colno": 884350,
+              "filename": "binance-resources://build/static/group-0/js/chunk_vendor/index.js",
+              "function": "e.exports",
+              "in_app": true,
+              "lineno": 1
+            },
+            {
+              "colno": 1389477,
+              "filename": "binance-resources://build/static/group-0/js/chunk_vendor/index.js",
+              "function": "e.exports",
+              "in_app": true,
+              "lineno": 1
+            }
+          ]
+        },
+        "mechanism": {
+          "handled": false,
+          "type": "onunhandledrejection"
+        }
+      }
+    ]
+  },
+  "level": "error",
+  "platform": "javascript",
+  "sdk": {
+    "name": "sentry.javascript.electron",
+    "packages": [
+      {
+        "name": "npm:@sentry/browser",
+        "version": "5.27.6"
+      },
+      {
+        "name": "npm:@sentry/electron",
+        "version": "2.4.0"
+      }
+    ],
+    "version": "2.4.0",
+    "integrations": [
+      "InboundFilters",
+      "FunctionToString",
+      "Console",
+      "Http",
+      "OnUnhandledRejection",
+      "LinkedErrors",
+      "OnUncaughtException",
+      "Electron"
+    ]
+  },
+  "event_id": "b78d9d8be6e24a409582948210bfe623",
+  "timestamp": 1637877169.076,
+  "tags": {
+    "version": "1.27.0",
+    "process": "ui",
+    "platform": "Linux",
+    "event_type": "javascript"
+  },
+  "breadcrumbs": [
+    {
+      "0": "["
+    },
+    {
+      "0": "u"
+    },
+    {
+      "0": "n"
+    },
+    {
+      "0": "d"
+    },
+    {
+      "0": "e"
+    },
+    {
+      "0": "f"
+    },
+    {
+      "0": "i"
+    },
+    {
+      "0": "n"
+    },
+    {
+      "0": "e"
+    },
+    {
+      "0": "d"
+    },
+    {
+      "0": "]"
+    },
+    {
+      "timestamp": 1637877167.499,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.501,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.502,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.504,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.505,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.506,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.508,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.509,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.51,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.512,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.591
+    },
+    {
+      "timestamp": 1637877167.592
+    },
+    {
+      "timestamp": 1637877167.593
+    },
+    {
+      "timestamp": 1637877167.594,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.596,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.597,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.599,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.6,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.602,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.603,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.605,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.606,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.608,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.609,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.611,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.768,
+      "category": "electron",
+      "message": "app.remote-get-current-web-contents",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.813,
+      "category": "electron",
+      "message": "app.remote-get-current-window",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.82,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.888,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.89,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.891,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.893,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.894,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.896,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.898,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.9,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.901,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.903,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.905,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.906,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.962,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.966,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.968,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877167.987,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.135,
+      "category": "electron",
+      "message": "app.web-contents-created",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.135,
+      "category": "electron",
+      "message": "main.dom-ready",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.17,
+      "category": "electron",
+      "message": "main.load-url",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.161,
+      "category": "navigation",
+      "data": {
+        "from": "/opt/Binance/resources/app.asar/build/main.html?payload=%7B%7D#/app/home/en",
+        "to": "/opt/Binance/resources/app.asar/build/main.html?payload=%7B%7D#/app/home/en"
+      }
+    },
+    {
+      "timestamp": 1637877168.31,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.332,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.335,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.34,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.343,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.346,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.349,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.351,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.353,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.355,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.356,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.365,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/composite/v1/public/marketing/recommend/hotAsset/list?currency=USD_USD&type=2",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.371,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/dapi/v1/exchangeInfo",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.379,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/asset/v1/public/asset-service/product/currency",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.393,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/fapi/v1/exchangeInfo",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.433,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/margin/v1/public/isolated-margin/pair/all",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.45,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/kyc/v1/public/risk/compliance-notification/notification-list",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.563,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/mbx/v1/private/mbxgateway/user-stream/start",
+        "status_code": 401
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.736,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/accounts/v2/private/country/user/restricted",
+        "status_code": 401
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.742,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/mbx/v1/private/mbxgateway/user-stream/isolated-margin/start/batch",
+        "status_code": 401
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.746,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/futures/v1/private/future/user-data/user-listen-key",
+        "status_code": 401
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.749,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/accounts/v1/private/account/compliance/enforceKycCheck",
+        "status_code": 401
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.754,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/accounts/v1/private/account/user/base-detail",
+        "status_code": 401
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.758,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/composite/v2/public/common/config/stub/score?timestamp=1637877167999",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.77,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/dapi/v1/ticker/24hr",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.775,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.777,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.779,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.781,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.783,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.787,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.795,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.797,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.801,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.807,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.809,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.811,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.838,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/kyc/v1/friendly/risk/compliance-notification/notification-detail?electronKey=main&currency=USD",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.845,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/fapi/v1/ticker/24hr",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.849,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.854,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.859,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.861,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.867,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.873,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.875,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.877,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.879,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.881,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.883,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.886,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.892,
+      "category": "electron",
+      "message": "main.dom-ready",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637877168.893,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://sensors.binance.cloud/sa.gif?project=binance",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877168.989,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/asset/v2/public/asset-service/product/get-products?includeEtf=true",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877169.061,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/mbx/v1/private/mbxgateway/user-stream/isolated-margin/start/batch",
+        "status_code": 401
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637877169.074,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/mbx/v1/private/mbxgateway/user-stream/start",
+        "status_code": 401
+      },
+      "type": "http"
+    }
+  ],
+  "request": {
+    "url": "app:///build/main.html?payload={}#/app/home/en",
+    "headers": {}
+  },
+  "contexts": {
+    "app": {
+      "app_name": "Binance",
+      "app_version": "1.27.0"
+    },
+    "browser": {
+      "name": "Chrome"
+    },
+    "chrome": {
+      "name": "Chrome",
+      "type": "runtime",
+      "version": "89.0.4389.128"
+    },
+    "device": {
+      "arch": "x64",
+      "family": "Desktop"
+    },
+    "node": {
+      "name": "Node",
+      "type": "runtime",
+      "version": "14.16.0"
+    },
+    "os": {
+      "kernel_version": "5.14.18-300.fc35.x86_64",
+      "name": "Fedora",
+      "version": "35"
+    },
+    "runtime": {
+      "name": "Electron",
+      "version": "12.0.7"
+    },
+    "electron": {
+      "crashed_process": "main",
+      "crashed_url": "app:///build/main.html?payload={}#/app/home/en"
+    }
+  }
+}
+[2021-11-26 00:52:49.083] [info] [Sentry] Report sentry event
+[2021-11-26 00:52:49.315] [error] [Api] {
+  "message": "Request failed with status code 401",
+  "name": "Error",
+  "stack": "Error: Request failed with status code 401\n    at e.exports (/opt/Binance/resources/app.asar/build/main.js:1:212924)\n    at e.exports (/opt/Binance/resources/app.asar/build/main.js:1:380933)\n    at IncomingMessage.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:913005)\n    at IncomingMessage.emit (events.js:327:22)\n    at IncomingMessage.EventEmitter.emit (domain.js:467:12)\n    at endReadableNT (internal/streams/readable.js:1327:12)\n    at processTicksAndRejections (internal/process/task_queues.js:80:21)",
+  "config": {
+    "url": "https://www.binance.com/bapi/accounts/v1/private/authcenter/logout",
+    "method": "post",
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "User-Agent": "(Macintosh; OS X/10.14.6) (electron 1.27.0)",
+      "Content-Type": "application/json",
+      "x-token": "electron.290045624.C4B699AD27E13D90CCDD587DCF15D1C3",
+      "bnc-time-zone": "Europe/Moscow",
+      "bnc-uuid": "bb84b51cbbe642749ddbcc577176ab05",
+      "versionname": "1.27.0",
+      "clienttype": "electron",
+      "lang": "en",
+      "device-info": "eyJzY3JlZW5fcmVzb2x1dGlvbiI6IjkwMywxNjA3IiwiYXZhaWxhYmxlX3NjcmVlbl9yZXNvbHV0aW9uIjoiODc1LDE2MDgiLCJzeXN0ZW1fdmVyc2lvbiI6IkxpbnV4IHg4Nl82NCIsImJyYW5kX21vZGVsIjoidW5rbm93biIsInN5c3RlbV9sYW5nIjoiZW4tVVMiLCJ0aW1lem9uZSI6IkdNVCszIiwidGltZXpvbmVPZmZzZXQiOi0xODAsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIEJpbmFuY2UvMS4yNC4yIENocm9tZS84OS4wLjQzODkuMTI4IEVsZWN0cm9uLzEyLjAuNyBTYWZhcmkvNTM3LjM2IChlbGVjdHJvbiAxLjI0LjIpIiwibGlzdF9wbHVnaW4iOiJDaHJvbWl1bSBQREYgVmlld2VyLENocm9taXVtIFBERiBWaWV3ZXIiLCJjYW52YXNfY29kZSI6IjgzMzc3ZDAzIiwid2ViZ2xfdmVuZG9yIjoiR29vZ2xlIEluYy4iLCJ3ZWJnbF9yZW5kZXJlciI6IkFOR0xFIChJbnRlbCwgTWVzYSBJbnRlbChSKSBIRCBHcmFwaGljcyA1NTAwIChCRFcgR1QyKSwgT3BlbkdMIDQuNiBjb3JlKSIsImF1ZGlvIjoiMTI0LjA0MzQ3NzMwNTkwOTYyIiwicGxhdGZvcm0iOiJMaW51eCB4ODZfNjQiLCJ3ZWJfdGltZXpvbmUiOiJFdXJvcGUvTW9zY293IiwiZGV2aWNlX25hbWUiOiJDaHJvbWUgVjg5LjAuNDM4OS4xMjggKExpbnV4KSIsImZpbmdlcnByaW50IjoiOWM5YzY4YmZkZWQzZmUzOWU2YzA2ZTU0YzlkYTI4MWUiLCJkZXZpY2VfaWQiOiIiLCJyZWxhdGVkX2RldmljZV9pZHMiOiIiLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsIm1hY19hZGRyZXNzIjoiMDA6MDA6MDA6MDA6MDA6MDAiLCJhcHBfaW5zdGFsbF9kYXRlIjoxNjM0MjM4OTc3fQ==",
+      "fvideo-id": "61d57c32df4da04d9180362a73e6496854e2afee"
+    },
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "cancelToken": {
+      "promise": {}
+    },
+    "__id": 1,
+    "__requestTime": 1637877168574
+  }
+}
+[2021-11-26 00:52:49.316] [error] [Binance] logout error: {
+  message: 'Request failed with status code 401',
+  name: 'Error',
+  stack: 'Error: Request failed with status code 401\n' +
+    '    at e.exports (/opt/Binance/resources/app.asar/build/main.js:1:212924)\n' +
+    '    at e.exports (/opt/Binance/resources/app.asar/build/main.js:1:380933)\n' +
+    '    at IncomingMessage.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:913005)\n' +
+    '    at IncomingMessage.emit (events.js:327:22)\n' +
+    '    at IncomingMessage.EventEmitter.emit (domain.js:467:12)\n' +
+    '    at endReadableNT (internal/streams/readable.js:1327:12)\n' +
+    '    at processTicksAndRejections (internal/process/task_queues.js:80:21)',
+  config: {
+    url: 'https://www.binance.com/bapi/accounts/v1/private/authcenter/logout',
+    method: 'post',
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'User-Agent': '(Macintosh; OS X/10.14.6) (electron 1.27.0)',
+      'Content-Type': 'application/json',
+      'x-token': 'electron.290045624.C4B699AD27E13D90CCDD587DCF15D1C3',
+      'bnc-time-zone': 'Europe/Moscow',
+      'bnc-uuid': 'bb84b51cbbe642749ddbcc577176ab05',
+      versionname: '1.27.0',
+      clienttype: 'electron',
+      lang: 'en',
+      'device-info': 'eyJzY3JlZW5fcmVzb2x1dGlvbiI6IjkwMywxNjA3IiwiYXZhaWxhYmxlX3NjcmVlbl9yZXNvbHV0aW9uIjoiODc1LDE2MDgiLCJzeXN0ZW1fdmVyc2lvbiI6IkxpbnV4IHg4Nl82NCIsImJyYW5kX21vZGVsIjoidW5rbm93biIsInN5c3RlbV9sYW5nIjoiZW4tVVMiLCJ0aW1lem9uZSI6IkdNVCszIiwidGltZXpvbmVPZmZzZXQiOi0xODAsInVzZXJfYWdlbnQiOiJNb3ppbGxhLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIEJpbmFuY2UvMS4yNC4yIENocm9tZS84OS4wLjQzODkuMTI4IEVsZWN0cm9uLzEyLjAuNyBTYWZhcmkvNTM3LjM2IChlbGVjdHJvbiAxLjI0LjIpIiwibGlzdF9wbHVnaW4iOiJDaHJvbWl1bSBQREYgVmlld2VyLENocm9taXVtIFBERiBWaWV3ZXIiLCJjYW52YXNfY29kZSI6IjgzMzc3ZDAzIiwid2ViZ2xfdmVuZG9yIjoiR29vZ2xlIEluYy4iLCJ3ZWJnbF9yZW5kZXJlciI6IkFOR0xFIChJbnRlbCwgTWVzYSBJbnRlbChSKSBIRCBHcmFwaGljcyA1NTAwIChCRFcgR1QyKSwgT3BlbkdMIDQuNiBjb3JlKSIsImF1ZGlvIjoiMTI0LjA0MzQ3NzMwNTkwOTYyIiwicGxhdGZvcm0iOiJMaW51eCB4ODZfNjQiLCJ3ZWJfdGltZXpvbmUiOiJFdXJvcGUvTW9zY293IiwiZGV2aWNlX25hbWUiOiJDaHJvbWUgVjg5LjAuNDM4OS4xMjggKExpbnV4KSIsImZpbmdlcnByaW50IjoiOWM5YzY4YmZkZWQzZmUzOWU2YzA2ZTU0YzlkYTI4MWUiLCJkZXZpY2VfaWQiOiIiLCJyZWxhdGVkX2RldmljZV9pZHMiOiIiLCJsb2dpbl9pcCI6IjEyNy4wLjAuMSIsIm1hY19hZGRyZXNzIjoiMDA6MDA6MDA6MDA6MDA6MDAiLCJhcHBfaW5zdGFsbF9kYXRlIjoxNjM0MjM4OTc3fQ==',
+      'fvideo-id': '61d57c32df4da04d9180362a73e6496854e2afee'
+    },
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    cancelToken: { promise: {} },
+    validateStatus: '[function] function(e){return e>=200&&e<300}',
+    __id: 1,
+    __requestTime: 1637877168574
+  }
+}
+[2021-11-26 00:52:52.316] [info] [MicroAppUpdater] checkForUpdates
+[2021-11-26 00:52:52.624] [info] [updater] update-not-available
+[2021-11-26 00:52:52.856] [info] [MicroAppUpdater] Compare versions trade-spot -> 1.1.12 - 1.1.3
+[2021-11-26 00:52:52.858] [info] [MicroAppUpdater] Compare versions launchpad -> 1.1.0 - 1.0.1
+[2021-11-26 00:52:52.859] [info] [MicroAppUpdater] Compare versions trade-futures -> 1.0.49 - 1.0.48
+[2021-11-26 00:52:52.861] [info] [MicroAppUpdater] Compare versions user-center-margin -> 1.0.35 - 1.0.34
+[2021-11-26 00:52:52.862] [info] [MicroAppUpdater] Compare versions c2c -> 1.0.6 - 1.0.5
+[2021-11-26 00:52:52.863] [info] [MicroAppUpdater] Compare versions savings -> 1.0.11 - 1.0.10
+[2021-11-26 00:52:57.867] [info] [MicroAppUpdater] downloadUpdates
+[2021-11-26 00:52:57.875] [info] [DnsPool] resolve4 ftp.binance.com get resolver
+[2021-11-26 00:52:57.876] [info] [DnsPool] resolve4 binance-1259603563.file.myqcloud.com get resolver
+[2021-11-26 00:52:57.954] [info] [DnsPool] resolve4 ftp.binance.com success
+[2021-11-26 00:52:57.955] [info] [DnsPool] resolve6 ftp.binance.com get resolver
+[2021-11-26 00:52:58.045] [info] [DnsPool] resolve6 ftp.binance.com success
+[2021-11-26 00:52:59.134] [info] [DnsPool] resolve4 binance-1259603563.file.myqcloud.com success
+[2021-11-26 00:52:59.135] [info] [DnsPool] resolve6 binance-1259603563.file.myqcloud.com get resolver
+[2021-11-26 00:52:59.774] [info] [DnsPool] resolve6 binance-1259603563.file.myqcloud.com success
+[2021-11-26 00:53:04.220] [info] [MicroAppUpdater] applyUpdates
+[2021-11-26 00:53:04.224] [info] [MicroAppUpdater] trade-spot 1.1.12 updated
+[2021-11-26 00:53:04.638] [info] [MicroAppUpdater] launchpad 1.1.0 updated
+[2021-11-26 00:53:04.684] [info] [MicroAppUpdater] trade-futures 1.0.49 updated
+[2021-11-26 00:53:04.729] [info] [MicroAppUpdater] user-center-margin 1.0.35 updated
+[2021-11-26 00:53:04.774] [info] [MicroAppUpdater] c2c 1.0.6 updated
+[2021-11-26 00:53:04.809] [info] [MicroAppUpdater] savings 1.0.11 updated
+[2021-11-26 00:53:04.843] [info] [MicroAppUpdater] apply updates succeed
+[2021-11-26 00:53:04.847] [info] [Binance] report fingerPrint
+[2021-11-26 00:53:07.214] [info] [Binance] fingerPrint: eyJtYW51ZmFjdHVyZXIiOiJIUCIsIm1vZGVsIjoiSFAgTm90ZWJvb2siLCJzZXJpYWxObyI6Ii0iLCJiaW9zSWQiOiJJbnN5ZGUgRi40OCIsInV1aWQiOiJiYjg0YjUxY2JiZTY0Mjc0OWRkYmNjNTc3MTc2YWIwNSIsImhvc3ROYW1lIjoiZmVkb3JhIiwib3NWZXJzaW9uIjoiRmVkb3JhX0xpbnV4IDM1IDUuMTQuMTgtMzAwLmZjMzUueDg2XzY0ICIsImNvcmVObyI6NCwicHJvY2Vzc29yTmFtZSI6IkdlbnVpbmVJbnRlbCBDb3Jl4oSiX2kzLTUwMDVVIiwiZGlza0lkIjpbIlJCMjUwQUFTMUg1VktKIl0sInRvdGFsRGlza1NpemUiOiI5MDc4M01CIiwidXNlZERpc2tTaXplIjoiNjQ0MDBNQiIsImRpc2tUeXBlIjpbIkhEIl0sInJhbUlkIjpbIiJdLCJ0b3RhbFJhbVNpemUiOiI3ODUyTUIiLCJ1c2VkUmFtU2l6ZSI6IjU1MjBNQiIsImluc3RhbGxUaW1lIjoxNjM0MjM4OTc3MTM5LCJpbnN0YWxsUGF0aCI6Ii9vcHQvQmluYW5jZS9yZXNvdXJjZXMvYXBwLmFzYXIiLCJkZXZpY2VUaW1lIjoxNjM3ODc3MTg2MzMzLCJ0aW1lWm9uZSI6IkdNVCswMzAwIiwicmVzb2x1dGlvbiI6IiIsImdyYXBoVmVuZG9yIjoiSW50ZWwgQ29ycG9yYXRpb24iLCJncmFwaE1vZGVsIjoiSEQgR3JhcGhpY3MgNTUwMCAiLCJkbnMiOlsiMTI3LjAuMC41MyJdLCJtYWMiOltdLCJicmlnaHRuZXNzIjoxLCJzb3VuZE91dHB1dCI6IkRlZmF1bHQiLCJtaWNyb3Bob25lIjoiRGVmYXVsdCIsImxvY2FsZSI6ImVuLVVTIiwiYXBwVmVyc2lvbiI6IjEuMjcuMCIsImJ1aWxkVmVyc2lvbiI6IjI5ZDNkY2RlNDBjMGZhMzBkNDM4YTY2N2ZlZWQ2ODJhMjFiMzg1M2EiLCJkZnAiOiI2MWQ1N2MzMmRmNGRhMDRkOTE4MDM2MmE3M2U2NDk2ODU0ZTJhZmVlIn0=
+[2021-11-26 00:53:07.917] [info] [Binance] report fingerPrint success
+[2021-11-26 00:53:12.438] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 6552
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-11-26 00:53:42.484] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 6552
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-11-26 00:54:12.528] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 6552
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-11-26 00:54:42.567] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 6552
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-11-26 00:55:12.610] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 6552
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-11-26 00:55:42.647] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 6552
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-11-26 00:56:59.709] [error] [micro-app-session] Error: HOME_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 00:56:59.711] [error] [micro-app-session] Error: HOME_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 00:56:59.714] [error] [micro-app-session] Error: HOME_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 00:57:04.927] [info] [app-manager] respond main-exchange resources from /opt/Binance/resources/app.asar/resources/app/main-exchange
+[2021-11-26 00:57:04.931] [info] [app-manager] load v1.0.0 of main-exchange
+[2021-11-26 00:57:41.712] [info] [DnsPool] resolve4 log.bntrace.com get resolver
+[2021-11-26 00:57:41.715] [info] [DnsPool] resolve4 log.bntrace.com success
+[2021-11-26 00:57:41.716] [info] [DnsPool] resolve6 log.bntrace.com get resolver
+[2021-11-26 00:57:41.792] [info] [DnsPool] resolve6 log.bntrace.com success
+[2021-11-26 00:58:04.842] [info] [app-manager] respond trade-spot resources from /home/nik/.config/Binance/microApps/trade-spot-v1.1.12
+[2021-11-26 00:58:04.847] [info] [app-manager] load v1.1.12 of trade-spot
+[2021-11-26 00:58:04.863] [error] [micro-app-session] Error: TRADE_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 00:58:04.865] [error] [micro-app-session] Error: TRADE_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 00:59:16.666] [info] [app-manager] respond user-center-dashboard resources from /opt/Binance/resources/app.asar/resources/app/user-center-dashboard
+[2021-11-26 00:59:16.668] [info] [app-manager] load v1.0.0 of user-center-dashboard
+[2021-11-26 00:59:16.685] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 00:59:16.700] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:00:14.564] [info] [app-manager] respond user-center-wallet resources from /opt/Binance/resources/app.asar/resources/app/user-center-wallet
+[2021-11-26 01:00:14.566] [info] [app-manager] load v1.1.0 of user-center-wallet
+[2021-11-26 01:00:14.577] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:00:14.580] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:02:41.720] [info] [DnsPool] resolve4 log.bntrace.com get resolver
+[2021-11-26 01:02:41.768] [info] [DnsPool] resolve4 log.bntrace.com success
+[2021-11-26 01:02:41.769] [info] [DnsPool] resolve6 log.bntrace.com get resolver
+[2021-11-26 01:02:41.809] [info] [DnsPool] resolve6 log.bntrace.com success
+[2021-11-26 01:09:21.449] [info] [app-manager] respond trade-futures resources from /home/nik/.config/Binance/microApps/trade-futures-v1.0.49
+[2021-11-26 01:09:21.454] [info] [app-manager] load v1.0.49 of trade-futures
+[2021-11-26 01:09:21.463] [error] [micro-app-session] Error: TRADE_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:09:21.464] [error] [micro-app-session] Error: TRADE_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:12:41.731] [info] [DnsPool] resolve4 log.bntrace.com get resolver
+[2021-11-26 01:12:41.792] [info] [DnsPool] resolve4 log.bntrace.com success
+[2021-11-26 01:12:41.793] [info] [DnsPool] resolve6 log.bntrace.com get resolver
+[2021-11-26 01:12:41.863] [info] [DnsPool] resolve6 log.bntrace.com success
+[2021-11-26 01:21:55.481] [error] [micro-app-session] Error: TRADE_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:21:55.483] [error] [micro-app-session] Error: TRADE_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:21:57.954] [error] [micro-app-session] Error: HOME_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:21:57.956] [error] [micro-app-session] Error: HOME_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:21:57.964] [error] [micro-app-session] Error: HOME_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:22:05.149] [error] [micro-app-session] Error: TRADE_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:22:05.151] [error] [micro-app-session] Error: TRADE_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:22:08.120] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:22:08.135] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:22:10.630] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:22:10.632] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:22:41.746] [info] [DnsPool] resolve4 log.bntrace.com get resolver
+[2021-11-26 01:22:41.796] [info] [DnsPool] resolve4 log.bntrace.com success
+[2021-11-26 01:22:41.797] [info] [DnsPool] resolve6 log.bntrace.com get resolver
+[2021-11-26 01:22:41.894] [info] [DnsPool] resolve6 log.bntrace.com success
+[2021-11-26 01:23:27.434] [error] [micro-app-session] Error: TRADE_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:23:27.437] [error] [micro-app-session] Error: TRADE_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:26:19.962] [info] [app-manager] respond ocbs resources from /opt/Binance/resources/app.asar/resources/app/ocbs
+[2021-11-26 01:26:19.976] [info] [app-manager] load v1.0.0 of ocbs
+[2021-11-26 01:26:20.372] [info] [DnsPool] resolve4 log.bntrace.com get resolver
+[2021-11-26 01:26:20.637] [info] [DnsPool] resolve4 log.bntrace.com success
+[2021-11-26 01:26:20.638] [info] [DnsPool] resolve6 log.bntrace.com get resolver
+[2021-11-26 01:26:20.692] [info] [DnsPool] resolve6 log.bntrace.com success
+[2021-11-26 01:33:20.157] [info] [App Launch] 
+
+
+██████╗ ██╗███╗   ██╗ █████╗ ███╗   ██╗ ██████╗███████╗
+██╔══██╗██║████╗  ██║██╔══██╗████╗  ██║██╔════╝██╔════╝
+██████╔╝██║██╔██╗ ██║███████║██╔██╗ ██║██║     █████╗  
+██╔══██╗██║██║╚██╗██║██╔══██║██║╚██╗██║██║     ██╔══╝  
+██████╔╝██║██║ ╚████║██║  ██║██║ ╚████║╚██████╗███████╗
+╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
+
+[2021-11-26 01:33:20.160] [info] [App Launch] ----------- App launch ------------
+[2021-11-26 01:33:20.161] [info] [App Launch] App Version: 1.27.0
+[2021-11-26 01:33:20.165] [info] [App Launch] Launch app
+[2021-11-26 01:33:20.243] [info] [MicroAppUpdater] initialize -> updateVersion: 1.1.1 gray: false
+[2021-11-26 01:33:20.705] [info] [App Launch] App Ready
+[2021-11-26 01:33:28.163] [info] [app-manager] respond home resources from /opt/Binance/resources/app.asar/resources/app/home
+[2021-11-26 01:33:28.174] [info] [app-manager] load v1.0.0 of home
+[2021-11-26 01:33:28.186] [error] [micro-app-session] Error: HOME_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:33:28.188] [error] [micro-app-session] Error: HOME_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:33:28.213] [error] [micro-app-session] Error: HOME_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:33:30.961] [info] [MicroAppUpdater] checkForUpdates
+[2021-11-26 01:33:31.003] [info] [DnsPool] resolve4 www.binance.com get resolver
+[2021-11-26 01:33:31.009] [info] [DnsPool] resolve4 www.binance.com success
+[2021-11-26 01:33:31.010] [info] [DnsPool] resolve6 www.binance.com get resolver
+[2021-11-26 01:33:31.045] [info] [DnsPool] resolve6 www.binance.com success
+[2021-11-26 01:33:31.386] [info] [updater] update-not-available
+[2021-11-26 01:33:31.618] [info] [MicroAppUpdater] Compare versions trade-spot -> 1.1.12 - 1.1.12
+[2021-11-26 01:33:31.619] [info] [MicroAppUpdater] Compare versions launchpad -> 1.1.0 - 1.1.0
+[2021-11-26 01:33:31.620] [info] [MicroAppUpdater] Compare versions user-center-margin -> 1.0.35 - 1.0.35
+[2021-11-26 01:33:31.621] [info] [MicroAppUpdater] Compare versions c2c -> 1.0.6 - 1.0.6
+[2021-11-26 01:33:31.621] [info] [MicroAppUpdater] Compare versions savings -> 1.0.11 - 1.0.11
+[2021-11-26 01:33:31.653] [info] [MicroAppUpdater] Compare versions trade-futures -> 1.0.49 - 1.0.49
+[2021-11-26 01:33:31.654] [info] [MicroAppUpdater] No updates found
+[2021-11-26 01:33:31.831] [info] [Binance] no need report fingerPrint
+[2021-11-26 01:33:32.686] [info] [Sentry] Report sentry event
+[2021-11-26 01:33:32.687] [info] [Sentry] {
+  "environment": "production",
+  "extra": {
+    "crashed_process": "browser"
+  },
+  "release": "29d3dcde40c0fa30d438a667feed682a21b3853a",
+  "user": {
+    "ip_address": "{{auto}}"
+  },
+  "exception": {
+    "values": [
+      {
+        "type": "Error",
+        "value": "ResizeObserver loop limit exceeded",
+        "stacktrace": {
+          "frames": [
+            {
+              "colno": 0,
+              "filename": "app:///build/main.html?payload={}#/app/home/en",
+              "function": "?",
+              "in_app": true,
+              "lineno": 0
+            }
+          ]
+        },
+        "mechanism": {
+          "handled": false,
+          "type": "onerror"
+        }
+      }
+    ]
+  },
+  "platform": "javascript",
+  "sdk": {
+    "name": "sentry.javascript.electron",
+    "packages": [
+      {
+        "name": "npm:@sentry/browser",
+        "version": "5.27.6"
+      },
+      {
+        "name": "npm:@sentry/electron",
+        "version": "2.4.0"
+      }
+    ],
+    "version": "2.4.0",
+    "integrations": [
+      "InboundFilters",
+      "FunctionToString",
+      "Console",
+      "Http",
+      "OnUnhandledRejection",
+      "LinkedErrors",
+      "OnUncaughtException",
+      "Electron"
+    ]
+  },
+  "event_id": "a6ab97dc20d64a138193d7e564efceaa",
+  "timestamp": 1637879612.661,
+  "tags": {
+    "version": "1.27.0",
+    "process": "ui",
+    "platform": "Linux",
+    "event_type": "javascript"
+  },
+  "breadcrumbs": [
+    {
+      "0": "["
+    },
+    {
+      "0": "u"
+    },
+    {
+      "0": "n"
+    },
+    {
+      "0": "d"
+    },
+    {
+      "0": "e"
+    },
+    {
+      "0": "f"
+    },
+    {
+      "0": "i"
+    },
+    {
+      "0": "n"
+    },
+    {
+      "0": "e"
+    },
+    {
+      "0": "d"
+    },
+    {
+      "0": "]"
+    },
+    {
+      "timestamp": 1637879607.085,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.087,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.089,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.145,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.148,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.15,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.152,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.154,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.358,
+      "category": "electron",
+      "message": "app.web-contents-created",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.359,
+      "category": "electron",
+      "message": "main.dom-ready",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.388,
+      "category": "electron",
+      "message": "main.load-url",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.383,
+      "category": "navigation",
+      "data": {
+        "from": "/opt/Binance/resources/app.asar/build/main.html?payload=%7B%7D#/app/home/en",
+        "to": "/opt/Binance/resources/app.asar/build/main.html?payload=%7B%7D#/app/home/en"
+      }
+    },
+    {
+      "timestamp": 1637879607.459,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.462,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.464,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.466,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.467,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.47,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.471,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.473,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.475,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.477,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.479,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.491,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/composite/v1/public/marketing/recommend/hotAsset/list?currency=USD_USD&type=2",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879607.505,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/margin/v1/public/isolated-margin/pair/all",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879607.538,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/dapi/v1/exchangeInfo",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879607.551,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/asset/v1/public/asset-service/product/currency",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879607.554,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/fapi/v1/exchangeInfo",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879607.664,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/kyc/v1/public/risk/compliance-notification/notification-list",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879607.668,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/composite/v1/public/market/queryNavigationConfig?currency=USD",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879607.675,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/composite/v1/private/inbox/message-text/select",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879607.681,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/composite/v1/private/asset-service/user-migrate/query-status",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879607.813,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/margin/v1/friendly/margin/symbols",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879607.827,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/futures/v1/private/future/user-data/user-listen-key",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879607.841,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.85,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.86,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.87,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.881,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.885,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.889,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.893,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.895,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.898,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.901,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.905,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.915,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/accounts/v2/private/country/user/restricted",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879607.917,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/margin/v1/private/mbxgateway/user-stream/start",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879607.92,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.926,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.928,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.93,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.932,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.936,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.942,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.945,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.948,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.95,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.954,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.957,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879607.962,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/mbx/v1/private/mbxgateway/user-stream/isolated-margin/start/batch",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879607.964,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/mbx/v1/private/mbxgateway/user-stream/start",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879607.965,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/accounts/v1/private/account/compliance/enforceKycCheck",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879607.976,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/accounts/v1/private/account/user/base-detail",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879608.033,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/fapi/v1/ticker/24hr",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879608.051,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://sensors.binance.cloud/sa.gif?project=binance",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879608.059,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/kyc/v1/friendly/risk/compliance-notification/notification-detail?electronKey=main&currency=USD",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879608.125,
+      "category": "electron",
+      "message": "main.dom-ready",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.37,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/composite/v1/private/inbox/user/token/get",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879608.376,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.377,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.379,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.38,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.382,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.384,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.386,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.392,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.394,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.395,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.396,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.398,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.432,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/accounts/v1/private/account/compliance/homepageCheck",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879608.681,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/asset/v2/public/asset-service/product/get-products?includeEtf=true",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879608.747,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/composite/v2/public/common/config/stub/score?timestamp=1637879607164",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879608.875,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/dapi/v1/ticker/24hr",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879608.878,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.881,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.884,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.889,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.933,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.938,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.941,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.972,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.984,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.993,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879608.999,
+      "category": "electron",
+      "message": "app.remote-get-builtin",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879609.002,
+      "category": "electron",
+      "message": "app.remote-require",
+      "type": "ui"
+    },
+    {
+      "timestamp": 1637879611.218,
+      "category": "xhr",
+      "data": {
+        "method": "POST",
+        "url": "https://www.binance.com/bapi/composite/v1/private/inbox/module/all/select",
+        "status_code": 200
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879611.381,
+      "category": "http",
+      "data": {
+        "method": "GET",
+        "status_code": 200,
+        "url": "https://www.binance.com/bapi/composite/v1/public/common/config/electron/all"
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879611.604,
+      "category": "http",
+      "data": {
+        "method": "POST",
+        "status_code": 200,
+        "url": "https://www.binance.com/bapi/composite/v1/public/market/web/querySyncWebCodeCnfig"
+      },
+      "type": "http"
+    },
+    {
+      "timestamp": 1637879612.323,
+      "category": "xhr",
+      "data": {
+        "method": "GET",
+        "url": "https://www.binance.com/bapi/composite/v1/public/cms/article/list/query?type=1&pageNo=1&pageSize=3",
+        "status_code": 200
+      },
+      "type": "http"
+    }
+  ],
+  "request": {
+    "url": "app:///build/main.html?payload={}#/app/home/en",
+    "headers": {}
+  },
+  "contexts": {
+    "app": {
+      "app_name": "Binance",
+      "app_version": "1.27.0"
+    },
+    "browser": {
+      "name": "Chrome"
+    },
+    "chrome": {
+      "name": "Chrome",
+      "type": "runtime",
+      "version": "89.0.4389.128"
+    },
+    "device": {
+      "arch": "x64",
+      "family": "Desktop"
+    },
+    "node": {
+      "name": "Node",
+      "type": "runtime",
+      "version": "14.16.0"
+    },
+    "os": {
+      "kernel_version": "5.14.18-300.fc35.x86_64",
+      "name": "Fedora",
+      "version": "35"
+    },
+    "runtime": {
+      "name": "Electron",
+      "version": "12.0.7"
+    },
+    "electron": {
+      "crashed_process": "main",
+      "crashed_url": "app:///build/main.html?payload={}#/app/home/en"
+    }
+  }
+}
+[2021-11-26 01:33:38.757] [info] [app-manager] respond main-exchange resources from /opt/Binance/resources/app.asar/resources/app/main-exchange
+[2021-11-26 01:33:38.759] [info] [app-manager] load v1.0.0 of main-exchange
+[2021-11-26 01:33:45.927] [info] [app-manager] respond trade-spot resources from /home/nik/.config/Binance/microApps/trade-spot-v1.1.12
+[2021-11-26 01:33:45.929] [info] [app-manager] load v1.1.12 of trade-spot
+[2021-11-26 01:33:45.936] [error] [micro-app-session] Error: TRADE_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:33:45.940] [error] [micro-app-session] Error: TRADE_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:33:51.210] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 8509
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-11-26 01:34:21.274] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 8509
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-11-26 01:34:51.349] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 8509
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-11-26 01:35:21.414] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 8509
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-11-26 01:35:51.458] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 8509
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-11-26 01:36:16.929] [info] [app-manager] respond user-center-dashboard resources from /opt/Binance/resources/app.asar/resources/app/user-center-dashboard
+[2021-11-26 01:36:16.931] [info] [app-manager] load v1.0.0 of user-center-dashboard
+[2021-11-26 01:36:16.940] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:36:16.943] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:36:21.526] [error] [Performance] Error: Command failed: /usr/bin/ps -o pid=,ppid=,pcpu=,pmem=,command= -g 8509
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at ChildProcess.EventEmitter.emit (domain.js:467:12)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)
+[2021-11-26 01:36:37.373] [info] [app-manager] respond user-center-fiat resources from /opt/Binance/resources/app.asar/resources/app/user-center-fiat
+[2021-11-26 01:36:37.376] [info] [app-manager] load v1.0.0 of user-center-fiat
+[2021-11-26 01:36:37.385] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:36:37.389] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:38:20.164] [info] [DnsPool] resolve4 log.bntrace.com get resolver
+[2021-11-26 01:38:20.211] [info] [DnsPool] resolve4 log.bntrace.com success
+[2021-11-26 01:38:20.212] [info] [DnsPool] resolve6 log.bntrace.com get resolver
+[2021-11-26 01:38:20.290] [info] [DnsPool] resolve6 log.bntrace.com success
+[2021-11-26 01:39:58.884] [info] [app-manager] respond user-center-wallet resources from /opt/Binance/resources/app.asar/resources/app/user-center-wallet
+[2021-11-26 01:39:58.887] [info] [app-manager] load v1.1.0 of user-center-wallet
+[2021-11-26 01:39:58.904] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:39:58.908] [error] [micro-app-session] Error: USER_CENTER_STATIC_HOST not a valid app name
+    at le.enableToModifyAppPath.resolveAppFile (/opt/Binance/resources/app.asar/build/main.js:1:2610801)
+    at Function.<anonymous> (/opt/Binance/resources/app.asar/build/main.js:1:2613535)
+[2021-11-26 01:43:13.137] [info] [DnsPool] resolve4 log.bntrace.com get resolver
+[2021-11-26 01:43:13.197] [info] [DnsPool] resolve4 log.bntrace.com success
+[2021-11-26 01:43:13.198] [info] [DnsPool] resolve6 log.bntrace.com get resolver

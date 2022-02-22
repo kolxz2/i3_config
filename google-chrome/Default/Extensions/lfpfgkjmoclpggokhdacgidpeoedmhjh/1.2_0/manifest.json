@@ -1,0 +1,30 @@
+{
+   "author": "Artex",
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.static.js", "background.js", "tracking.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/linkedin19.png",
+         "38": "images/linkedin38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Доступ к LinkedIn"
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "Надежный доступ к linkedin.com для граждан РФ",
+   "differential_fingerprint": "1.1eab69bdee9374fbab8f6fb8a77b995d46cabaea95a67885f7565a94879847ba",
+   "icons": {
+      "128": "images/linkedin128.png",
+      "16": "images/linkedin16.png",
+      "48": "images/linkedin48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuXBqRbV4jMDX4az1IM4H4JpgbXYYqCaQj6ggZd4ljrfjKHhVSJWv2PTuz7DFSAEEEnyyAKMCbEt2qqf/an5/2KHUpNIgh94MgvQhny0hMSUQiwbr8tKnNM6WZW899kTfM/C5ycoV1ger3umEwtt33y7ZRSrq6lcWVLkqfRQd+BDEVvRO4qgIxGnLWMf6qaU9GOI8VU/oB+uS4mUA2mDYsEsBSXlEtVIIph7EccCkfUby4vIBCg/QfeLDw7PoQsGXM8HLw+P4QnLYsnnv2DAo5/C4tEHFektwmZ4CFrExHs6h7NOGidQyWn602DnaUEUHaclOQtAjY+LtlpCnXrca2QIDAQAB",
+   "manifest_version": 2,
+   "name": "Доступ к LinkedIn",
+   "permissions": [ "proxy", "activeTab", "browsingData", "http://linkedin.com/healthz" ],
+   "short_name": "dostup_linkedin",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

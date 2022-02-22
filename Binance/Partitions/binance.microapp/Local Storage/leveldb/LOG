@@ -1,0 +1,5 @@
+2021/11/26-01:33:20.917 2161 Reusing MANIFEST /home/nik/.config/Binance/Partitions/binance.microapp/Local Storage/leveldb/MANIFEST-000001
+2021/11/26-01:33:20.918 2161 Recovering log #10
+2021/11/26-01:33:20.927 2161 Level-0 table #13: started
+2021/11/26-01:33:21.240 2161 Level-0 table #13: 186452 bytes OK
+2021/11/26-01:33:21.447 2161 Delete type=0 #10

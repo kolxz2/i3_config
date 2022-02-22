@@ -1,0 +1,6 @@
+2021/10/22-10:39:07.254 169f Creating DB /home/nik/.config/google-chrome/Default/IndexedDB/https_zavistnik.com_0.indexeddb.leveldb since it was missing.
+2021/10/22-10:39:07.376 169f Reusing MANIFEST /home/nik/.config/google-chrome/Default/IndexedDB/https_zavistnik.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/22-10:39:12.617 167d Level-0 table #5: started
+2021/10/22-10:39:12.650 167d Level-0 table #5: 556 bytes OK
+2021/10/22-10:39:12.688 167d Delete type=0 #3
+2021/10/22-10:39:12.688 167d Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

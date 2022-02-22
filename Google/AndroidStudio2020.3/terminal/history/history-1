@@ -1,0 +1,960 @@
+sudo yum update
+restart
+sudo restart
+sudo yum install pycharm
+sudo snap install pycharm-community
+sudo yum install snap
+sudo dnf install snap
+sudo dnf install snapd
+sudo snap install pycharm-community
+sudo ln -s /var/lib/snapd/snap /snap
+sudo snap install snap-store
+sudo snap install pycharm-community
+sudo yum install g++
+sudo dnf install eclipse-cdt packages
+sudo dnf install eclipse
+sudo yum update
+sudo dnf install eclipse-cdt packages
+sudo dnf install eclipse-cdt
+sudo dnf install eclipse-egit
+sudo dnf install eclipse-egit-github
+eclipse 
+sudo dnf install i3 
+sudo snap install pycharm-community --classic
+pycharm-community 
+cd Downloads/
+tar xvf sqlitestudio-3.3.3.tar.xz 
+cd SQLiteStudio/
+./configure
+make
+sudo make install
+sudo dnf install sqlite
+sudo dnf install sqlite-devel sqlite-tcl sqlite-jdbc
+sudo dnf install sqlite-devel sqlite-tcl
+sudo yum install  libsqlite3-dev
+sudo dnf install sqlite-dev
+sudo dnf install sqlitebrowser
+sudo yum remove sqlitebrowser.x86_64 
+sudo snap remove pycharm-community 
+sudo dnf install sqlitestudio
+sudo yum install sqlitestudio
+sudo snap install pycharm-community
+dnf install chromium
+sudo dnf install chromium
+sudo dnf instaall chrome
+sudo dnf install google-chrome
+sudo dnf install google-chrome-stable
+sudo dnf install fedora-workstation-repositories
+sudo dnf config-manager --set-enabled google-chrome
+sudo dnf install google-chrome-stable
+chromium-common-93.0.4577.63-1.fc34.x86_64 
+dnf copr enable fuhrmann/i3-gaps
+sudo dnf copr enable fuhrmann/i3-gaps
+sudo dnf install i3-gaps
+dnf remove i3
+sudo dnf remove i3
+[200~dnf copr enable fuhrmann/i3-gaps~
+sudo dnf copr enable fuhrmann/i3-gaps
+sudo dnf install i3-gaps
+pycharm-community 
+sudo dnf install MC
+sudo dnf install -y mc
+mc
+7
+10
+mc
+sudo dnf in gcc
+df -h output
+sudo df -h output
+dnf install df
+sudo dnf install df
+df -h
+ls . | grep qt
+chmod +x ./qt*.run
+sudo ./qt*.run
+ls . | grep qt
+chmod +x ./qt*.run
+sudo ./qt*.run
+cd Downloads/
+ls . | grep qt
+chmod +x ./qt*.run
+sudo ./qt*.run
+sudo snap install zoom-client
+zoom-client 
+cd workspace/
+lc
+cs
+ls
+cd Stack/
+cd src/
+ls
+./Stack
+./Stack.c
+./Stack
+cd Dow
+cd Downloads/
+ls . | grep qt
+chmod +x ./qt*.run
+sudo ./qt*.run
+ls . | grep qt
+chmod +x ./qt*.run
+sudo ./qt*.run
+eclipse 
+sudo dnf install emacs
+sudo dnf install vim
+emacs
+torbrowser-launcher 
+tor
+pip intall webbrowser
+pycharm-community 
+pip intall selenium
+pip install selenium
+selenium -V
+pip install selenium
+sudo pip install selenium
+sudo pip install tbselenium
+cd ~/
+dir
+tar -xvzf geckodriver-v0.30.0-linux64.tar.gz 
+sudo chown -R root:root /tmp/geckodriver*
+sudo mv /tmp/geckodriver* /opt/geckodriver
+sudo mk /tmp/geckodriver* /opt/geckodriver
+sudo mv /tmp/geckodriver* /opt/geckodriver
+sudo ln -s /opt/geckodriver/geckodriver /usr/local/bin/geckodriver
+sudo chown -R root:root /tmp/tor-browser*
+sudo chmod +xr root:root /tmp/tor-browser*
+pycharm-community 
+cd ..
+cd opt/
+dir
+sudo mkdir geckodriver 
+tor
+cd..
+cd ..
+cd usr/local/bin/
+dir
+cd ../..
+cd ..
+cd path/to
+sudo dnf install torbrowser-launcher
+torbrowser-launcher 
+sudo service tor restart
+sudo dnf install pgadmin4
+sudo dnf update
+sudo dnf install postgresql-server postgresql-contrib
+sudo yum install pgadmin4
+sudo yum install pgadmin4-desktop
+sudo rpm -i https://ftp.postgresql.org/pub/pgadmin/pgadmin4/yum/pgadmin4-fedora-repo-2-1.noarch.rpm
+sudo dnf -y install pgadmin4
+sudo -u postgres psql
+dir
+cd Documents/
+sudo -u postgres psql
+sudo rebut
+sudo reboot
+sudo -u postgres psql
+sudo postgresql-setup initdb
+sudo systemctl start postgresql
+sudo su - postgres
+sudo service tor restart
+torbrowser-launcher 
+sudo -S
+sudo dnf install nvim
+vim
+sudo dnf install neovim
+nvim
+fffffffffffff
+jjjjjj
+vim
+nvim
+nvim ./config/nvim/init.vim
+nvim `./config/nvim/init.vim
+:q
+q
+exit
+nvim ~./config/nvim/init.vim
+dif
+dir
+mkdir -p ~/.config/nvim
+dir -a
+cs /.config
+cd /.config
+cd .config
+dir
+cd i3
+ls
+dir
+cd config
+dir -a
+cd config
+cd .config
+terminal 
+torbrowser-launcher 
+sudo dnf install python3.10
+python3 -V
+python -V
+python --vr=ersion
+python --verersion
+python --version
+sudo dnf update
+sudo dnf install python3
+sudo python3.10 -m ensurepip --user
+python3.10 -m pip list
+cd ./config
+cd /.config
+cd .config
+cd nvim/
+vim init.vim
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+nvim
+vim
+nvim
+nvim .config/nvim/init.vim
+sudo nvim .config/nvim/init.vim
+sudo [200~sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+npm install -g pyright
+sudo dnf install nodejs 
+npm -V
+npm install -g pyright
+sudo npm install -g pyright
+[200~sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+sudo sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+nvim .config/nvim/init.vim
+sudo nvim .config/nvim/init.vim
+nvim
+sudo nvim .config/nvim/init.vim
+mkdir tests
+cd tests
+nvim test.py
+cd ..
+sudo nvim .config/nvim/init.vim
+cd tests/
+nvim test.py
+cd ..
+sudo nvim .config/nvim/init.vim
+nivm
+nvim
+sudo nvim .config/nvim/init.vim
+nivm
+nvim
+mkdir .config/nvim/plugged
+emacs
+vnim
+vim
+:q
+emacs
+sudo dnf install qbittorrent
+qbittorrent 
+firefox
+qt
+qtcreator
+qt-creator
+qtcreator
+vim
+sudo dnf update
+cd .config/nvim/
+dir
+mdir colors
+sudo mkdir colors
+dir
+nvim .config/nvim/init.vim 
+sudo nvim .config/nvim/init.vim 
+nvim
+emacs
+ls
+cd Downloads/
+ls
+emacs viewer.html 
+CD ..
+cd ..
+cd .emacs.d/
+ls
+emacs ede-projects.el 
+sudo emacs init.el
+emacs init.el 
+sudo emacs init.el 
+cd ..
+emacs -V
+emacs --v
+cd .config/
+sudo mkdir emacs
+cd emacs/
+sudo emacs init.el
+sudo dnf remove nvim
+sudo dnf remove vim
+sudo yum remove vim
+sudo yum remove nvim
+sudo yum remove neovim
+emacs
+ls -a
+sudo emacs .emacs
+sudo dnf unstall 
+sudo dnf update 
+sudo restart
+sudo reboot
+qtcreator
+python -V
+python3 -V
+firefox 
+chrome-gnome-shell 
+emacs .config/i3/config 
+qtcreator
+emacs .emacs
+sudo emacs .emacs
+sudo snap install telegram-desktop
+telegram-desktop 
+emacs
+sudo emacs
+sudo dnf install feh
+sudo emacs
+sudo emacs .config/i3/config
+sudo eclipse 
+sudo emacs
+sudo mkdir .wallpaper
+sudo cp think_twice.png .wallpaper/ 
+postgres -V
+sudo yum remove postgres
+sudo dnf remove postgres
+sudo dnf install postgresql14-server postgresql14
+sudo yum update postgres
+sudo dnf update postgres
+postgres --l
+postgres -l
+postgres -D
+postgres --config-file
+sudo dnf install python3.10
+python3.10 -m ensurepip --user
+python3.10 -m pip list
+python3.10 -m pip freeze > installed.txt
+python3 -m pip install --user -r installed.txt
+python3 --version
+sudo apt-get update
+sudo dnf update
+sudo dnf install python3
+sudo dnf install --enablerepo=updates-testing python3.10
+python -V
+python3 -V
+python3.10 -V
+sudo yum remove postgresql
+yum remove postgres\*
+sudo yum remove postgres\*
+	
+rm /var/lib/pgsql
+sudo rm /var/lib/pgsql
+sudo rpm -qa | grep postgres
+rpm -qa | grep post
+sudo yum list installed | grep postgres
+yum remove {POSTGRESS-PACKAGE NAME}
+sudo yum remove {POSTGRESS-PACKAGE NAME}
+id
+id postgres 
+post-grohtml 
+yum module list postgreas
+dnf module list python
+dnf module list python3
+yum module list python3
+yum module list python
+sudo dnf update
+dnf module list postgresql
+sudo dnf install -y https://download.postgresql.org/pub/repos/yum/reporpms/F-34-x86_64/pgdg-fedora-repo-latest.noarch.rpm
+sudo dnf install -y postgresql14-server
+sudo dnf install postgresql14-contrib
+sudo /usr/pgsql-14/bin/postgresql-14-setup initdb
+echo $PGDATA /usr/pgsql-14/bin
+echo $PATH 
+echo $PATH /usr/pgsql-14/bin
+sudo postgresql-setup --initdb
+sudo postgresql-14-setup --initbd
+sudo systemctl start postgresql-14.servicel
+sudo systemctl enable postgresql-14.servicel
+sudo systemctl enable postgresql-14
+sudo systemctl start postgresql-14
+sudo systemctl healp
+sudo systemctl help
+sudo systemctl --help
+postgresql-setup --initdb
+sudo su - postgres 
+sudo su - passwd postgres
+sudo su -
+postgresql-setup --initdb
+sudo su - postgres 
+sudo postgresql-setup --initdb
+sudo systemctl start postgresql
+sudo systemctl enable postgresql-14
+sudo systemctl start postgresql-14
+systemctl enable postgresql.service
+systemctl start postgresql.service
+postgresql-setup --initdb
+sudo su -
+su -
+sudo su - root
+tar -xzf postgresql-14.0.tar.gz 
+cd postgresql-14.0/
+./config
+./configure | tail
+./configure --prefix=
+./configure | tail
+make world 
+make
+./configure | tail
+cd src/
+cd ..
+make
+./configure
+make
+sudo make
+make install
+sudo ./configure
+./configure 
+sudo dnf autoremove
+sudo yum autoremove
+cd ..
+cd var/lib/
+ls -a
+cd pgsql/
+ls
+sudo cd pgsql/
+sudo yum remove postgresql
+sudo dnf remove postgresql
+yum remove postgres\*
+sudo yum remove postgres\*
+sudo dnf remove postgres\*
+rm /var/lib/pgsql
+sudo rm /var/lib/pgsql
+su
+su -
+emacs
+su
+su -
+su -fedora21
+su -
+sudo dnf install -y https://download.postgresql.org/pub/repos/yum/reporpms/F-34-x86_64/pgdg-fedora-repo-latest.noarch.rpm
+sudo dnf install -y postgresql14-server
+sudo dnf install -y postgresql14-contrib-14.0-1PGDG.f34.x86_64 
+sudo dnf update
+sudo yum update
+sudo /usr/pgsql-14/bin/postgresql-14-setup initdb
+sudo systemctl enable postgresql-14
+sudo systemctl start postgresql-14
+postgresql-setup --initdb
+sudo postgresql-setup --initdb
+sudo systemctl enable postgresql.service
+sudo systemctl start postgresql.service
+journalctl -xeu postgresql.service
+clean
+clen
+clear
+systemctl start postgresql.service
+sudo su - postgres 
+sudo systemctl start postgresql.service
+service postgresql-14.service restart
+systemctl status 
+/usr/bin/pg_ctl -D /var/lib/pgsql/data -l logfile start
+systemctl status postgresql.service 
+systemctl enable postgresql.service --now
+postgresql-setup --initdb
+rm -rd /var/lib/pgsql/
+sudo rm -rd /var/lib/pgsql/
+sudo dnf install -y postgresql14-server
+sudo dnf update -y postgresql14-server
+su
+sudo su
+dnf module list postgres
+dnf module list postgresql
+psql
+sudo rm -rd usr/
+sudo rm -rd pgsql-14/
+clean
+clead
+clear
+sudo dnf module enable postgresql:13
+sudo dnf install postgresql-server
+sudo dnf install postgresql-contrib
+sudo postgresql-setup --initdb
+sudo systemctl start postgresql
+sudo systemctl enable postgresql
+systemctl status postgresql.service 
+sudo su - postgres 
+sudo su -
+sudo su - postgres
+sudo su - postgres 
+sudo yum install pgadmin4
+sudo -u postgres 
+sudo su - postgres 
+sudo systemctl restart postgresql
+export PATH=/var/lib/pgsql/data:$PATH
+echo PATH
+echo PATH:
+PATH
+pg_config --version
+echo $PATH
+sudo pip install psycopg2
+pip install feng
+sudo dnf install postgresql-devel
+sudo dnf install postgresql14-devel
+sudo dnf install postgresql13-devel
+sudo dnf install postgresql13.4-devel
+sudo dnf install postgresql-libs
+sudo dnf install postgresql13-libs
+echo $PATH
+sudo pip install psycopg2
+[200~yum install postgresql-devel
+clear
+sudo yum install postgresql-devel
+sudo yum install postgresql13-devel
+sudo yum install postgresql13-devel-13.4
+sudo /usr/pgsql-13/bin/postgresql-13-setup initdb
+sudo dnf install -y postgresql13-server
+sudo dnf install postgresql
+dnf info postgresql-devel
+dnf info postgresql13-devel
+sudo dnf remove postgresql13-devel
+sudo dnf install postgresql13-devel
+sudo dnf install postgresql13.4-devel
+sudo dnf install postgresql13-13.4-devel
+sudo dnf install postgresql13-13.4-1PGDG.f34.x86_64
+sudo dnf install postgresql13-devel-13.4-1PGDG.f34.x86_64
+sudo dnf install python3-dev
+sudo dnf install python3
+sudo dnf install python3.9-dev
+sudo pip install psycopg
+sudo dnf install python-dev
+sudo dnf install python3-dev
+sudo yum install python3-dev
+sudo yum install python-dev
+sudo yum install libpq
+sudo yum remove libpq
+sudo dnf install libpq
+sudo dnf update
+sudo dnf install https://download.postgresql.org/pub/repos/yum/13/fedora/fedora-34-x86_64/postgresql13-devel-13.4-1PGDG.f34.x86_64.rpm
+sudo dnf install https://download.postgresql.org/pub/repos/yum/13/fedora/fedora-34-x86_64/postgresql13-13.4-1PGDG.f34.x86_64.rpm
+sudo dnf install https://download.postgresql.org/pub/repos/yum/13/fedora/fedora-34-x86_64/postgresql13-devel-13.4-1PGDG.f34.x86_64.rpm
+sudo dnf install https://download.postgresql.org/pub/repos/yum/13/fedora/fedora-34-x86_64/postgresql13-libs-13.4-1PGDG.f34.x86_64.rpm
+whereis postgresql13-libs-13.4-1PGDG.f34.x86_64
+whereis postgresql13-libs-13.4-1PGDG.f34
+sudo whereis postgresql13-libs-13.4-1PGDG.f34
+sudo whereis postgresql13-libs-13.4-1PGDG
+sudo whereis postgresql13-libs-13
+which postgresql13-libs-13.4-1PGDG.f34.x86_64
+echo $PAYH
+echo $PATH
+export PATH=$PATH:/usr/pgsql-13/bin
+echo $PATH
+sudo pip install psycopg2
+echo $PATH
+pg_config 
+export PATH=$PATH:/usr/pgsql-13/bin
+echo $PATH
+sudo emacs .bashrc 
+sourse .bashrc
+sourse ~/.bashrc
+source ~/.bashrc
+echo $PATH
+sudo pip install psycopg2
+pip uninstall psycopg2 psycopg2-binary
+sudo dnf install libpqxx-devel
+pip install psycopg2 psycopg2-binary
+pip install psycopg2-binary
+sudo dnf install libpq
+sudo dnf install libpq-dev
+sudo dnf install libpq-developer
+sudo yum install postgresql-devel
+sudo cp 
+sudo cp /usr/pgsql-13/include/libpq-fe.h /usr/include/
+export $PATH /usr/pgsql-13/include
+echo $PATH
+echo $0
+echo $1
+source ~/.bashrc
+echo $PATH
+source ~/.bashrc
+source /.bashrc
+source /etc/skel/.bashrc
+echo $PATH
+emacs /etc/skel/.bashrc
+sudo dnf install openssl-devel
+sudo lib/truffle/post_install_hook.sh
+sudo dnf install libpq-dev
+sudo dnf install postgresql-devel
+echo $PATH
+sudo dnf install libpq-devel 
+pg_config
+export PATH=/usr/java/<JDK Directory>/bin:$PATH
+export PATH=/usr/pgsql-13/include/server:$PATH
+echo $PATH
+pip install psycopg2-binary
+pip install psycopg2
+sudo pip install psycopg2
+pg_config --includedir-server
+python setup.py build
+sudo python setup.py build
+sudo python setup.py install
+sudo pip install psycopg2
+echo $PATH
+echo $HOME
+sudo cp /usr/pgsql-13/include/postgres_ext.h /usr/include/
+sudo file
+sudo files
+sudo Files
+sudo cp /usr/pgsql-13/include/* /usr/include/
+sudo cp -d /usr/pgsql-13/include/* /usr/include/
+sudo cp -r /usr/pgsql-13/include/* /usr/include/
+sudo pip install psycopg2
+sudo dnf erase postgresql12-devel-12.0-1PGDG.f30.x86_64
+sudo dnf update
+sudo pip install psycopg2
+pos
+sudo yum remove postgresql
+sudo yum remove postgres\*
+sudo rm -rd /var/lib/pgsql
+sudo rm -rd /usr/pgsql-13
+sudo dnf module reset postgresql
+dnf module list postgres
+dnf module list postgresql
+sudo dnf module update 
+dnf module update postgres
+sudo dnf module update postgres
+sudo dnf module reset postgres
+sudo dnf module enable postgresql:11
+sudo dnf install postgresql-server
+sudo dnf install postgresql-contrib
+sudo rm -rd /var/lib/pgsql
+sudo yum remove postgresql
+sudo yum remove postgres\*
+sudo dnf install -y https://download.postgresql.org/pub/repos/yum/reporpms/F-34-x86_64/pgdg-fedora-repo-latest.noarch.rpm
+sudo dnf install -y postgresql14-server
+sudo yum install -y postgresql14-server
+dnf module list postgresql
+sudo yum remove postgresql
+sudo yum remove postgres\*
+sudo dnf module remove postgres
+sudo dnf update
+sudo pip install psycopg2
+pg_config --libdir
+echo $PATH
+export PATH=$PATH:/usr/pgsql-13/lib
+echo $PATH
+sudo pip install psycopg2
+sudo pip install psycopg2 -L /usr/pgsql-13/bin/ -lpq
+sudo dnf upgrade --refresh
+sudo dnf autoremove
+sudo dnf install -y https://download.postgresql.org/pub/repos/yum/reporpms/F-34-x86_64/pgdg-fedora-repo-latest.noarch.rpm
+sudo dnf install -y postgresql14-server
+sudo dnf install postgresql13-server
+sudo dnf install postgresql10-server
+sudo dnf -qy module disable postgresql
+sudo dnf -y install postgresql13 postgresql13-server
+sudo dng install postgresql-client
+sudo dnf install postgresql-client
+sudo dnf install postgresql13-client
+sudo dnf install postgresql13-contrib
+sudo dnf install 
+sudo dnf install libpq-devel
+sudo yum install libpq-devel
+sudo /usr/pgsql-13/bin/postgresql-13-setup initdb
+sudo systemctl enable postgresql-13
+sudo systemctl start postgresql-13
+postgresql-setup --initdb
+sudo postgresql-setup --initdb
+systemctl enable postgresql.service
+postgresql-setup --initdb
+export PGDATA=$PGDATA:/usr/pgsql-13/dcrear
+clear
+sudo pip install psycopg2
+sudo pip install psycopg2 --pg-config /usr/pgsql-13/bin/
+python setup.py build_ext --pg-config /usr/pgsql-13/bin/
+sudo python setup.py build_ext --pg-config /usr/pgsql-13/bin/
+setup.py
+sudo emacs setup.py
+sudo python setup.py build_ext --pg-config /usr/pgsql-13/bin/
+sudo pip install psycopg2 
+sudo dnf install python-dev 
+sudo dnf install python3-dev
+sudo dnf install python-devel
+export PATH=/usr/pgsql-13/bin/:$PATH
+sudo pip install psycopg2 
+sudo dnf install libpqxx-devel
+which libpqxx-devel
+pip install psycopg2
+sudo pip install psycopg2
+pip -H
+pip --help
+pip list
+sudo su - postgres pgsql
+sudo su - postgres
+sudo dnf update
+sudo dnf autoremove
+sudo yum install libtool pkgconfig sqlite-devel autoconf automake openssl-devel libpcap-devel pcre-devel rfkill libnl3-devel gcc gcc-c++ ethtool hwloc-devel libcmocka-devel make file expect hostapd wpa_supplicant iw usbutils tcpdump screen zlib-devel
+sudo dnf inastall airmon-ng
+sudo dnf install airmon-ng
+cd Downloads/
+git clone https://github.com/aircrack-ng/aircrack-ng.git
+ls
+cd aircrack-ng/
+./configure
+configure
+./configure
+./configure --with-experimental
+ls
+cd build/
+./configure
+cd ..
+make
+sudo yum install libtool pkgconfig sqlite-devel autoconf automake openssl-devel libpcap-devel pcre-devel rfkill libnl3-devel gcc gcc-c++ ethtool hwloc-devel libcmocka-devel make file expect hostapd wpa_supplicant iw usbutils tcpdump screen zlib-devel
+sudo ./configure
+airodump-ng -c 46:D9:E7:F7:71:6Eairodump-ng -c 46:D9:E7:F7:71:6E^Cbssid [bssid] -w /root/Desktop/ [monitor interface]
+ [bssid] -w /root/Desktop/ [monitor interface]
+sudo airodump-ng wlp19s0
+sudo airodump-ng -c 2 --bssid 18:D6:C7:8F:84:58 -w /root/Desktop/ wlp19s0
+sudo airodump-ng -c 2 --bssid 18:D6:C7:8F:B4:58 -w /root/Desktop/ wlp19s0
+sudo airodump-ng -c 2 -bssid 18:D6:C7:8F:B4:58 -w /root/Desktop/ wlp19s0
+sudo airodump-ng -c 2 --bssid 18:D6:C7:8F:B4:58 -w /root/Desktop/ wlp19s0
+sudo airodump-ng -c 1 --bssid 82:2A:A8:11:89:A1  -w /root/Desktop/ wlp19s0
+sudo airodump-ng -c 11 --bssid 46:D9:E7:F7:73:26  -w /root/Desktop/ wlp19s0
+cd Downloads/aircrack-ng/
+sudo ./configure
+sudo autoreconf -i
+sudo ./configure
+sudo make
+sudo make install
+airmon-ng
+sudo airmon-ng
+sudo airmon-ng start wlp19s0
+sudo airmon-ng wlp19s0mon
+sudo airodump-ng wlan0mon
+sudo airodump-ng wlp19s0mon
+airodump-ng -c 6 -bssid 46:D9:E7:F7:71:6E  -w /root/Desktop/ wlp19s0
+sudo airodump-ng -c 6 -bssid 46:D9:E7:F7:71:6E  -w /root/Desktop/ wlp19s0
+sudo airodump-ng -c 6 --bssid 46:D9:E7:F7:71:6E  -w /root/Desktop/ wlp19s0
+sudo mkdir /root/Desktop
+sudo airodump-ng -c 6 --bssid 46:D9:E7:F7:71:6E  -w /root/Desktop/ wlp19s0
+sudo airmon-ng --help
+sudo airmon-ng stop wlp19s0
+pip install django
+sudo dnf update
+python3 -V
+sudo dnf install python3
+sudo dnf update python3
+cd Downloads/
+ls
+cd тренажер\ планировщик/
+java -jar client/threadscheduler.jar 
+cd client/
+sudo java -jar threadscheduler.jar
+sudo emacs threadscheduler.jar 
+cd Downloads/тренажер\ планировщик/client/
+java -jar threadscheduler.jar 
+clear
+java -jar threadscheduler.jar 
+java -V
+sudo dnf install java
+sudo dnf install jdk
+dnf search openjdk
+sudo dnf search openjdk
+sudo dnf install java-11-openjdk.x86_64
+java --version
+sudo dnf install java-latest-openjdk.x86_64
+ls
+cd Downloads/program/client/
+java -jar threadscheduler.jar 
+git -V
+git --version
+sudo dnf install unrar
+sudp dnf install unrar
+cd Downloads/тренажер\ планировщик/client/
+java -jar threadscheduler.jar -console
+sqlite3 --version
+sudo yum update sqlite
+sudo dnf update
+sudo dnf autoremove
+sqlite3 --help
+sudo dnf remove sqlitebrowser
+sudo snap install sqlitebrowser
+sudo snap remove sqlitebrowser
+sudo dnf install sqlitebrowser
+gcc -o main.c -I/usr/include/postgresql -lpq -std=c99
+ld --help
+ld --includedir
+ld --libdir
+clear
+gcc -o main.c -I/usr/include/postgresql -lxyz -std=c99
+sudo dnf install libtool
+ldconfig -v 
+gcc -o main.c -I/usr/include/postgresql -lpq -std=c99
+gcc -o main.c -I/usr/include/postgresql -std=c99
+gcc -o main.c -I/usr/include/postgresql -lpq -std=c99
+gcc -o main.c -I/usr/include/postgresql -libpq -std=c99
+gcc -o main.c -I/usr/include/postgresql /usr/pgsql-13/lib/libpq.so -std=c99
+sudo dnf inastall libpqxx-dev 
+sudo dnf install libpqxx-dev 
+sudo dnf install libpqxx
+dnf install libpqxx
+sudo dnf install libpqxx
+echo $PATH
+libpqxx
+pg_config --includedir
+pg_config --libdir
+sudo dnf update
+sudo dnf install gnome-extensions-app
+sudo snap install intellij-idea-ultimate --classic
+sudo apt install snapd
+sudo dnf install snapd
+sudo snap install intellij-idea-ultimate --classic
+sudo snap remove intellij-idea-ultimate 
+sudo snap install intellij-idea-community --classic
+sudo -i
+dnf install dnf-plugin-system-upgrade --best
+su -i
+su -
+sudo -i
+mkdir TridingStrategy
+cd TridingStrategy/
+git init
+rpm --rebuilddb
+sudo -i
+python3 -v
+python3 -V
+libreoffice 
+sudo dnf update
+sudo dnf upgrade --refresh
+sudo dnf upgrade-minimal 
+dnf config-manager
+sudo rm /etc/yum.repos.d/google-chrome.repo
+sudo rm /etc/yum.repos.d/google-chrome.repo.rpmnew 
+suodo dnf  update 
+sudo dnf  update 
+sudo rm /etc/yum.repos.d/pgdg-fedora-all.repo~ 
+sudo dnf install vine
+sudo dnf install wine
+sudo dnf update 
+sudo dnf remove vim
+sudo dnf update 
+sudo dnf install wine-stable
+pip install MetaTrader5
+sudo pip install MetaTrader5
+/usr/bin/python3 -m pip install --upgrade pip
+sudo dnf update
+sudo dnf install python3-notebook mathjax sscg
+sudo dnf install gcc python3-devel kernel-headers- $ ( uname -r )
+sudo dnf install gcc python3-devel kernel-headers- 
+sudo dnf install gcc python3-devel
+pip -V
+pip3 -V
+pip3 install --user jupyter 
+jupyter --version 
+jupyter notebook
+pip install pandas
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-2ogheghr.pjd 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-tpv533yx.kiu 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-snxl5wy2.uem 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-0z0ejene.jci 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-g2jqgl31.vqx 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-kk4522i3.bve 
+sudo dnf install code
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-bvrgntfl.52y 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-h0zi5x54.bmb 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-gfr03xxa.lbl 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-pxx1t1hh.5zv 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-dcbaragh.qc5 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-f4tdidc3.3gz 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-n1sz3zqg.z12 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-5bhf1hkp.orv 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-krlrkn2z.nwf 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-pvcipgzj.oa4 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-gwgg3dm0.5gn 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-pbj0j0yh.4rf 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-qm3v10zc.hzw 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-v3djbjo1.uax 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-lg50tols.33t 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-waqjjnwt.ur4 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-jubyqb01.r5n 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-zlzgj4ga.ibt 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-ztgxcx1w.iou 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-ehn0oogq.fnf 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-ixy4niws.ncr 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-k23lt2nf.nsc 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-y2byu0qc.2ec 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-f3yw3tjl.fey 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-yuymdhg1.eiq 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-pkauec0h.bso 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-2pjkdp5s.3jm 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-nj14crwy.alb 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-yvk4s1pb.vle 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-kdxpdsd5.orz 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-mpwclnh2.aal 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-1zzbwk4b.n5z 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-vulmnsna.mtc 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-ixlu3kmr.ahe 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-wxaaagjs.wps 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-2kkjowvu.gzh 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-hddc503g.bgc 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-gmjf2mos.geq 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-cygchtzk.3bt 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-hpfeztsa.4qs 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-cvp5djrp.gtt 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-4nkxonzu.rz1 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-odtax3sn.ivh 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-n0colm3s.vqi 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-imy0qg0u.umq 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-xhenj3af.z02 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-scyrwbre.xis 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-1320u5ji.hxe 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-m3rceghu.zbp 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-onquzdao.3fb 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-1jpfwmby.c5e 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-iv1po2cn.50e 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-ysofrsqr.cdi 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-oomwtwra.kg4 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-24eco2e1.kwz 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-ra5gynhp.xs0 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-o4ayst2w.vbk 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-tskrq04o.qo4 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-em5o2rf1.hyk 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-n1eeaeze.cwn 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-dk0fccij.rgg 
+emacs eclipse_preferance.txt
+sudo emacs eclipse_preferance.txt
+dnf install @development-tools
+sudo dnf install @development-tools
+cd Downloads/
+sudo tar -xzf eclipse-inst-jre-linux64.tar.gz -C /opt
+sudo emacs eclipse_preferance.txt 
+sudo dnf update
+sudo dnf autoremove
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-1tnrvpwk.4ju 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-cz2f3ffb.tc5 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-4xwyrtuu.exv 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-cw5pm5mk.2kq 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-lwqag3ha.2n4 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-3q5cwqec.rrz 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-vwuybr1z.rlk 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-pcjhuu43.aks 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-jkcgphdj.o5m 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-kxm2x4xa.x03 
+sudo dnf update
+lspci -v
+./studio.sh
+ls
+dir
+./studio.sh
+studio.sh
+inspect.sh
+./inspect.sh
+fsnotifier
+./studio.sh
+sudo snap install flutter --classic
+mkdir development
+cd development/
+flutter sdk-path
+sudo dnf update
+sudo dnf autoremove
+sudo emacs help/eclipse_preferance.txt
+sudo dnf uptate
+sudo dnf update
+sudo dnf autoremove
+sudo dwnf update
+sudo dnf update

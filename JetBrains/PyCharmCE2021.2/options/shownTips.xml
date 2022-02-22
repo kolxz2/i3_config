@@ -1,0 +1,18 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="CamelPrefixesInNavigationPopups.html" value="1635492309148" />
+        <entry key="DirDiff.html" value="1635661467981" />
+        <entry key="IntroduceVariable.html" value="1636852481464" />
+        <entry key="JoinLines.html" value="1633119150038" />
+        <entry key="Multicursor.html" value="1632399854626" />
+        <entry key="RunConfigFolders.html" value="1636625275545" />
+        <entry key="SearchEverywhere.html" value="1633261745138" />
+        <entry key="Welcome.html" value="1632997764367" />
+        <entry key="find_usages.html" value="1632687305383" />
+        <entry key="local_history.html" value="1632868335679" />
+      </map>
+    </option>
+  </component>
+</application>

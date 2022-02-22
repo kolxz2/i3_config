@@ -1,0 +1,64 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1637782607831" />
+    </e>
+    <e n="ChooseRunConfiguration">
+      <i c="1" l="1637271979338" />
+    </e>
+    <e n="CompileDirty">
+      <i c="4" l="1637781938897" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="11" l="1637782604380" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1637782199297" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1637782221302" />
+    </e>
+    <e n="IdeScriptingConsole">
+      <i c="1" l="1637272964390" />
+    </e>
+    <e n="MakeModule">
+      <i c="1" l="1637272935159" />
+    </e>
+    <e n="NewClass">
+      <i c="1" l="1637782517711" />
+    </e>
+    <e n="NewProject">
+      <i c="1" l="1637782387654" />
+    </e>
+    <e n="Run">
+      <i c="3" l="1637782232112" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1641119183916" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1637271191465" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="1" l="1637782139846" />
+    </e>
+    <e n="com.intellij.execution.impl.NewRunConfigurationPopup$7">
+      <i c="1" l="1637271999252" />
+    </e>
+    <e n="com.intellij.ide.script.RunIdeConsoleAction$1">
+      <i c="1" l="1637272977250" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="7" l="1637782148107" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="8" l="1637782236088" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="2" l="1637782304268" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="8" l="1637782452612" />
+    </e>
+  </component>
+</application>

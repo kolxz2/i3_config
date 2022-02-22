@@ -1,0 +1,6 @@
+2021/09/30-14:17:16.449 43a9 Creating DB /home/nik/.config/google-chrome/Default/IndexedDB/https_m.business-gazeta.ru_0.indexeddb.leveldb since it was missing.
+2021/09/30-14:17:16.551 43a9 Reusing MANIFEST /home/nik/.config/google-chrome/Default/IndexedDB/https_m.business-gazeta.ru_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/30-14:17:17.559 43a9 Level-0 table #5: started
+2021/09/30-14:17:17.657 43a9 Level-0 table #5: 634 bytes OK
+2021/09/30-14:17:17.795 43a9 Delete type=0 #3
+2021/09/30-14:17:17.795 43a9 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

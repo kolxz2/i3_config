@@ -1,0 +1,4 @@
+[2022-01-05 06:12:25.695] [renderer1] [error] [Extension Host] (node:13606) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-01-05 06:12:38.211] [renderer1] [warning] UNRESPONSIVE extension host, 'ms-vscode.cpptools' took 100% of 95.883ms, saved PROFILE here: 'file:///tmp/exthost-a88357.cpuprofile' [{"id":"ms-vscode.cpptools","total":95746,"percentage":100}]
+[2022-01-05 06:12:59.720] [renderer1] [error] [Extension Host] C/C++: Install vsix -- Failed to download VSIX package with proxySupport off

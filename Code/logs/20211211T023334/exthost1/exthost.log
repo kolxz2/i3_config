@@ -1,0 +1,16 @@
+[2021-12-11 02:33:46.099] [exthost] [info] Extension host with pid 86623 started
+[2021-12-11 02:33:46.099] [exthost] [info] Skipping acquiring lock for /home/nik/.config/Code/User/workspaceStorage/ac1e637009352f1c081cc57eee068ce8.
+[2021-12-11 02:33:46.685] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-11 02:33:47.178] [exthost] [info] ExtensionService#_doActivateExtension cschlosser.doxdocgen, startup: false, activationEvent: 'onLanguage:c'
+[2021-12-11 02:33:49.899] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+[2021-12-11 02:33:50.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-11 02:33:50.986] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-11 02:33:54.141] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-11 02:33:54.299] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cmake-tools, startup: true, activationEvent: 'workspaceContainsTimeout:*/CMakeLists.txt,*/*/CMakeLists.txt,*/*/*/CMakeLists.txt'
+[2021-12-11 02:33:54.864] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-11 02:33:55.906] [exthost] [info] Eager extensions activated
+[2021-12-11 02:33:56.302] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-11 02:33:56.406] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-11 02:33:56.633] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-11 02:37:02.821] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-11 02:37:03.846] [exthost] [info] Extension host with pid 86623 exiting with code 0

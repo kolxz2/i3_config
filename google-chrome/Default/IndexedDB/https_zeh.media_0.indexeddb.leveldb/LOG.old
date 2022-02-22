@@ -1,0 +1,6 @@
+2021/10/07-17:36:29.744 1e6a Creating DB /home/nik/.config/google-chrome/Default/IndexedDB/https_zeh.media_0.indexeddb.leveldb since it was missing.
+2021/10/07-17:36:29.829 1e6a Reusing MANIFEST /home/nik/.config/google-chrome/Default/IndexedDB/https_zeh.media_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/07-17:36:33.757 1ebb Level-0 table #5: started
+2021/10/07-17:36:33.790 1ebb Level-0 table #5: 844 bytes OK
+2021/10/07-17:36:33.827 1ebb Delete type=0 #3
+2021/10/07-17:36:33.827 1ebb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

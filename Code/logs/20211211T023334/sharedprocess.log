@@ -1,0 +1,18 @@
+[2021-12-11 02:33:54.835] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-12-11 02:33:55.243] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-12-11 02:33:55.282] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh-edit
+[2021-12-11 02:33:59.021] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh-edit /home/nik/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-ssh-edit-0.68.0
+[2021-12-11 02:33:59.089] [sharedprocess] [info] Extracted extension to /home/nik/.vscode/extensions/.a0b84a22-4f79-412d-b81f-f713b46f5115: ms-vscode-remote.remote-ssh-edit
+[2021-12-11 02:33:59.632] [sharedprocess] [info] Renamed to /home/nik/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.68.0
+[2021-12-11 02:33:59.635] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-ssh-edit
+[2021-12-11 02:33:59.746] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit
+[2021-12-11 02:34:06.317] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/nik/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.12.1
+[2021-12-11 02:34:06.815] [sharedprocess] [info] Downloaded extension: ms-python.python /home/nik/.config/Code/CachedExtensionVSIXs/ms-python.python-2021.12.1559732655
+[2021-12-11 02:34:11.874] [sharedprocess] [info] Extracted extension to /home/nik/.vscode/extensions/.61a64aa4-1d52-4666-8d0a-bd559a0c79c1: ms-python.python
+[2021-12-11 02:34:11.940] [sharedprocess] [info] Renamed to /home/nik/.vscode/extensions/ms-python.python-2021.12.1559732655
+[2021-12-11 02:34:11.946] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-12-11 02:34:11.993] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-12-11 02:34:13.110] [sharedprocess] [info] Extracted extension to /home/nik/.vscode/extensions/.fa163dd5-6e9a-476b-a795-7a5003036abc: ms-python.vscode-pylance
+[2021-12-11 02:34:13.185] [sharedprocess] [info] Renamed to /home/nik/.vscode/extensions/ms-python.vscode-pylance-2021.12.1
+[2021-12-11 02:34:13.188] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-12-11 02:34:13.222] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

@@ -1,0 +1,31 @@
+[2022-01-13 22:49:17.678] [exthost] [info] Extension host with pid 15461 started
+[2022-01-13 22:49:18.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-13 22:49:18.270] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-13 22:49:18.460] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-13 22:49:18.768] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-01-13 22:49:19.054] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-13 22:49:19.421] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-13 22:49:19.605] [exthost] [info] Eager extensions activated
+[2022-01-13 22:49:19.660] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 22:49:19.733] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 22:49:19.770] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 22:49:19.988] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 22:49:23.570] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-13 22:49:23.591] [exthost] [info] Extension host with pid 15461 exiting with code 0
+[2022-01-13 22:49:30.417] [exthost] [info] Extension host with pid 15574 started
+[2022-01-13 22:49:30.418] [exthost] [info] Skipping acquiring lock for /home/nik/.config/Code/User/workspaceStorage/f40fd409dd9d49899fd8c6466139e2ca.
+[2022-01-13 22:49:30.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-13 22:49:30.866] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-13 22:49:30.872] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-13 22:49:31.706] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-01-13 22:49:31.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-13 22:49:31.975] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-13 22:49:33.189] [exthost] [info] Eager extensions activated
+[2022-01-13 22:49:33.192] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 22:49:33.205] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 22:49:33.208] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 22:49:33.292] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-13 22:49:38.844] [exthost] [info] ExtensionService#_doActivateExtension cschlosser.doxdocgen, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-01-13 22:49:41.400] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-01-14 11:28:48.872] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-14 11:28:49.276] [exthost] [info] Extension host with pid 15574 exiting with code 0

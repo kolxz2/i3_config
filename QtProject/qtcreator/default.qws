@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 5.0.1, 2022-01-15T14:18:29. -->
+<qtcreator>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAUAAABMAC8AaABvAG0AZQAvAG4AaQBrAC8AUQBUAHAAcgBvAGoAZQBjAHQAcwAvAHkAcgBlAC8AbQBhAGkAbgB3AGkAbgBkAG8AdwAuAHUAaQAAAAwAAAAAIAAAAAIAAAAAAAAAAAAAAL8AAAABAAAAAAAAAAAAAAAuAAAASgAvAGgAbwBtAGUALwBuAGkAawAvAFEAVABwAHIAbwBqAGUAYwB0AHMALwB5AHIAZQAvAG0AYQBpAG4AdwBpAG4AZABvAHcALgBoAAAADAAAAAAgAAAAAgAAAAAAAAAAAAAAGgAAABgAAAAAAAAAAAAAAB4AAABOAC8AaABvAG0AZQAvAG4AaQBrAC8AUQBUAHAAcgBvAGoAZQBjAHQAcwAvAHkAcgBlAC8AbQBhAGkAbgB3AGkAbgBkAG8AdwAuAGMAcABwAAAADAAAAAAgAAAAAgAAAAEAAAAAAAAAMAAAAAEAAAAAAAAAAQAAAC8AAABQAC8AaABvAG0AZQAvAG4AaQBrAC8AUQBUAHAAcgBvAGoAZQBjAHQAcwAvAEgAZQBsAGwAbwAvAG0AYQBpAG4AdwBpAG4AZABvAHcALgB1AGkAAAAMAAAAACAAAAACAAAAAAAAAAAAAADrAAAAAQAAAAAAAAAAAAAALgAAAFIALwBoAG8AbQBlAC8AbgBpAGsALwBRAFQAcAByAG8AagBlAGMAdABzAC8ASABlAGwAbABvAC8AbQBhAGkAbgB3AGkAbgBkAG8AdwAuAGMAcABwAAAADAAAAAAgAAAAAgAAAAAAAAAAAAAARwAAAAIAAAAAAAAAAAAAADAAAAAFAAAAUgAvAGgAbwBtAGUALwBuAGkAawAvAFEAVABwAHIAbwBqAGUAYwB0AHMALwBIAGUAbABsAG8ALwBtAGEAaQBuAHcAaQBuAGQAbwB3AC4AYwBwAHAAAAAcAG0AYQBpAG4AdwBpAG4AZABvAHcALgBjAHAAcAAAABNDcHBFZGl0b3IuQysrRWRpdG9yAAAAAE4ALwBoAG8AbQBlAC8AbgBpAGsALwBRAFQAcAByAG8AagBlAGMAdABzAC8AeQByAGUALwBtAGEAaQBuAHcAaQBuAGQAbwB3AC4AYwBwAHAAAAAcAG0AYQBpAG4AdwBpAG4AZABvAHcALgBjAHAAcAAAABNDcHBFZGl0b3IuQysrRWRpdG9yAAAAAEoALwBoAG8AbQBlAC8AbgBpAGsALwBRAFQAcAByAG8AagBlAGMAdABzAC8AeQByAGUALwBtAGEAaQBuAHcAaQBuAGQAbwB3AC4AaAAAABgAbQBhAGkAbgB3AGkAbgBkAG8AdwAuAGgAAAATQ3BwRWRpdG9yLkMrK0VkaXRvcgAAAABQAC8AaABvAG0AZQAvAG4AaQBrAC8AUQBUAHAAcgBvAGoAZQBjAHQAcwAvAEgAZQBsAGwAbwAvAG0AYQBpAG4AdwBpAG4AZABvAHcALgB1AGkAAAAaAG0AYQBpAG4AdwBpAG4AZABvAHcALgB1AGkAAAAcRm9ybUVkaXRvci5EZXNpZ25lclhtbEVkaXRvcgAAAABMAC8AaABvAG0AZQAvAG4AaQBrAC8AUQBUAHAAcgBvAGoAZQBjAHQAcwAvAHkAcgBlAC8AbQBhAGkAbgB3AGkAbgBkAG8AdwAuAHUAaQAAABoAbQBhAGkAbgB3AGkAbgBkAG8AdwAuAHUAaQAAABxGb3JtRWRpdG9yLkRlc2lnbmVyWG1sRWRpdG9yAAAAAK0AAAANY3VycmVudGVkaXRvcgAAAEoALwBoAG8AbQBlAC8AbgBpAGsALwBRAFQAcAByAG8AagBlAGMAdABzAC8AeQByAGUALwBtAGEAaQBuAHcAaQBuAGQAbwB3AC4AaAAAACYAQwBwAHAARQBkAGkAdABvAHIALgBDACsAKwBFAGQAaQB0AG8AcgAAACAAAAACAAAAAAAAAAAAAAAaAAAAGAAAAAAAAAAAAAAAHgAAAAA=</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/home/nik/QTprojects/yre/yre.pro</value>
+   <value type="QString">/home/nik/QTprojects/DynamicButton/DynamicButton.pro</value>
+   <value type="QString">/home/nik/QTprojects/Hello/Hello.pro</value>
+   <value type="QString">/home/nik/QTprojects/lists/lists.pro</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/home/nik/QTprojects/lists/lists.pro</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Bookmarks</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList">
+   <valuemap type="QVariantMap">
+    <value type="QString" key="filename">/home/nik/Arrey_founder/mainwindow.cpp</value>
+    <value type="int" key="linenumber">90</value>
+   </valuemap>
+   <valuemap type="QVariantMap">
+    <value type="QString" key="filename">/home/nik/Arrey_founder/mainwindow.cpp</value>
+    <value type="int" key="linenumber">103</value>
+   </valuemap>
+   <valuemap type="QVariantMap">
+    <value type="QString" key="filename">/home/nik/Arrey_founder/mainwindow.cpp</value>
+    <value type="int" key="linenumber">76</value>
+   </valuemap>
+   <valuemap type="QVariantMap">
+    <value type="QString" key="filename">/home/nik/Arrey_founder/mainwindow.cpp</value>
+    <value type="int" key="linenumber">86</value>
+   </valuemap>
+   <valuemap type="QVariantMap">
+    <value type="QString" key="filename">/home/nik/QTprojects/lib_book/main.cpp</value>
+    <value type="int" key="linenumber">45</value>
+   </valuemap>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-DebuggerSeparateWidgetGeometry</variable>
+  <value type="QRect">400x400+0+0</value>
+ </data>
+ <data>
+  <variable>value-DefaultFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-IndividualFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-PanelSplitterState:/home/nik/font_sumbol/font_sumbol.pro:Build</variable>
+  <value type="QByteArray">000000ff0000000100000002000002a60000fa000000000001010000000100</value>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Task.Category.QmlAnalysis</value>
+   <value type="QString">AssetExporter.Export</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>value-Watchers</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Bookmarks</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">DebuggerSeparateWidgetGeometry</value>
+   <value type="QString">DefaultFormats</value>
+   <value type="QString">IndividualFormats</value>
+   <value type="QString">PanelSplitterState:/home/nik/font_sumbol/font_sumbol.pro:Build</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+   <value type="QString">Watchers</value>
+  </valuelist>
+ </data>
+</qtcreator>

@@ -1,0 +1,292 @@
+{
+  "entries": {
+    "static/runtime/main": {
+      "js": [
+        "static/chunks/framework.67266209.js",
+        "static/chunks/commons.84cbec6f.js",
+        "static/runtime/main-4e374a78f54c1a205688.js"
+      ]
+    },
+    "static/runtime/polyfill": {
+      "js": [
+        "static/chunks/commons.84cbec6f.js",
+        "static/runtime/polyfill-84620ca73b3bada8f28b.js"
+      ]
+    },
+    "static/runtime/sentry": {
+      "js": [
+        "static/chunks/commons.84cbec6f.js",
+        "static/runtime/sentry-3de8c82d34c78966d666.js"
+      ]
+    }
+  },
+  "bundles": {
+    "framework": "static/chunks/framework.67266209.js",
+    "static/runtime/main": "static/runtime/main-4e374a78f54c1a205688.js",
+    "static/runtime/polyfill": "static/runtime/polyfill-84620ca73b3bada8f28b.js",
+    "static/runtime/sentry": "static/runtime/sentry-3de8c82d34c78966d666.js"
+  },
+  "chunkRequest": {},
+  "loadble": {
+    "../../components/RWDChat": {
+      "files": [
+        "static/chunks/a29ae703.a03358c0.js"
+      ],
+      "children": [
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        }
+      ]
+    },
+    "../components/Sensors": {
+      "files": [
+        "static/chunks/675.3668989b.js"
+      ],
+      "children": [
+        {
+          "id": "EF0K",
+          "name": "./src/components/Sensors.js"
+        }
+      ]
+    },
+    "./Info": {
+      "files": [
+        "static/chunks/a29ae703.a03358c0.js",
+        "static/chunks/635.dc6b1619.js"
+      ],
+      "children": [
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "szNy",
+          "name": "./src/pagesCom/FiatOrderDetail/Info/index.js"
+        }
+      ]
+    },
+    "/tmp/tmp.sCKqYzTpWD/web/apps/c2c-user-ui/.shuvi/app/core/404?shuvi-route": {
+      "files": [
+        "static/chunks/page-79c1.36cffc18.js"
+      ],
+      "children": [
+        {
+          "id": "tA4v",
+          "name": "./.shuvi/app/core/404.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.sCKqYzTpWD/web/apps/c2c-user-ui/src/pages/AdvDetailTrade?shuvi-route": {
+      "files": [
+        "static/chunks/78537f27.3832cbdb.js",
+        "static/chunks/page-c149.0554f097.js"
+      ],
+      "children": [
+        {
+          "id": "GtyH",
+          "name": "../../node_modules/jquery/dist/jquery.js"
+        },
+        {
+          "id": "+3sl",
+          "name": "./src/pages/AdvDetailTrade.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.sCKqYzTpWD/web/apps/c2c-user-ui/src/pages/AdvEdit?shuvi-route": {
+      "files": [
+        "static/chunks/78537f27.3832cbdb.js",
+        "static/chunks/a29ae703.a03358c0.js",
+        "static/chunks/page-a694.b1326a56.js"
+      ],
+      "children": [
+        {
+          "id": "GtyH",
+          "name": "../../node_modules/jquery/dist/jquery.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "l+79",
+          "name": "./src/pages/AdvEdit.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.sCKqYzTpWD/web/apps/c2c-user-ui/src/pages/FiatOrder?shuvi-route": {
+      "files": [
+        "static/chunks/78537f27.3832cbdb.js",
+        "static/chunks/a29ae703.a03358c0.js",
+        "static/chunks/page-2821.89e93d21.js"
+      ],
+      "children": [
+        {
+          "id": "GtyH",
+          "name": "../../node_modules/jquery/dist/jquery.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "PWG0",
+          "name": "./src/pages/FiatOrder.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.sCKqYzTpWD/web/apps/c2c-user-ui/src/pages/FiatOrderDetail?shuvi-route": {
+      "files": [
+        "static/chunks/78537f27.3832cbdb.js",
+        "static/chunks/page-6cab.49a67058.js"
+      ],
+      "children": [
+        {
+          "id": "GtyH",
+          "name": "../../node_modules/jquery/dist/jquery.js"
+        },
+        {
+          "id": "gYv3",
+          "name": "./src/pages/FiatOrderDetail.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.sCKqYzTpWD/web/apps/c2c-user-ui/src/pages/HistoryOrderDetail?shuvi-route": {
+      "files": [
+        "static/chunks/78537f27.3832cbdb.js",
+        "static/chunks/a29ae703.a03358c0.js",
+        "static/chunks/page-6cde.58147e9c.js"
+      ],
+      "children": [
+        {
+          "id": "GtyH",
+          "name": "../../node_modules/jquery/dist/jquery.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "i2XL",
+          "name": "./src/pages/HistoryOrderDetail.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.sCKqYzTpWD/web/apps/c2c-user-ui/src/pages/MyAds?shuvi-route": {
+      "files": [
+        "static/chunks/78537f27.3832cbdb.js",
+        "static/chunks/a29ae703.a03358c0.js",
+        "static/chunks/page-b4f2.7a5b1855.js"
+      ],
+      "children": [
+        {
+          "id": "GtyH",
+          "name": "../../node_modules/jquery/dist/jquery.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "BVBx",
+          "name": "./src/pages/MyAds.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.sCKqYzTpWD/web/apps/c2c-user-ui/src/pages/PostAd?shuvi-route": {
+      "files": [
+        "static/chunks/78537f27.3832cbdb.js",
+        "static/chunks/a29ae703.a03358c0.js",
+        "static/chunks/2edb282b.e50d7dbf.js",
+        "static/chunks/page-0cb6.c0cdb21b.js"
+      ],
+      "children": [
+        {
+          "id": "GtyH",
+          "name": "../../node_modules/jquery/dist/jquery.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "nsO7",
+          "name": "../../node_modules/lodash/lodash.js"
+        },
+        {
+          "id": "DBpl",
+          "name": "./src/pages/PostAd.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.sCKqYzTpWD/web/apps/c2c-user-ui/src/pages/QuickTrade?shuvi-route": {
+      "files": [
+        "static/chunks/78537f27.3832cbdb.js",
+        "static/chunks/page-371c.caeb4324.js"
+      ],
+      "children": [
+        {
+          "id": "GtyH",
+          "name": "../../node_modules/jquery/dist/jquery.js"
+        },
+        {
+          "id": "XgT2",
+          "name": "./src/pages/QuickTrade.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.sCKqYzTpWD/web/apps/c2c-user-ui/src/pages/appealHistory?shuvi-route": {
+      "files": [
+        "static/chunks/78537f27.3832cbdb.js",
+        "static/chunks/a29ae703.a03358c0.js",
+        "static/chunks/page-4a7a.f533c1a3.js"
+      ],
+      "children": [
+        {
+          "id": "GtyH",
+          "name": "../../node_modules/jquery/dist/jquery.js"
+        },
+        {
+          "id": "wgY5",
+          "name": "../../node_modules/moment/moment.js"
+        },
+        {
+          "id": "PZCw",
+          "name": "./src/pages/appealHistory.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.sCKqYzTpWD/web/apps/c2c-user-ui/src/pages/merchantDetail?shuvi-route": {
+      "files": [
+        "static/chunks/78537f27.3832cbdb.js",
+        "static/chunks/page-ce7d.2ae19abc.js"
+      ],
+      "children": [
+        {
+          "id": "GtyH",
+          "name": "../../node_modules/jquery/dist/jquery.js"
+        },
+        {
+          "id": "XuiJ",
+          "name": "./src/pages/merchantDetail.js?shuvi-route"
+        }
+      ]
+    },
+    "/tmp/tmp.sCKqYzTpWD/web/apps/c2c-user-ui/src/pages/trade?shuvi-route": {
+      "files": [
+        "static/chunks/78537f27.3832cbdb.js",
+        "static/chunks/page-0042.19417143.js"
+      ],
+      "children": [
+        {
+          "id": "GtyH",
+          "name": "../../node_modules/jquery/dist/jquery.js"
+        },
+        {
+          "id": "Anf7",
+          "name": "./src/pages/trade.js?shuvi-route"
+        }
+      ]
+    }
+  }
+}

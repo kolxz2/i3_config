@@ -1,0 +1,13 @@
+[variant] Loaded new set of variants
+[kit] Detected kits definition version change from undefined to 2. Silently scanning for kits.
+[proc] Executing command: /usr/bin/clang -v
+[proc] Executing command: /usr/bin/clang-13 -v
+[proc] Executing command: /usr/bin/gcc -v
+[proc] Executing command: /usr/bin/x86_64-redhat-linux-gcc -v
+[proc] Executing command: /usr/bin/x86_64-redhat-linux-gcc-11 -v
+[kit] Found Kit: Clang 13.0.0 x86_64-redhat-linux-gnu
+[kit] Found Kit: Clang 13.0.0 x86_64-redhat-linux-gnu
+[kit] Found Kit: GCC 11.2.1 x86_64-redhat-linux
+[kit] Found Kit: GCC 11.2.1 x86_64-redhat-linux
+[kit] Found Kit: GCC 11.2.1 x86_64-redhat-linux
+[rollbar] Unhandled exception: Unhandled Promise rejection: Post-folder-open Canceled: Canceled {"folder":{"uri":{"$mid":1,"fsPath":"/home/nik/workspace","external":"file:///home/nik/workspace","path":"/home/nik/workspace","scheme":"file"},"name":"workspace","index":0}}

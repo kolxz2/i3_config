@@ -1,0 +1,7 @@
+2021/10/09-15:53:45.464 2e74 Reusing MANIFEST /home/nik/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/09-15:53:45.465 2e74 Recovering log #3
+2021/10/09-15:53:45.475 2e74 Reusing old log /home/nik/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000003.log 
+2021/10/09-16:23:24.278 36ce Level-0 table #5: started
+2021/10/09-16:23:24.323 36ce Level-0 table #5: 138265 bytes OK
+2021/10/09-16:23:24.359 36ce Delete type=0 #3
+2021/10/09-16:23:24.359 36ce Manual compaction at level-0 from (begin) .. (end); will stop at (end)

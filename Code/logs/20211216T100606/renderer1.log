@@ -1,0 +1,6 @@
+[2021-12-16 10:06:17.573] [renderer1] [error] [Extension Host] (node:21789) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2021-12-16 10:06:18.839] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:7068)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-12-16 10:06:27.015] [renderer1] [warning] UNRESPONSIVE extension host, 'cschlosser.doxdocgen' took 68% of 3188.277ms, saved PROFILE here: 'file:///tmp/exthost-f3d424.cpuprofile' [{"id":"cschlosser.doxdocgen","total":2152652,"percentage":68},{"id":"gc","total":13861,"percentage":0},{"id":"ms-vscode.cpptools","total":305665,"percentage":10},{"id":"self","total":627803,"percentage":20},{"id":"vscode.debug-auto-launch","total":72839,"percentage":2},{"id":"vscode.git-base","total":15232,"percentage":0}]

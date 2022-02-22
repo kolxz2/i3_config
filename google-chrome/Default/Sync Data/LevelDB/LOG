@@ -1,0 +1,15 @@
+2022/01/17-14:10:48.136 14cf Reusing MANIFEST /home/nik/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/01/17-14:10:48.137 14cf Recovering log #366
+2022/01/17-14:10:48.250 14cf Reusing old log /home/nik/.config/google-chrome/Default/Sync Data/LevelDB/000366.log 
+2022/01/17-14:29:23.097 18b3 Level-0 table #370: started
+2022/01/17-14:29:23.174 18b3 Level-0 table #370: 117807 bytes OK
+2022/01/17-14:29:23.253 18b3 Delete type=0 #366
+2022/01/17-14:29:23.253 18b3 Compacting 4@0 + 1@1 files
+2022/01/17-14:29:23.397 18b3 Generated table #371@0: 3180 keys, 183072 bytes
+2022/01/17-14:29:23.397 18b3 Compacted 4@0 + 1@1 files => 183072 bytes
+2022/01/17-14:29:23.473 18b3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/17-14:29:23.474 18b3 Delete type=2 #367
+2022/01/17-14:29:23.474 18b3 Delete type=2 #370
+2022/01/17-14:29:23.474 18b3 Delete type=2 #362
+2022/01/17-14:29:23.474 18b3 Delete type=2 #365
+2022/01/17-14:29:23.474 18b3 Delete type=2 #359
